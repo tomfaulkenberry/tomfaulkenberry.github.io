@@ -1,0 +1,27 @@
+#+TITLE: Publications 
+#+AUTHOR:
+#+OPTIONS: toc:nil num:nil
+
+Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
+
+1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Reversing the manual digit bias in two-digit number comparison. To appear in /Experimental Psychology/
+1. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
+2. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (in press). Visual search for conjunctions of physical and numerical size shows that they are processed independently. To appear in /Journal of Experimental Psychology: Human Perception & Performance/. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
+3. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology, 7/:1915. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
+4. Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. doi: [[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
+5. Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. doi: [[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
+6. Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
+7. Faulkenberry, T. J., Montgomery, S. A., & Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. /Acta Psychologica/, /159/, 100-107. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.05.013][10.1016/j.actpsy.2015.05.013]]
+8. Faulkenberry, T. J., & Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). /Frontiers in Psychology/, /5/:1436. doi: [[http://dx.doi.org/10.3389/fpsyg.2014.01436][10.3389/fpsyg.2014.01436]]
+8. Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. /Canadian Journal of Experimental Psychology/, /68/, 147-151. doi: [[http://dx.doi.org/10.1037/cep0000021][10.1037/cep0000021]]
+9. Faulkenberry, T. J., & Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. /The Rehabilitation Professional/, /22/ (1), 9-16.
+10. Faulkenberry, T. J., & Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. /Oklahoma Journal of School Mathematics/, /5/ (2), 5-14.
+11. Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). /Frontiers in Psychology/, /4/:820. doi: [[http://dx.doi.org/10.3389/fpsyg.2013.00820][10.3389/fpsyg.2013.00820]]
+12. Faulkenberry, T. J., & Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 155-162). Tulsa, OK: RCML
+13. Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 205-212). Tulsa, OK: RCML
+14. Faulkenberry, E. D., & Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), /Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 121-126). Charlotte, NC: RCML.
+15. Faulkenberry, T. J., & Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. /Experimental Psychology/, /58/, 480-489. doi: [[http://dx.doi.org/10.1027/1618-3169/a000116][10.1027/1618-3169/a000116]]
+16. Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) /Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 136-143). Cincinnati, OH: RCML.
+17. Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
+18. Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
+19. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.

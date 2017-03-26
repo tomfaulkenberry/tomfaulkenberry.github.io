@@ -1,0 +1,102 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+## PSYC 3303 -- Educational Psychology
+
+- Professor: Thomas J. Faulkenberry, Ph.D
+- Office: Math 319
+- Office hours: TBA
+- Email: faulkenberry@tarleton.edu
+- Twitter: [tomfaulkenberry](http://twitter.com/tomfaulkenberry)
+- Web: [tomfaulkenberry.github.io](http://tomfaulkenberry.github.io)
+- Phone: 254-968-9816
+
+## Course description
+
+This is not a course on how to teach! Rather, this is a course that will help you make an informed choice about how you teach.
+
+The content of this course will provide you with a broad knowledge of psychological theory and research related to teaching and learning. Specifically addressed are relevant theories, research, and educational applications related to the following topics: the role of research in teaching and learning; cognitive differences; learners with exceptionalities; cultural and community influences on learners and education; behavioral approaches to learning; cognitive views of learning and the application of cognitive theory to the classroom; social cognitive theory; constructivist views of teaching and learning; theories of motivation and motivating learners.
+
+I approach psychology as a practicing scientist. To me, psychological science provides models that help to understand and predict human behavior. This perspective is one of the primary guiding forces behind how I approach my lectures, class discussions, and out-of-class assignments.
+
+## Course materials
+
+No one specific textbook is required for this course.  Unit readings will be placed on Blackboard.
+
+## Student learning outcomes
+
+1. Describe how psychological theories and models are applied to classrooms, learners, teachers, and education 
+2. Describe how variations in development, culture, and community influence learners 
+3. Apply behaviorist, cognitive, and social learning principles to classroom instruction and management
+
+
+## Requirements and grading
+
+- Exam 1 (60 pts)
+- Exam 2 (100 pts)
+- Exam 3 (150 pts)
+- Unit quizzes (90 pts)
+- Writing assignment (100 pts)
+- *Total = 500 points*
+
+Grades will be assigned based on the percentage of points you accumulate out of these 500 points.  I will use the standard grading scale of A=90%, B=80%, etc.
+
+### Exams (62% of grade)
+
+There will be three total exams throughout the semester, covering material from specified course units. Exam questions will be primarily multiple choice with occasional short answer questions.  
+
+Dates:
+
+- Exam 1 (Wednesday, June 15)
+- Exam 2 (Friday, June 24)
+- Exam 3 (Wednesday, July 6)
+
+### Unit quizzes (18% of grade)
+
+At the conclusion of every unit, you will complete a short multiple choice quiz over the unit’s content. There will be 9 such quizzes, each worth 10 points (or 2%) toward your total grade.
+
+### Writing assignment (20% of grade)
+
+The goal of this assignment is that you process research findings in one topic of educational psychology at a deep level, relating concepts and developing a personal understanding. This will provide you an opportunity to explore psychological issues related to education that are relevant to your own learning goals and will provide a more thorough background through which you can think psychologically about issues that are important to you. More information is available on Blackboard.
+
+## Course Communication
+
+I am your primary resource for this course. I AM an experimental psychologist, so I do the stuff I teach about daily. Hence, my primary interest is for you to learn this material and do well in the course. You may contact me using any means necessary (email and Twitter are the best). That being said, many people prefer to use Blackboard messages. I don’t mind these, but keep in mind that I may not receive your message until I actually open Blackboard. With email/Twitter, if you send me a message at 9:00 pm, I may actually respond pretty quickly. 
+
+## University Policy on "F" Grades
+
+Beginning in Fall 2015, Tarleton will begin differentiating between a failed grade in a class because a student never attended (F0 grade), stopped attending at some point in the semester (FX grade), or because the student did not pass the course (F) but attended the entire semester. These grades will be noted on the official transcript. Stopping or never attending class can result in the student having to return aid monies received.  For more information see the Tarleton Financial Aid website.
+
+## Academic Honesty
+
+Cheating, plagiarism (submitting another person’s materials or ideas as one’s own), or doing work for another person who will receive academic credit are all disallowed. This includes the use of unauthorized books, notebooks, or other sources in order to secure of give help during an examination, the unauthorized copying of examinations, assignments, reports, or term papers, or the presentation of unacknowledged material as if it were the student’s own work. Disciplinary action may be taken beyond the academic discipline administered by the faculty member who teaches the course in which the cheating took place.
+
+In particular, any exam taken online must be completed without the aid of any unauthorized resource (including using any search engine, Google, etc.).  Authorized resources are limited only to the official textbook and any lecture notes from the course.  Any other authorized resources will be provided to you before the exam.  The minimum sanction for violation of this policy is a grade of 0 on the affected exam.
+
+## Students with Disabilities Policy
+
+It is the policy of Tarleton State University to comply with the Americans with Disabilities Act (ADA) and other federal, state, and local laws relative to the provision of disability services. Students with disabilities attending Tarleton State University may contact the Office of Disability Services at (254) 968-9478 to request appropriate accommodation. Furthermore, formal accommodation requests cannot be made until the student has been officially admitted to Tarleton State University.
+
+
+**Note:  any changes to this syllabus will be communicated to you by the instructor!**
+
+## Semester schedule
+
+Unit | Topics   | Due date
+---- | -------- | --------
+1 | Piaget and infant cognition | Friday, June 10
+2 | Vygotsky and language | Monday, June 13
+. | **Exam 1** | **Wednesday, June 15**
+3 | Intelligence: definition and measurement | Friday, June 17
+4 | Intelligence: individual differences | Monday, June 20
+5 | Memory and cognition | Wednesday, June 22
+. | **Exam 2** | **Friday, June 24**
+6 | Learning: classical conditioning | Monday, June 27
+7 | Learning: operant conditioning | Wednesday, June 29
+8 | Motivation and emotion | Friday, July 1
+9 | Social cognitive theory of learning | Monday, July 4
+. | **Exam 3** | **Wednesday, July 6**
+
+Note: all quizzes and exams must be completed by 11:59 pm on their due date.

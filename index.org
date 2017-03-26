@@ -1,0 +1,35 @@
+#+TITLE:
+#+AUTHOR:
+#+OPTIONS: toc:nil num:nil
+
+* Thomas J. Faulkenberry, Ph.D.
+
+Assistant Professor\\
+Department of Psychological Sciences\\
+Tarleton State University\\
+Stephenville, TX  76402\\
+
+#+HTML: <img src="photo.jpg" />
+
+** Contact info
+- Office: Math 319
+- Email: faulkenberry at tarleton.edu
+- Twitter: [[http://twitter.com/tomfaulkenberry][@tomfaulkenberry]]
+- Phone: +1 254-968-9816
+- Mailing address: Box T-0820, Tarleton State University, Stephenville, TX  76402
+
+** Research
+- CV [[file:research/vita.html][(html)]] [[file:research/vita.pdf][(pdf)]]
+- [[file:research/papers.html][Papers]]
+- [[https://www.researchgate.net/profile/Thomas_Faulkenberry][ResearchGate]]
+- [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
+  
+** Teaching
+Spring 2017
+- PSYC 3330 - Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3330/psyc3330-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3330/psyc3330-spring2017.pdf][pdf]])
+- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435/psyc3435-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435/psyc3435-spring2017.pdf][pdf]])
+- PSYC 3435 - Principles of Research for the Behavioral Sciences (online) ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435online/psyc3435-spring2017-online.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435online/psyc3435-spring2017-online.pdf][pdf]])
+- PSYC 5301 - Research Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc5301/psyc5301-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc5301/psyc5301-spring2017.pdf][pdf]])
+
+
+#+HTML: <br><br><br><br>

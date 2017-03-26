@@ -1,0 +1,122 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+## PSYC 3435 - Principles of Research for the Behavioral Sciences
+
+- Professor: Thomas J. Faulkenberry, Ph.D
+- Office: Math 319
+- Office hours: MTWRF 1:30-3:00 pm; TR 10:00-11:30 am
+- Email: faulkenberry@tarleton.edu
+- Twitter: [tomfaulkenberry](http://twitter.com/tomfaulkenberry)
+- Phone: 254-968-9816
+
+## Course description
+
+This laboratory course is designed to introduce students to the philosophy of scientific inquiry with an emphasis on experimental methodology. This will be accomplished via a combination of traditional lectures along with an application of principles through laboratory experimentation and demonstration. Essentially, we will cover the "nuts and bolts" of putting together and completing a research project in psychology. To this end, we will cover all fourteen chapters of the textbook. All students enrolled in this course are required to have **previously taken** PSYC 3309 (Writing in Psychology) and PSYC 3330 (Statistics). 
+
+## Course materials
+
+- The Process of Research in Psychology (2nd ed.) by McBride (2013) [(Amazon link)](http://www.amazon.com/Process-Research-Psychology-Dawn-McBride/dp/1412999553/)
+- APA Publication Manual (6th ed.) [(Amazon link)](http://www.amazon.com/Publication-Manual-American-Psychological-Association/dp/1433805618/)
+- JASP statistical software (free download from [jasp-stats.org](http://jasp-stats.org))
+
+
+## Student learning outcomes
+
+1.  Describe advantages of the scientific method compared to other approaches
+2.	Identify various research designs and uses of each
+3.	Conduct library research
+4.	Paraphrase and cite material from primary sources 
+5.	Develop a research question and write hypotheses appropriate for it
+6.	Design and conduct a research project to test hypotheses
+7.	Analyze data collected from research using computer software
+8.	Communicate the findings of research as a complete APA style manuscript
+
+
+## Requirements and grading
+
+- Exam 1 (100 pts)
+- Exam 2 (100 pts)
+- Exam 3 (100 pts)
+- Unit quizzes (100 pts)
+- Lab assignments (100 pts)
+- *Total = 500 points*
+
+Grades will be assigned based on the percentage of points you accumulate out of these 500 points.  I will use the standard grading scale of A=90%, B=80%, etc.
+
+### Exams (60% of grade)
+
+There will be three exams throughout the semester.  Exams are due by 11:59 pm on the due date.  Each exam will have a time limit and may only be attempted once.  Note that the final exam (Exam 3) is comprehensive.
+
+Exam dates:
+
+- Exam 1 (Chapters 1,2,3,5,8), due Friday, February 26
+- Exam 2 (Chapters 4,6,11)	Friday, April 8
+- Exam 3 (Chapters 1-14)	Friday, April 29
+
+
+### Unit quizzes (20% of grade)
+
+At the completion of each unit, there will be a short quiz covering the main content.  Each quiz is worth 10 points (for a total of 100 possible quiz points for the semester).  Each quiz will be timed and may only be attempted once, and is due by 11:59 pm on the due date.
+
+
+### Lab assignments (20% of grade)
+
+There will be four lab assignments this semester.  Each assignment is designed to give you first hand experience with essential research skills, such as conducting an experiment, collecting data, and writing up an APA manuscript.  Except for Lab 1 (an APA exercise), each of you will administer a short experiment, collect some data, analyze the collected data for the class, and compose an APA manuscript based on the experiment and the results. 
+
+Lab Assignments and dates
+
+- Lab 1 – APA formatting (10 points), due Monday, Jan 25
+- Lab 2.1 – Correlational design, data collection (10 points), due Monday, Feb 1
+- Lab 2.2 – Correlational design, analysis and report (20 points), due Monday, Feb 15
+- Lab 3.1 – Independent groups design, data collection (10 points), due Monday, Feb 22
+- Lab 3.2 – Independent groups design, analysis and report (20 pts.), due Monday, Mar 14
+- Lab 4.1 – Factorial design, data collection (10 points), due Monday, Apr 4
+- Lab 4.2 – Factorial design, analysis and report (20 points), due Monday, Apr 18
+
+
+## Course Communication
+
+I am your primary resource for this course. I AM an experimental psychologist, so I do the stuff I teach about daily. Hence, my primary interest is for you to learn this material and do well in the course. You may contact me using any means necessary (email and Twitter are the best). That being said, many people prefer to use Blackboard messages. I don’t mind these, but keep in mind that I may not receive your message until I actually open Blackboard. With email/Twitter, if you send me a message at 9:00 pm, I may actually respond pretty quickly. 
+
+## University Policy on "F" Grades
+
+Beginning in Fall 2015, Tarleton will begin differentiating between a failed grade in a class because a student never attended (F0 grade), stopped attending at some point in the semester (FX grade), or because the student did not pass the course (F) but attended the entire semester. These grades will be noted on the official transcript. Stopping or never attending class can result in the student having to return aid monies received.  For more information see the Tarleton Financial Aid website.
+
+## Academic Honesty
+
+Cheating, plagiarism (submitting another person’s materials or ideas as one’s own), or doing work for another person who will receive academic credit are all disallowed. This includes the use of unauthorized books, notebooks, or other sources in order to secure of give help during an examination, the unauthorized copying of examinations, assignments, reports, or term papers, or the presentation of unacknowledged material as if it were the student’s own work. Disciplinary action may be taken beyond the academic discipline administered by the faculty member who teaches the course in which the cheating took place.
+
+In particular, any exam taken online must be completed without the aid of any unauthorized resource (including using any search engine, Google, etc.).  Authorized resources are limited only to the official textbook and any lecture notes from the course.  Any other authorized resources will be provided to you before the exam.  The minimum sanction for violation of this policy is a grade of 0 on the affected exam.
+
+## Tarleton's Spring Service Week
+
+In support of Tarleton’s core value of service, each student is expected to participate in a service learning experience as a part of the Spring term week of service (April 4-8).  This experience will challenge students to be engaged in the local community, address a community need, connect course objectives to the world around you, and involve structured student reflection. In this service learning experience you will not only enhance your knowledge and skills, but actively use those skills as you serve your community.
+
+## Students with Disabilities Policy
+
+It is the policy of Tarleton State University to comply with the Americans with Disabilities Act (ADA) and other federal, state, and local laws relative to the provision of disability services. Students with disabilities attending Tarleton State University may contact the Office of Disability Services at (254) 968-9478 to request appropriate accommodation. Furthermore, formal accommodation requests cannot be made until the student has been officially admitted to Tarleton State University.
+
+
+**Note:  any changes to this syllabus will be communicated to you by the instructor!**
+ 
+## Semester schedule
+
+Unit | Dates     | Topic
+---- | --------- | -------------------------------------------------------
+0 | Jan 11-22 | Statistics review
+1 | Jan 25-29 | Knowing in psychological science
+2 | Feb 1-5 | Reading the literature / APA style
+3 | Feb 8-12 | Basic research methods
+4 | Feb 15-19 | Ethics in psychological science
+. | Feb 22-26 | **Exam 1 (due Feb 26)**
+5 | Feb 29-Mar 4 | Experiments: selecting and manipulating variables
+. | Mar 7-11 | **Spring Break!**
+6 | Mar 14-18 | Experiments: sampling methods
+7 | Mar 21-Apr 1 | Experiments: classic designs  
+. | Apr 4-8 | **Exam 2 (due April 8)**
+8 | Apr 11-15 | Non-experiments: survey and correlational designs
+9 | Apr 18-22 | Non-experiments: quasiexperiments and developmental designs 
+. | Apr 25-29 | **Exam 3 (due April 29)**

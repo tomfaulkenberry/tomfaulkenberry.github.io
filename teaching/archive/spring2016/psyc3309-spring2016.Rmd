@@ -1,0 +1,111 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+## PSYC 3309 - Writing in Psychology
+
+- Professor: Thomas J. Faulkenberry, Ph.D
+- Office: Math 319
+- Office hours: MTWRF 1:30-3:00 pm; TR 10:00-11:30 am
+- Email: faulkenberry@tarleton.edu
+- Twitter: @tomfaulkenberry
+- Website: http://tomfaulkenberry.github.io
+- Phone: 254-968-9816
+
+## Course description
+
+Writing is one of the primary forms of communication in scientific disciplines, and this certainly applies to the field of psychology.  This course is designed to make you a better writer.  We will accomplish this through lectures on writing style and format, in-class practice with writing and editing, and a semester-long project which will culminate in a comprehensive literature review and presentation.  
+
+The approach that I take to teaching such "tools" courses as writing, statistics, research, etc. is one of sustained practice.  In order to become a better writer, one needs to practice. Through the activities that I have planned for the class, you will get a lot of hands-on experience in writing and communicating clearly, each of which is a skill that will help in a variety of future endeavors.
+
+The format of the class is simple.  We meet three days per week (MWF).  Mondays and Wednesdays will be devoted to lectures and practice (see schedule for topics).  Fridays will be a "workshop" day devoted to building our major semester project, an empirical literature review.
+
+## Course materials
+
+- APA Publication Manual (6th ed.) [(Amazon link)](http://www.amazon.com/Publication-Manual-American-Psychological-Association/dp/1433805618/)
+
+## Student learning outcomes
+
+1. Apply the various purposes, methods and uses of formal writing in psychology 
+2. recognize and describe elements of writing in APA style format
+3. recognize and describe elements of writing professional psychological reports.
+1. Write reports in APA style format, using appropriate language, clarity, conciseness, evidence-based reasoning, logic, and organization of information.
+
+## Requirements and grading
+
+- Literature review project (300 pts)
+- Weekly quizzes (100 pts)
+- Class attendance and daily exercises (50 pts)
+- Research participation requirement (50 pts)
+- *Total = 500 points*
+
+Grades will be assigned based on the percentage of points you accumulate out of these 500 points.  I will use the standard grading scale of A=90%, B=80%, etc.
+
+### Literature review project (60% of grade)
+
+This is our major project for the semester.  We will work on this every Friday, incrementally building a major, integrative review of the empirical literature on some focused topic in psychology.  You may work alone or with one partner on this project.  Assignment details will be given in class, but the components (and due dates) of this project are as follows:
+
+- APA title page (10 pts, due Friday, Jan 29)
+- outline with APA-formatted reference list (20 pts, due Friday, Feb 19)
+- first draft of literature review (100 pts, due Friday, Mar 25)
+- peer reviews of other student papers (40 pts, due Friday, Apr 8)
+- final draft of literature review (100 pts, due Friday, Apr 22)
+- in class oral presentation (30 pts, final exam day, Friday, Apr 29, 11:30 am -2:00 pm)
+
+### Weekly quizzes (20% of grade)
+
+Most weeks, I will post a short quiz over APA style on Blackboard.  The objective is to use the APA manual to answer questions about APA style.  Each quiz will be worth 10 points.  Your overall quiz average will be scaled to 100 points (i.e., if you average 8.7/10 across all quizzes, your final quiz grade will be 87/100).
+
+### Class attendance and daily exercises (10% of grade)
+
+Success in this class is dependent upon sustained participation in our class sessions.  This is NOT a class that you can just hang out and cram before an exam.  In fact, there are no exams!  Most of your grade will depend upon your ability to write and communicate with clarity and precision. Therefore, to encourage your active participation, 10% of your grade comes from your attendance and participation.  Everyone starts the semester with 50 points, but every day you miss will result in a small number of points being taken away from this grade.  Don't worry...the idea is that missing one or two days will not hurt you, but habitual absence will negatively affect your grade.
+
+### Research participation (10% of grade)
+
+Research is the lifeblood of psychology!  In order to promote your growth as a psychological scientist, you will be required to participate in 2 "units" of research over the course of the semester.  Roughly defined, a "unit" of research consists of either (1) participation in one hour of psychological experiments, usually offered right here in the Psychology department at Tarleton, or (2) a 3-5 page critical reflection of an empirical research article related to human learning and/or cognition, usually chosen by me.  Instructions for participation will be given in class.
+
+## Course Communication
+
+I am your primary resource for this course. I AM an experimental psychologist, so I do the stuff I teach about daily. Hence, my primary interest is for you to learn this material and do well in the course. You may contact me using any means necessary (email and Twitter are the best). That being said, many people prefer to use Blackboard messages. I don’t mind these, but keep in mind that I may not receive your message until I actually open Blackboard. With email/Twitter, if you send me a message at 9:00 pm, I may actually respond pretty quickly. 
+
+## University Policy on "F" Grades
+
+Beginning in Fall 2015, Tarleton will begin differentiating between a failed grade in a class because a student never attended (F0 grade), stopped attending at some point in the semester (FX grade), or because the student did not pass the course (F) but attended the entire semester. These grades will be noted on the official transcript. Stopping or never attending class can result in the student having to return aid monies received.  For more information see the Tarleton Financial Aid website.
+
+## Academic Honesty
+
+Cheating, plagiarism (submitting another person’s materials or ideas as one’s own), or doing work for another person who will receive academic credit are all disallowed. This includes the use of unauthorized books, notebooks, or other sources in order to secure of give help during an examination, the unauthorized copying of examinations, assignments, reports, or term papers, or the presentation of unacknowledged material as if it were the student’s own work. Disciplinary action may be taken beyond the academic discipline administered by the faculty member who teaches the course in which the cheating took place.
+
+## Tarleton's Spring Service Week
+
+In support of Tarleton’s core value of service, each student is expected to participate in a service learning experience as a part of the Spring term week of service (April 4-8).  This experience will challenge students to be engaged in the local community, address a community need, connect course objectives to the world around you, and involve structured student reflection. In this service learning experience you will not only enhance your knowledge and skills, but actively use those skills as you serve your community.
+
+## Students with Disabilities Policy
+
+It is the policy of Tarleton State University to comply with the Americans with Disabilities Act (ADA) and other federal, state, and local laws relative to the provision of disability services. Students with disabilities attending Tarleton State University may contact the Office of Disability Services at (254) 968-9478 to request appropriate accommodation. Furthermore, formal accommodation requests cannot be made until the student has been officially admitted to Tarleton State University.
+
+
+**Note:  any changes to this syllabus will be communicated to you by the instructor!**
+ 
+## Semester Schedule
+
+Week | Dates      | Lecture and practice (MW)     | Lit review workshop (F)
+---- | ---------- | ------------------------------| -------------------------------------
+1 | Jan 11-15 | Course introduction / Why APA style? | Lecture: what is a lit review?
+2 | Jan 18-22 | How to write with clarity | Lecture: choosing a topic & identifying literature
+3 | Jan 25-29 | Using Word to format APA documents | **APA title page due**
+4 | Feb 1-5 | Adding emphasis in your writing | Lecture: how to organize your literature
+5 | Feb 8-12 | *No lecture: work on outline* | *No lecture: work on outline*
+6 | Feb 15-19 | Formatting APA references | **Outline and reference list due**
+7 | Feb 22-26 | Writing effective paragraphs (part 1) | Lecture: how to synthesize literature
+8 | Feb 29-Mar 4 | Writing effective paragraphs (part 2) | Lecture: guidelines for writing first draft
+- | Mar 7-11 | - | *Spring break!* | -
+9 | Mar 14-18 | Framing your literature review | *No class: work on first draft*
+10 | Mar 21-25 | *No lecture: work on drafts* | **First draft due**
+11 | Mar 28-Apr 1 | The peer review process | *No class: work on peer reviews*
+12 | Apr 4-8 | No lecture: work on peer reviews | **Peer reviews due**
+13 | Apr 11-15 | Revisions: how to incorporate peer reviews | *No class: work on revisions*
+14 | Apr 18-22 | How to give effective presentations (part 1) | **Final draft due**
+15 | Apr 25-29 | How to give effective presentations (part 2) | **In class presentations**
+

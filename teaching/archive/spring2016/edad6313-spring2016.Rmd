@@ -1,0 +1,119 @@
+---
+title: "Syllabus"
+output: pdf_document
+---
+
+## EDAD 6313 - Statistical Methods for Educational Leadership
+
+- Professor: Thomas J. Faulkenberry, Ph.D
+- Office: Math 319
+- Office hours: TBA
+- Email: faulkenberry@tarleton.edu
+- Twitter: [tomfaulkenberry](http://twitter.com/tomfaulkenberry)
+- Website: http://tomfaulkenberry.github.io
+- Phone: 254-968-9816
+
+## Course description
+
+Statistical methods are the primary tool for research in psychology.  They are what allow us as researchers to make consistent, data-driven decisions.  As such, this is an extremely important course and one that I take very seriously as your professor.
+
+The topics we will cover this semester will include descriptive statistics (how we describe data) and inferential statistics (how we make decisions about data).  Specifically, this includes central tendency, variability, correlation, the distinction between populations and samples, hypothesis testing, statistical significance, and a variety of inferential tests that we can apply to data, including t-tests and analysis of variance.
+
+## Course materials
+
+- Statistics for People Who (Think They) Hate Statistics (5th ed.) by Salkind ([link at Amazon](http://www.amazon.com/Statistics-People-Think-Salkind-Without/dp/1452277710/))
+- access to SPSS, which can be purchased [here](https://estore.onthehub.com/WebStore/OfferingsOfMajorVersionList.aspx?pmv=89cf975c-47c3-e411-940a-b8ca3a5db7a1&cmi_mnuMain=ed6ad73c-7bc7-e011-ae14-f04da23e67f6&utm_source=LandingPage-SPSS-Statistics-student&utm_medium=LandingPage-b&utm_campaign=SPSS) (you'll need the "Standard" version, not the "Base" version).  Alternatively, you can save a bit of money and use SPSS in one of the campus computer labs.
+
+
+## Student learning outcomes
+
+1. Demonstrate an awareness of statistical tools
+2. Demonstrate an understanding of when, under what circumstances, and under what general assumptions particular statistical tools and concepts are appropriately used.
+3. Demonstrate knowledge for interpreting descriptive and inferential statistical results.
+4. Apply analytical skills in statistical problem solving.
+5. Demonstrate an understanding of statistical data from literature.
+6. Demonstrate competencies in statistical analysis via the computer.
+
+
+## Requirements and grading
+
+- Exam 1 (100 pts)
+- Exam 2 (100 pts)
+- Exam 3 (100 pts)
+- Online quizzes (100 pts)
+- SPSS exercises (100 pts)
+- *Total = 500 points*
+
+Grades will be assigned based on the percentage of points you accumulate out of these 500 points.  I will use the standard grading scale of A=90%, B=80%, etc.
+
+### Exams (60% of grade)
+
+There will be three total exams throughout the semester, occurring approximately once every three to four weeks.  They will cover material from lectures and quizzes.  Exam questions will be a mix of multiple choice and short answer.  Exams will be given online and are due by 11:59 pm on Wednesday of the given week.  Each exam will have a time limit and may only be attempted once
+
+Due dates:
+
+- Exam 1 (Feb 10 at 11:59 pm)
+- Exam 2 (Mar 16 at 11:59 pm)
+- Exam 3 (April 27 at 11:59 pm)
+
+### Online quizzes (20% of grade)
+
+Most content units this semester will be introduced via online videos and reviewed/practiced in class the following week.  To facilitate this learning, quizzes will be given on Blackboard on each online week.  Each online quiz will be due by 11:59 on Sunday of the week it is assigned.
+
+### SPSS exercises (20% of grade)
+Throughout the semester, you will complete three assignments using the statistical  software package SPSS.  Each assignment will allow you to practice and demonstrate your skill in using SPSS to analyze data sets to answer various research questions.  The first two assignments contain routine exercises, whereas the final assignment is more complex and consists of research questions that you will use software to answer.
+
+Due dates:
+
+- Assignment 1 (20 points, due in class Wednesday, Feb 17)
+- Assignment 2 (30 points, due in class Wednesday, April 20)
+- Final assignment (50 points, due online Wednesday, May 6)
+
+
+## Course Communication
+
+I am your primary resource for this course. I AM an experimental psychologist, so I do the stuff I teach about daily. Hence, my primary interest is for you to learn this material and do well in the course. You may contact me using any means necessary (email and Twitter are the best). That being said, many people prefer to use Blackboard messages. I don’t mind these, but keep in mind that I may not receive your message until I actually open Blackboard. With email/Twitter, if you send me a message at 9:00 pm, I may actually respond pretty quickly. 
+
+## University Policy on "F" Grades
+
+Beginning in Fall 2015, Tarleton will begin differentiating between a failed grade in a class because a student never attended (F0 grade), stopped attending at some point in the semester (FX grade), or because the student did not pass the course (F) but attended the entire semester. These grades will be noted on the official transcript. Stopping or never attending class can result in the student having to return aid monies received.  For more information see the Tarleton Financial Aid website.
+
+## Academic Honesty
+
+Cheating, plagiarism (submitting another person’s materials or ideas as one’s own), or doing work for another person who will receive academic credit are all disallowed (see [http://www.tarleton.edu/studentrules/academic-rules.html](http://www.tarleton.edu/studentrules/academic-rules.html) for more details). This includes the use of unauthorized books, notebooks, or other sources in order to secure of give help during an examination, the unauthorized copying of examinations, assignments, reports, or term papers, or the presentation of unacknowledged material as if it were the student’s own work. Disciplinary action may be taken beyond the academic discipline administered by the faculty member who teaches the course in which the cheating took place.
+
+In particular, any exam taken online must be completed without the aid of any unauthorized resource (including using any search engine, Google, etc.).  Authorized resources are limited only to the official textbook and any lecture notes from the course.  Any other authorized resources will be provided to you before the exam.  The minimum sanction for violation of this policy is a grade of 0 on the affected exam.
+
+## Tarleton's Spring Service Week
+
+In support of Tarleton’s core value of service, each student is expected to participate in a service learning experience as a part of the Spring term week of service (April 4-8).  This experience will challenge students to be engaged in the local community, address a community need, connect course objectives to the world around you, and involve structured student reflection. In this service learning experience you will not only enhance your knowledge and skills, but actively use those skills as you serve your community.
+
+## Students with Disabilities Policy
+
+It is the policy of Tarleton State University to comply with the Americans with Disabilities Act (ADA) and other federal, state, and local laws relative to the provision of disability services. Students with disabilities attending Tarleton State University may contact the Office of Disability Services at (254) 968-9478 to request appropriate accommodation. Furthermore, formal accommodation requests cannot be made until the student has been officially admitted to Tarleton State University.
+
+
+**Note:  any changes to this syllabus will be communicated to you by the instructor!**
+ 
+## Semester Schedule
+
+Week | Date     | Format    | Tasks                                 | Textbook chapter(s)
+---- | -------- | --------- | ------------------------------------- | -------------------
+1 | 1/13 | online | Watch videos for Units 1 (displaying data) and 2 (descriptive statistics) | 1-4
+2 | 1/20 | F2F | Review Units 1/2 + introduce SPSS software | 1-4
+3 | 1/27 | online | Watch video for Unit 3 (correlation) | 5
+4 | 2/3 | F2F | Review Unit 3 + reliability/validity + SPSS | 5-6
+5 | 2/10 | online | **Exam 1**| NA
+6 | 2/17 | F2F | cover Units 4 & 5 (probability and hypothesis testing) | 7,8,9
+7 | 2/24 | online | Watch video for Unit 6 (testing sample means; $z$-test) | 10
+8 | 3/2 | F2F | Review Units 4-6 + SPSS | 7-10
+- | 3/9 | - | *Spring break!* | -
+9 | 3/16 | online | **Exam 2** + watch video for Unit 7 (intro to $t$-test) | NA
+10 | 3/23 | F2F | Review Unit 7 + SPSS | NA
+11 | 3/30 | online| Watch video for Unit 8 (more $t$-tests) | 11,12
+12 | 4/6 | F2F | Review Unit 8 + SPSS | 11,12
+13 | 4/13 | online | Watch video for Unit 9 (analysis of variance) | 13
+14 | 4/20 | F2F | Review Unit 9 + SPSS | 13
+15 | 4/27 | online | **Exam 3** + work on final SPSS assignment | - 
+16 | 5/6 | online | Turn in final SPSS assignment | -
+
