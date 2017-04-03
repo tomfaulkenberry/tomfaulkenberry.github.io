@@ -23,10 +23,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 - B.S. with highest honors, Mathematics, Southeastern Oklahoma State University, 2000
 
 ** Academic positions
-- 2013-present: Assistant Professor of Psychology, Tarleton State University
-- 2012-2013: Assistant Professor of Mathematics, Texas A&M University – Commerce
-- 2010-2012: Visiting Assistant Professor of Psychology, Texas A&M University – Commerce
-- 2005-2010: Lecturer of Mathematics, Texas A&M University - Commerce
+- 2013-present: Assistant Professor, Department of Psychological Sciences, Tarleton State University
+- 2012-2013: Assistant Professor, Department of Mathematics, Texas A&M University – Commerce
+- 2010-2012: Visiting Assistant Professor, Department of Psychology and Special Education, Texas A&M University – Commerce
+- 2005-2010: Lecturer, Department of Mathematics, Texas A&M University - Commerce
 
 ** Honors and awards
 - Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016
@@ -43,10 +43,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
-** Research publications 
-1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Reversing the manual digit bias in two-digit number comparison. To appear in /Experimental Psychology/
+** Research publications
+1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Reversing the manual digit bias in two-digit number comparison. To appear in /Experimental Psychology/. doi: 10.1027/1618-3169/a000365
 1. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
-2. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (in press). Visual search for conjunctions of physical and numerical size shows that they are processed independently. To appear in /Journal of Experimental Psychology: Human Perception & Performance/. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
+2. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
 3. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology, 7/:1915. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
 4. Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. doi: [[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
 5. Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. doi: [[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
@@ -65,7 +65,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 17. Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
 18. Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
 19. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
-
+    
 ** Abstracts, columns, and book reviews
 1. Faulkenberry, T. J. (2016). Motor dynamics support a competition model of number processing. /Abstracts of the Psychonomic Society/, /21/, 26.
 1. Bowman, K. A., & Faulkenberry, T. J. (2016). Testing competing models of two-digit number representation: Decomposed versus holistic processing. /Abstracts of the Psychonomic Society/, /21/, 285. 
@@ -87,6 +87,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. (April, 2017). Accumulator models of decision processes in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
+1. Faulkenberry, T. J., & Wood, J. (April, 2017). A Bayesian perspective on the operator preview paradigm in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
+1. Nejman, J., & Faulkenberry, T. J. (April, 2017). Implicit priming reveals both holistic and decomposed processing in fraction comparison. Southwestern Psychological Association, San Antonio, TX
+1. Wood, J., & Faulkenberry, T. J. (April, 2017). The dynamics of operator preview effects in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
+1. Bowman, K., & Faulkenberry, T. J. (April, 2017). Testing competing models of two-digit number representation: Decomposed versus holistic processing. Southwestern Psychological Association, San Antonio, TX
 1. Faulkenberry, T. J. (April, 2016). Testing two accounts of response dynamics in a number comparison task. Southwestern Psychological Association, Dallas, TX
 1. Faulkenberry, T. J. (April, 2016). Recent developments on the size congruity effect in numerical cognition. Southwestern Psychological Association, Dallas, TX
 1. Rutledge, M., & Faulkenberry, T. J. (April, 2016). Spatial-numerical associations in mental arithmetic. Southwestern Psychological Association, Dallas, TX
@@ -129,6 +134,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+1. Faulkenberry, T. J. (March, 2017). Using mathematical modeling to understand mental arithmetic. Tarleton Math Club, Stephenville, TX.
 1. Faulkenberry, T. J. (Nov. 2015). Associations between number and space in mental arithmetic.  Psychological Sciences Open House, Stephenville, TX.
 1. Faulkenberry, T. J. et al. (Oct. 2015). Publishing in the digital age.  CII Panel Presentation, Stephenville, TX.
 1. Faulkenberry, T. J. (June, 2015). Discussion of Marghetis et al. (2014). Carleton Math Cognition Lab, Ottawa, Ontario.
