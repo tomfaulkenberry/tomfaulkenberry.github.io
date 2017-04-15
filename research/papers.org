@@ -1,7 +1,7 @@
 #+TITLE: Publications 
 #+AUTHOR:
 #+OPTIONS: toc:nil num:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.star.bris.ac.uk/bjm/css/bjm.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../bjm.css" />
 
 Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
 
