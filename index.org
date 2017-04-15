@@ -1,6 +1,7 @@
 #+TITLE:
 #+AUTHOR:
 #+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.star.bris.ac.uk/bjm/css/bjm.css" />
 
 * Thomas J. Faulkenberry, Ph.D.
 
