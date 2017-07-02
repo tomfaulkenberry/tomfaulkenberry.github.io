@@ -26,11 +26,11 @@ Stephenville, TX  76402\\
 - [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
   
 ** Teaching
-Spring 2017
-- PSYC 3330 - Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3330/psyc3330-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3330/psyc3330-spring2017.pdf][pdf]])
-- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435/psyc3435-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435/psyc3435-spring2017.pdf][pdf]])
-- PSYC 3435 - Principles of Research for the Behavioral Sciences (online) ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435online/psyc3435-spring2017-online.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc3435online/psyc3435-spring2017-online.pdf][pdf]])
-- PSYC 5301 - Research Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc5301/psyc5301-spring2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2017/psyc5301/psyc5301-spring2017.pdf][pdf]])
+Summer 2017
+- PSYC 3330 - Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3330/psyc3330-summer2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3330/psyc3330-summer2017.pdf][pdf]])
+- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3435/psyc3435-summer2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3435/psyc3435-summer2017.pdf][pdf]])
+- PSYC 3320 - Psycholinguistics ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3320/psyc3320-summer2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc3320/psyc3320-summer2017.pdf][pdf]])
+- PSYC 5379 - Advanced Psycholinguistics ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc5379/psyc5379-summer2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2017/psyc5379/psyc5379-summer2017.pdf][pdf]])
 
 
 #+HTML: <br><br><br><br>
