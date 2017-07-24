@@ -45,11 +45,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publications
-1. Faulkenberry, T. J. (in press). A single-boundary accumulator model of repsonse times in an arithmetic verification task. To appear in /Frontiers in Psychology/
-2. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
-3. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/(3), 191-204.  doi: 10.1027/1618-3169/a000365
+1. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
+2. Faulkenberry, T. J. (2017). A single-boundary accumulator model of repsonse times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. doi: [[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
+3. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204.  doi: [[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
 4. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
-5. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology, 7/:1915. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
+5. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology/, /7:1915/. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
 6. Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. doi: [[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
 7. Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. doi: [[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
 8. Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
@@ -194,23 +194,25 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Editorial roles
 - Associate Editor (2017-present): /Journal of European Psychology Students/
+- Associate Editor (2017-present): /Frontiers in Psychology: Cognition Section/
 - Associate Editor (2016-present): /Journal of Psychological Inquiry/
 - Guest Editor (2016-present): /Journal of Numerical Cognition/
-- Review Editor (2016-present): /Frontiers in Cognition/
-
+- Review Editor (2016-2017): /Frontiers in Psychology: Cognition Section/
 ** Reviewing
    
-- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Science, Frontiers in Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
-- Textbook reviewer for Psychology Press, Routledge, Sage, Taylor & Francis
-- Panelist/Reader
-  - 2015-2017, Reader, AP Statistics Exam, Kansas City, MO
-  - 2012-2015, Panelist, National Science Foundation, Washington, DC
+- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognitive Science, Frontiers in Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
 - External Examiner
   - 2017, Corinna Jones, Ph.D., University of Huddersfield, UK
-
+- Panelist/Reader
+  - 2017, Judge, American Statistical Association Statistics Project Competition
+  - 2015-2017, Reader, AP Statistics Exam, Kansas City, MO
+  - 2012-2015, Panelist, National Science Foundation, Washington, DC
+ 
+- Textbook reviewer for Psychology Press, Routledge, Sage, Taylor & Francis
+    
 ** Professional Memberships 
 - American Mathematical Society
-- American Statistical Society
+- American Statistical Association
 - Canadian Society for Brain, Behaviour, & Cognitive Science
 - Mathematical Cognition and Learning Society
 - Psychonomic Society
