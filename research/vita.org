@@ -30,6 +30,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2005-2010: Lecturer, Department of Mathematics, Texas A&M University - Commerce
 
 ** Honors and awards
+- O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018
 - Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016
 - President's All-Purple Award, Tarleton State University, 2016
 - Nominee, Bruce N. Chaloux Award for Early Career Excellence in Online Education, Sloan Consortium, 2015
@@ -46,27 +47,27 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research publications
 1. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
-2. Faulkenberry, T. J. (2017). A single-boundary accumulator model of repsonse times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. doi: [[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
-3. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204.  doi: [[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
-4. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
-5. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology/, /7:1915/. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
-6. Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. doi: [[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
-7. Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. doi: [[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
-8. Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
-9. Faulkenberry, T. J., Montgomery, S. A., & Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. /Acta Psychologica/, /159/, 100-107. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.05.013][10.1016/j.actpsy.2015.05.013]]
-10. Faulkenberry, T. J., & Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). /Frontiers in Psychology/, /5/:1436. doi: [[http://dx.doi.org/10.3389/fpsyg.2014.01436][10.3389/fpsyg.2014.01436]]
-11. Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. /Canadian Journal of Experimental Psychology/, /68/, 147-151. doi: [[http://dx.doi.org/10.1037/cep0000021][10.1037/cep0000021]]
-12. Faulkenberry, T. J., & Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. /The Rehabilitation Professional/, /22/ (1), 9-16.
-13. Faulkenberry, T. J., & Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. /Oklahoma Journal of School Mathematics/, /5/ (2), 5-14.
-14. Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). /Frontiers in Psychology/, /4/:820. doi: [[http://dx.doi.org/10.3389/fpsyg.2013.00820][10.3389/fpsyg.2013.00820]]
-15. Faulkenberry, T. J., & Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 155-162). Tulsa, OK: RCML
-16. Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 205-212). Tulsa, OK: RCML
-17. Faulkenberry, E. D., & Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), /Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 121-126). Charlotte, NC: RCML.
-18. Faulkenberry, T. J., & Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. /Experimental Psychology/, /58/, 480-489. doi: [[http://dx.doi.org/10.1027/1618-3169/a000116][10.1027/1618-3169/a000116]]
-19. Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) /Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 136-143). Cincinnati, OH: RCML.
-20. Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
-21. Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
-22. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
+1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. doi: [[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
+2. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204.  doi: [[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
+3. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
+4. Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology/, /7:1915/. doi: [[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
+5. Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. doi: [[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
+6. Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. doi: [[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
+7. Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
+8. Faulkenberry, T. J., Montgomery, S. A., & Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. /Acta Psychologica/, /159/, 100-107. doi: [[http://dx.doi.org/10.1016/j.actpsy.2015.05.013][10.1016/j.actpsy.2015.05.013]]
+9. Faulkenberry, T. J., & Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). /Frontiers in Psychology/, /5/:1436. doi: [[http://dx.doi.org/10.3389/fpsyg.2014.01436][10.3389/fpsyg.2014.01436]]
+10. Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. /Canadian Journal of Experimental Psychology/, /68/, 147-151. doi: [[http://dx.doi.org/10.1037/cep0000021][10.1037/cep0000021]]
+11. Faulkenberry, T. J., & Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. /The Rehabilitation Professional/, /22/ (1), 9-16.
+12. Faulkenberry, T. J., & Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. /Oklahoma Journal of School Mathematics/, /5/ (2), 5-14.
+13. Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). /Frontiers in Psychology/, /4/:820. doi: [[http://dx.doi.org/10.3389/fpsyg.2013.00820][10.3389/fpsyg.2013.00820]]
+14. Faulkenberry, T. J., & Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 155-162). Tulsa, OK: RCML
+15. Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 205-212). Tulsa, OK: RCML
+16. Faulkenberry, E. D., & Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), /Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 121-126). Charlotte, NC: RCML.
+17. Faulkenberry, T. J., & Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. /Experimental Psychology/, /58/, 480-489. doi: [[http://dx.doi.org/10.1027/1618-3169/a000116][10.1027/1618-3169/a000116]]
+18. Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) /Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 136-143). Cincinnati, OH: RCML.
+19. Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
+20. Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
+21. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Abstracts, columns, and book reviews
 1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. /Abstracts of the Psychonomic Society/, /22/, 27.
@@ -140,6 +141,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+1. Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A&M University - San Antonio Speakers' Series, San Antonio, TX.
 1. Faulkenberry, T. J. (September, 2017). Modeling response times in mental arithmetic. Baylor University Psychology and Neuroscience Speaker Series, Waco, TX.
 1. Faulkenberry, T. J. (April, 2017). The Pope, Bayes' Theorem, and Harry Potter: A statistical drama in three acts.  Tarleton Psychology Club, Stephenville, TX.
 1. Faulkenberry, T. J. (March, 2017). Using mathematical modeling to understand mental arithmetic. Tarleton Math Club, Stephenville, TX.
@@ -173,8 +175,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research Funding  
 
-/PI unless otherwise noted.  Total funding = $218,168./
+/PI unless otherwise noted.  Total funding = $228,668./
 
+- 2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, /Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space/
 - 2017 (fall), Tarleton State University, Faculty Development Grant, $1000, /Travel: Psychonomic Society Meeting in Vancouver, BC/
 - 2017 (summer), Tarleton State University, First Year Research Experience (FYRE), $4000, /Using the Wiener diffusion process to model response time distributions in a numerical decision task/  
 - 2015 (fall), Tarleton State University, Faculty Development Grant, $750, /Travel: Psychonomic Society Meeting in Boston, MA/
@@ -198,7 +201,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2012-2013, National Science Foundation: Robert Noyce Scholarship Program, $174,020 (Co-PI with Ben Jang), /Building the Capacity for Math and Science Teacher Training/
 - 2010, Texas A&M University – Commerce, OSP Research Grant, $5000, /Mouse Tracking in Mathematical Cognition/
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
-
+  
 ** Editorial roles
 - Associate Editor (2017-present): /Journal of European Psychology Students/
 - Associate Editor (2017-present): /Frontiers in Psychology: Cognition Section/
@@ -207,7 +210,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Review Editor (2016-2017): /Frontiers in Psychology: Cognition Section/
 ** Reviewing
    
-- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognitive Science, Frontiers in Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
+- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
 - External Examiner
   - 2017, Corinna Jones, Ph.D., University of Huddersfield, UK
 - Panelist/Reader
@@ -260,8 +263,9 @@ University service
 
 Department service
 
+- Organized /Psychological Sciences Day/, Tarleton, (2017-2018)
 - Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015)
-- Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2016)
+- Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2018)
 - Texan Tour Speaker, Department of Psychological Sciences, Tarleton (2015)
 - Organizer, Psychology Department Seminar, Tarleton (2013-2014)
 - Psychology Scholarship Committee, Tarleton (2013-2015)
@@ -277,14 +281,14 @@ Tarleton State University
 - PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
 - PSYC 3309: Writing in Psychology, Spring 16
 - PSYC 3320: Psycholinguistics, Summer 17
-- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17; Spring 15,16,17; Su 16
-- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17; Su 15,16
+- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17; Spring 15,16,17,18; Su 16,17
+- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17; Su 15,16,17
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
 - PSYC 5303: Theories of Learning, Fall 16
 - HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
-- PSYC 5301: Research Methods, Spring 14,15,17
+- PSYC 5301: Research Methods, Spring 14,15,17,18
 - PSYC 5304: Human Development, Spring 14
 - PSYC 5316: Advanced Quantitative Methods, Fall 17
 - PSYC 5379: Advanced Psycholinguistics, Summer 17
@@ -292,12 +296,11 @@ Tarleton State University
 
 ** Student Mentoring
 
-Masters Thesis Chair
+*** Masters Thesis Chair
 - Chelsea Bradley (Applied Psychology, Tarleton, in progress)
 - Savannah Hines (Applied Psychology, Tarleton, in progress)
-- Margaret Risher (Applied Psychology, Tarleton, in progress)
 
-Doctoral Committees
+*** Doctoral Committees
 
 - Matthew Herzberg (Educational Leadership, Tarleton, in progress)
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
@@ -306,7 +309,7 @@ Doctoral Committees
 - Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)
 - Donna Peters (Psychology, TAMU-C, graduated 2013)
 	
-Masters Committees
+*** Masters Committees
 
 - Kody Lamb (Applied Psychology, Tarleton, in progress)
 - Trina Geye (Psychology, TAMU-C, graduated 2015)
@@ -314,8 +317,9 @@ Masters Committees
 - Heather Oetker (Special Education, TAMU-C, graduated 2012)
 - Joshua Patterson (Mathematics, TAMU-C, graduated 2011)
 
-Honors Thesis Chair
+*** Honors Thesis Chair
 
+- Anissa Eid (Psychology, tarleton, in progress), /Cognitive mechanisms underlying spatial-numerical associations/
 - Paige Woodard (Psychology, Tarleton, graduated 2017), /Mental arithmetic: Relationship between encoding and calculation processes/
 - Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), /Measuring the Working Memory Requirements of Mental Arithmetic/
 - Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), /The Effects of Generation on False Memory for Numbers/
@@ -323,7 +327,7 @@ Honors Thesis Chair
 - Douglas Boney (Honors in Mathematics, TAMU-C, graduated 2013), /Knot Polynomials/
 - Samantha Reece (Honors in Sociology, TAMU-C, graduated 2012), /The Effects of Stereotype Threat on Cheating Behavior in Mathematics/
 
-Honors Thesis Committees
+*** Honors Thesis Committees
 
 - Carmen Phelps (English, TAMU-C, 2013)
 - Morgan Lutz (Psychology, TAMU-C, 2013)
