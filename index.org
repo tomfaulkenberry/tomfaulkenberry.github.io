@@ -26,11 +26,9 @@ Stephenville, TX  76402\\
 - [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
   
 ** Teaching
-Fall 2017
-- PSYC 3330 - Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3330/psyc3330-fall2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3330/psyc3330-fall2017.pdf][pdf]])
-- PSYC 3330 - Statistics for the Behavioral Sciences (online) ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3330online/psyc3330-fall2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3330online/psyc3330-fall2017.pdf][pdf]])
-- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3435/psyc3435-fall2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc3435/psyc3435-fall2017.pdf][pdf]])
-- PSYC 5316 - Advanced Quantitative Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc5316/psyc5316-fall2017.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2017/psyc5316/psyc5316-fall2017.pdf][pdf]])
+Spring 2018
+- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc3435/psyc3435-spring2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc3435/psyc3435-spring2018.pdf][pdf]])
+- PSYC 5301 - Research Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc5301/psyc5301-spring2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc5301/psyc5301-spring2018.pdf][pdf]])
 - Office hours: MTWRF 1-3 pm
 
 
