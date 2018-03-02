@@ -5,7 +5,9 @@
 
 Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
 
-1. Faulkenberry, T. J. (in press). A single-boundary accumulator model of response times in an arithmetic verification task. To appear in /Frontiers in Psychology/
+1. Faulkenberry, T. J. (in press). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. To appear in /Biometrical Letters/.
+1. Faulkenberry, T. J. (in press). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. To appear in /Journal of Undergraduate Neuroscience Education/.
+1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/. doi: [[https://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225]]
 2. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
 3. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/(3), 191-204. doi: [[https://doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
 4. Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/. doi: [[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
