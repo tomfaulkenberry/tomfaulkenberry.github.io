@@ -46,6 +46,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publications
+1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (in press). Tracking the continuous dynamics of numerical processing: A brief review and editorial. To appear in /Journal of Numerical Cognition/.
 1. Faulkenberry, T. J. (in press). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. To appear in /Biometrical Letters/.
 1. Faulkenberry, T. J. (in press). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. To appear in /Journal of Undergraduate Neuroscience Education/.
 1. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
@@ -72,6 +73,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 21. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Abstracts, columns, and book reviews
+1. Faulkenberry, T. J. (2018). Where does the money go? A quick picture of SWPA finances. /SWPA Newsletter/.
 1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. /Abstracts of the Psychonomic Society/, /22/, 27.
 1. Geye, T. L., & Faulkenberry, T. J. (2017). Computer mousetracking reveals the facilitation and interference components of the size congruity effect. /Abstracts of the Psychonomic Society/, /22/, 106.
 1. Bowman, K. A., & Faulkenberry, T. J. (2017). The dynamics of spatial-operational momentum in mental arithmetic. /Abstracts of the Psychonomic Society/, /22/, 188.
@@ -95,6 +97,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX
+1. Bowman, K. A., & Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.
 1. Faulkenberry, T. J. (November, 2017). A hierarchical Bayesian model for measuring response times in a mental arithmetic task. Society for Mathematical Psychology, Vancouver, BC.
 1. Faulkenberry, T. J. (April, 2017). Accumulator models of decision processes in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
 1. Faulkenberry, T. J., & Wood, J. (April, 2017). A Bayesian perspective on the operator preview paradigm in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
@@ -212,7 +216,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Review Editor (2016-2017): /Frontiers in Psychology: Cognition Section/
 ** Reviewing
    
-- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
+- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
 - External Examiner
   - 2017, Corinna Jones, Ph.D., University of Huddersfield, UK
 - Panelist/Reader
@@ -284,7 +288,7 @@ Tarleton State University
 - PSYC 3309: Writing in Psychology, Spring 16
 - PSYC 3320: Psycholinguistics, Summer 17
 - PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17; Spring 15,16,17,18; Su 16,17
-- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17; Su 15,16,17
+- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17,18; Su 15,16,17
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
@@ -313,7 +317,7 @@ Tarleton State University
 	
 *** Masters Committees
 
-- Kody Lamb (Applied Psychology, Tarleton, in progress)
+- Kody Lamb (Applied Psychology, Tarleton, graduated 2018)
 - Trina Geye (Psychology, TAMU-C, graduated 2015)
 - Beth Nikopoulous (Psychology, TAMU-C, graduated 2013)
 - Heather Oetker (Special Education, TAMU-C, graduated 2012)

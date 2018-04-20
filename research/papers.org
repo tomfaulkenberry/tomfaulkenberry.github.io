@@ -5,6 +5,7 @@
 
 Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
 
+1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (in press). Tracking the continuous dynamics of numerical processing: A brief review and editorial. To appear in /Journal of Numerical Cognition/.
 1. Faulkenberry, T. J. (in press). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. To appear in /Biometrical Letters/.
 1. Faulkenberry, T. J. (in press). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. To appear in /Journal of Undergraduate Neuroscience Education/.
 1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/. doi: [[https://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225]]
