@@ -26,10 +26,11 @@ Stephenville, TX  76402\\
 - [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
   
 ** Teaching
-Spring 2018
-- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc3435/psyc3435-spring2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc3435/psyc3435-spring2018.pdf][pdf]])
-- PSYC 5301 - Research Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc5301/psyc5301-spring2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2018/psyc5301/psyc5301-spring2018.pdf][pdf]])
-- Office hours: MWF 1-3pm; TR 9-11am
+Summer 2018
+- PSYC 3330 - Elementary Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc3330/psyc3330-summer2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc3330/psyc3330-summer2018.pdf][pdf]])
+- PSYC 3320 - Psycholinguistics ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc3320/psyc3320-summer2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc3320/psyc3320-summer2018.pdf][pdf]])
+- PSYC 5397 - Advanced Psycholinguistics ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc5379/psyc5379-summer2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2018/psyc5379/psyc5379-summer2018.pdf][pdf]])
+- Office hours: MTWRF 9-11am
 
 
 #+HTML: <br><br><br><br>
