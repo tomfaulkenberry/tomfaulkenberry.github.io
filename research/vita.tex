@@ -1,19 +1,21 @@
-% Created 2018-07-12 Thu 04:40
-% Intended LaTeX compiler: pdflatex
+% Created 2018-09-10 Mon 14:48
 \documentclass[article,10pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
 \usepackage{graphicx}
-\usepackage{grffile}
 \usepackage{longtable}
+\usepackage{float}
 \usepackage{wrapfig}
 \usepackage{rotating}
 \usepackage[normalem]{ulem}
 \usepackage{amsmath}
 \usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
 \usepackage{amssymb}
-\usepackage{capt-of}
 \usepackage{hyperref}
+\tolerance=1000
 \usepackage[left=1in,right=1in,bottom=1in,top=1in]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancyplain}
@@ -21,17 +23,14 @@
 \date{\today}
 \title{}
 \hypersetup{
- pdfauthor={},
- pdftitle={},
- pdfkeywords={},
- pdfsubject={},
- pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, 
- pdflang={English}}
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.3.1 (Org mode 8.2.10)}}
 \begin{document}
 
 
 \section*{Thomas J. Faulkenberry, Ph.D.}
-\label{sec:org0947a2a}
+\label{sec-1}
 
 Department of Psychological Sciences\\
 Tarleton State University\\
@@ -41,7 +40,7 @@ Email: faulkenberry@tarleton.edu\\
 Website: \url{http://tomfaulkenberry.github.io}
 
 \subsection*{Education}
-\label{sec:org9d5bb89}
+\label{sec-1-1}
 \begin{itemize}
 \item Ph.D., Psychology, Texas A\&M University – Commerce, 2010
 \item M.S., Mathematics, Oklahoma State University - 2002
@@ -49,7 +48,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Academic positions}
-\label{sec:org6df39b6}
+\label{sec-1-2}
 \begin{itemize}
 \item 2013-present: Assistant Professor, Department of Psychological Sciences, Tarleton State University
 \item 2012-2013: Assistant Professor, Department of Mathematics, Texas A\&M University – Commerce
@@ -58,7 +57,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Honors and awards}
-\label{sec:org7041423}
+\label{sec-1-3}
 \begin{itemize}
 \item O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018
 \item Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016
@@ -73,19 +72,19 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Administrative activities}
-\label{sec:orgce042dc}
+\label{sec-1-4}
 \begin{itemize}
 \item 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 \item 2010-2011: Director, Math \& Science Teacher Preparation Program (LeoTEACH), TAMU-C
 \end{itemize}
 
 \subsection*{Research publications}
-\label{sec:orgeda0194}
+\label{sec-1-5}
 \begin{enumerate}
 \item Faulkenberry, T. J., Cruise, A., \& Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. To appear in \emph{Psychological Research} doi: 10.1007/s00426-018-1057-9
-\item Faulkenberry, T. J., Witte, M., \& Hartmann, M. (in press). Tracking the continuous dynamics of numerical processing: A brief review and editorial. To appear in \emph{Journal of Numerical Cognition}.
-\item Faulkenberry, T. J. (in press). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. To appear in \emph{Biometrical Letters}. doi: \href{https://doi.org/10.2478/bile-2018-0003}{10.2478/bile-2018-0003}
 \item Frampton, A. R., \& Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in \emph{Journal of Psychological Inquiry}.
+\item Faulkenberry, T. J., Witte, M., \& Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. \emph{Journal of Numerical Cognition}, \emph{4}, 271-285. \url{10.5964/jnc.v4i2.179}
+\item Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. \emph{Biometrical Letters}, \emph{55}, 31-43. doi: \href{https://doi.org/10.2478/bile-2018-0003}{10.2478/bile-2018-0003}
 \item Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. \emph{Journal of Undergraduate Neuroscience Education}, \emph{16}, A126-A130. \url{http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298}
 \item Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. \emph{Frontiers in Psychology}, \emph{8:1225}. doi: \href{http://dx.doi.org/10.3389/fpsyg.2017.01225}{10.3389/fpsyg.2017.01225/}
 \item Faulkenberry, T. J., Cruise, A., \& Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. \emph{Experimental Psychology}, \emph{64}, 191-204.  doi: \href{http://dx.doi.org/10.1027/1618-3169/a000365}{10.1027/1618-3169/a000365}
@@ -111,7 +110,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{enumerate}
 
 \subsection*{Abstracts, columns, and book reviews}
-\label{sec:orgc530e80}
+\label{sec-1-6}
 \begin{enumerate}
 \item Faulkenberry, T. J. (2018). Where does the money go? A quick picture of SWPA finances. \emph{SWPA Newsletter}.
 \item Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. \emph{Abstracts of the Psychonomic Society}, \emph{22}, 27.
@@ -138,7 +137,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{enumerate}
 
 \subsection*{Conference Presentations}
-\label{sec:orgc662a68}
+\label{sec-1-7}
 \begin{enumerate}
 \item Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX
 \item Bowman, K. A., \& Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.
@@ -191,8 +190,9 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{enumerate}
 
 \subsection*{Seminars and Invited Talks}
-\label{sec:orgd667d02}
+\label{sec-1-8}
 \begin{enumerate}
+\item Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics -- Texas Lutheran University, Seguin, TX.
 \item Faulkenberry, T. J. (April, 2018). Introduction to applied Bayesian hypothesis testing -- Faculty Research Coffee Hour, Stephenville, TX.
 \item Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A\&M University - San Antonio Speakers' Series, San Antonio, TX.
 \item Faulkenberry, T. J. (September, 2017). Modeling response times in mental arithmetic. Baylor University Psychology and Neuroscience Speaker Series, Waco, TX.
@@ -205,7 +205,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \item Faulkenberry, T. J. (Feb, 2014). Detecting cognitive processes via the motions of the hand: Studies in numerical cognition.  Psychology \& Counseling Department Seminar, Tarleton State University.Math
 \item Faulkenberry, T. J. (April, 2013). Estimating the working memory requirements of mental arithmetic. Mathematics Education Seminar, University of Texas - Arlington, Arlington, TX.
 \item Faulkenberry, T. J. (April, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Southeastern Oklahoma State University, Durant, OK.
-\item Faulkenberry, T. J. (May, 2012). Arctangent approximations of \(\pi\). Math Club Invited Speaker, Texas A\&M University - Commerce
+\item Faulkenberry, T. J. (May, 2012). Arctangent approximations of $\pi$. Math Club Invited Speaker, Texas A\&M University - Commerce
 \item Faulkenberry, T. J. (Feb, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Texas A\&M University - Commerce.
 \item Faulkenberry, T. J. (2011). Introduction to \LaTeX{}, Mathematics Department Colloquium, Texas A\&M University - Commerce
 \item Faulkenberry, T. J. (2009). Working memory in mathematical cognition: The case for fractions. Mathematics Department Colloquium, Texas A\& M University - Commerce.
@@ -228,11 +228,12 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{enumerate}
 
 \subsection*{Research Funding}
-\label{sec:orga2cbba7}
+\label{sec-1-9}
 
-\emph{PI unless otherwise noted.  Total funding = \$228,668.}
+\emph{PI unless otherwise noted.  Total funding = \$233,668.}
 
 \begin{itemize}
+\item 2018-2019, Tarleton State University, Faculty-Student Research Grant, \$5000, \emph{Modeling individual difference structures in numerical cognition}
 \item 2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, \$1000, \emph{Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space}
 \item 2017 (fall), Tarleton State University, Faculty Development Grant, \$1000, \emph{Travel: Psychonomic Society Meeting in Vancouver, BC}
 \item 2017 (summer), Tarleton State University, First Year Research Experience (FYRE), \$4000, \emph{Using the Wiener diffusion process to model response time distributions in a numerical decision task}
@@ -260,7 +261,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Editorial roles}
-\label{sec:org24d437f}
+\label{sec-1-10}
 \begin{itemize}
 \item Associate Editor (2017-present): \emph{Journal of European Psychology Students}
 \item Associate Editor (2017-present): \emph{Frontiers in Psychology: Cognition Section}
@@ -269,7 +270,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \item Review Editor (2016-2017): \emph{Frontiers in Psychology: Cognition Section}
 \end{itemize}
 \subsection*{Reviewing}
-\label{sec:org39069fa}
+\label{sec-1-11}
 
 \begin{itemize}
 \item Ad hoc reviewer for the following journals: \emph{Acta Psychologica, Attention, Perception, \& Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology}
@@ -288,7 +289,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Professional Memberships}
-\label{sec:org73ee1df}
+\label{sec-1-12}
 \begin{itemize}
 \item American Mathematical Society
 \item American Statistical Association
@@ -300,7 +301,7 @@ Website: \url{http://tomfaulkenberry.github.io}
 \end{itemize}
 
 \subsection*{Professional Service}
-\label{sec:org9272d3a}
+\label{sec-1-13}
 
 National/regional service 
 
@@ -319,11 +320,14 @@ National/regional service
 University service
 
 \begin{itemize}
-\item Faculty Fellow, Tarleton (2016-present)
+\item Chair, Institutional Review Board (IRB) (2018-present)
+\item Faculty Research Fellow (2018-present)
 \item Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)
 \item State Non-Funded Course Review Group, Member, Tarleton (2015-present)
 \item University Research Committee, Member, Tarleton (2015-present)
 \item Student Research and Creative Activity Advisory Committee, Member, Tarleton (2013-present)
+\item Member, Institutional Review Board (IRB) (2017-2018)
+\item Faculty Fellow, Tarleton (2016-2018)
 \item Honors Advisory Committee for College of Education, Member, Tarleton (2015-2017)
 \item Session Chair and Judge, TAMUS Pathways Symposium (2017)
 \item University ALE Task Force, Member, Tarleton (2016-2017)
@@ -350,7 +354,7 @@ Department service
 \end{itemize}
 
 \subsection*{Courses Taught}
-\label{sec:org1d17c00}
+\label{sec-1-14}
 
 Tarleton State University
 
@@ -361,8 +365,8 @@ Tarleton State University
 \item PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
 \item PSYC 3309: Writing in Psychology, Spring 16
 \item PSYC 3320: Psycholinguistics, Summer 17,18
-\item PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17; Spring 15,16,17,18; Su 16,17,18
-\item PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17,18; Su 15,16,17
+\item PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18
+\item PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 15,16,17
 \item PSYC 4386: Advanced Statistical Methods, Spring 14
 \item PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 \item PSYC 4386: Problems in Numerical Cognition, Fall 15
@@ -370,23 +374,23 @@ Tarleton State University
 \item HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
 \item PSYC 5301: Research Methods, Spring 14,15,17,18
 \item PSYC 5304: Human Development, Spring 14
-\item PSYC 5316: Advanced Quantitative Methods, Fall 17
+\item PSYC 5316: Advanced Quantitative Methods, Fall 17,18
 \item PSYC 5379: Advanced Psycholinguistics, Summer 17,18
 \item EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 \end{itemize}
 
 \subsection*{Student Mentoring}
-\label{sec:orgad07bc9}
+\label{sec-1-15}
 
 \subsubsection*{Masters Thesis Chair}
-\label{sec:orgefb283d}
+\label{sec-1-15-1}
 \begin{itemize}
 \item Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 \item Savannah Hines (Applied Psychology, Tarleton, in progress)
 \end{itemize}
 
 \subsubsection*{Doctoral Committees}
-\label{sec:orgaba81f4}
+\label{sec-1-15-2}
 
 \begin{itemize}
 \item Matthew Herzberg (Educational Leadership, Tarleton, in progress)
@@ -398,7 +402,7 @@ Tarleton State University
 \end{itemize}
 
 \subsubsection*{Masters Committees}
-\label{sec:org77b833b}
+\label{sec-1-15-3}
 
 \begin{itemize}
 \item Kody Lamb (Applied Psychology, Tarleton, graduated 2018)
@@ -409,10 +413,10 @@ Tarleton State University
 \end{itemize}
 
 \subsubsection*{Honors Thesis Chair}
-\label{sec:orgd134411}
+\label{sec-1-15-4}
 
 \begin{itemize}
-\item Anissa Eid (Psychology, tarleton, in progress), \emph{Cognitive mechanisms underlying spatial-numerical associations}
+\item Anissa Eid (Psychology, tarleton, graduated 2018), \emph{Cognitive mechanisms underlying spatial-numerical associations}
 \item Paige Woodard (Psychology, Tarleton, graduated 2017), \emph{Mental arithmetic: Relationship between encoding and calculation processes}
 \item Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), \emph{Measuring the Working Memory Requirements of Mental Arithmetic}
 \item Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), \emph{The Effects of Generation on False Memory for Numbers}
@@ -422,7 +426,7 @@ Tarleton State University
 \end{itemize}
 
 \subsubsection*{Honors Thesis Committees}
-\label{sec:orge8925a9}
+\label{sec-1-15-5}
 
 \begin{itemize}
 \item Carmen Phelps (English, TAMU-C, 2013)
@@ -431,4 +435,5 @@ Tarleton State University
 \item Kallie Hinton (Mathematics Education, TAMU-C, 2011)
 \item Lindsey Preston (Mathematics Education, TAMU-C, 2011)
 \end{itemize}
+% Emacs 25.3.1 (Org mode 8.2.10)
 \end{document}

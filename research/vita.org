@@ -47,9 +47,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research publications
 1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. To appear in /Psychological Research/ doi: 10.1007/s00426-018-1057-9
-2. Faulkenberry, T. J., Witte, M., & Hartmann, M. (in press). Tracking the continuous dynamics of numerical processing: A brief review and editorial. To appear in /Journal of Numerical Cognition/.
-3. Faulkenberry, T. J. (in press). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. To appear in /Biometrical Letters/. doi: [[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
-4. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
+2. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
+3. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/, 271-285. doi:10.5964/jnc.v4i2.179
+4. Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/, 31-43. doi: [[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
 5. Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. /Journal of Undergraduate Neuroscience Education/, /16/, A126-A130. http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298
 6. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. doi: [[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
 7. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204.  doi: [[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
@@ -148,6 +148,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+1. Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics -- Texas Lutheran University, Seguin, TX.
 1. Faulkenberry, T. J. (April, 2018). Introduction to applied Bayesian hypothesis testing -- Faculty Research Coffee Hour, Stephenville, TX.
 1. Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A&M University - San Antonio Speakers' Series, San Antonio, TX.
 1. Faulkenberry, T. J. (September, 2017). Modeling response times in mental arithmetic. Baylor University Psychology and Neuroscience Speaker Series, Waco, TX.
@@ -183,8 +184,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research Funding  
 
-/PI unless otherwise noted.  Total funding = $228,668./
+/PI unless otherwise noted.  Total funding = $233,668./
 
+- 2018-2019, Tarleton State University, Faculty-Student Research Grant, $5000, /Modeling individual difference structures in numerical cognition/
 - 2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, /Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space/
 - 2017 (fall), Tarleton State University, Faculty Development Grant, $1000, /Travel: Psychonomic Society Meeting in Vancouver, BC/
 - 2017 (summer), Tarleton State University, First Year Research Experience (FYRE), $4000, /Using the Wiener diffusion process to model response time distributions in a numerical decision task/  
@@ -253,11 +255,14 @@ National/regional service
 	
 University service
 
-- Faculty Fellow, Tarleton (2016-present)
+- Chair, Institutional Review Board (IRB) (2018-present)
+- Faculty Research Fellow (2018-present)
 - Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)
 - State Non-Funded Course Review Group, Member, Tarleton (2015-present)
 - University Research Committee, Member, Tarleton (2015-present)
 - Student Research and Creative Activity Advisory Committee, Member, Tarleton (2013-present)
+- Member, Institutional Review Board (IRB) (2017-2018)
+- Faculty Fellow, Tarleton (2016-2018)
 - Honors Advisory Committee for College of Education, Member, Tarleton (2015-2017)
 - Session Chair and Judge, TAMUS Pathways Symposium (2017)
 - University ALE Task Force, Member, Tarleton (2016-2017)
@@ -290,8 +295,8 @@ Tarleton State University
 - PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
 - PSYC 3309: Writing in Psychology, Spring 16
 - PSYC 3320: Psycholinguistics, Summer 17,18
-- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17; Spring 15,16,17,18; Su 16,17,18
-- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17; Sp 15,16,17,18; Su 15,16,17
+- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18
+- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 15,16,17
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
@@ -299,7 +304,7 @@ Tarleton State University
 - HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
 - PSYC 5301: Research Methods, Spring 14,15,17,18
 - PSYC 5304: Human Development, Spring 14
-- PSYC 5316: Advanced Quantitative Methods, Fall 17
+- PSYC 5316: Advanced Quantitative Methods, Fall 17,18
 - PSYC 5379: Advanced Psycholinguistics, Summer 17,18
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
@@ -328,7 +333,7 @@ Tarleton State University
 
 *** Honors Thesis Chair
 
-- Anissa Eid (Psychology, tarleton, in progress), /Cognitive mechanisms underlying spatial-numerical associations/
+- Anissa Eid (Psychology, tarleton, graduated 2018), /Cognitive mechanisms underlying spatial-numerical associations/
 - Paige Woodard (Psychology, Tarleton, graduated 2017), /Mental arithmetic: Relationship between encoding and calculation processes/
 - Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), /Measuring the Working Memory Requirements of Mental Arithmetic/
 - Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), /The Effects of Generation on False Memory for Numbers/
