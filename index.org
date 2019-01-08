@@ -26,12 +26,12 @@ Stephenville, TX  76402\\
 - [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
   
 ** Teaching
-Fall 2018
-- PSYC 3330 - Elementary Statistics for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3330/psyc3330-fall2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3330/psyc3330-fall2018.pdf][pdf]])
-- PSYC 3330 - Elementary Statistics for the Behavioral Sciences - online ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3330online/psyc3330-fall2018-online.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3330online/psyc3330-fall2018-online.pdf][pdf]])
-- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3435/psyc3435-fall2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc3435/psyc3435-fall2018.pdf][pdf]])
-- PSYC 5316 - Advanced Quantitative Methods & Experimental Design ([[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc5316/psyc5316-fall2018.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/fall2018/psyc5316/psyc5316-fall2018.pdf][pdf]])
-- Office hours: MWF 1-3 pm, TR 9:30-11:30 am
+Spring 2019
+- PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435/psyc3435-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435/psyc3435-spring2019.pdf][pdf]])
+- PSYC 3435 - Principles of Research for the Behavioral Sciences, online/16-week ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online/psyc3435-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online/psyc3435-spring2019.pdf][pdf]])  
+- PSYC 3435 - Principles of Research for the Behavioral Sciences, online/8-week ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online8week/psyc3435online-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online8week/psyc3435online-spring2019.pdf][pdf]])  
+- PSYC 5301 - Research Methods ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc5301/psyc5301-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc5301/psyc5301-spring2019.pdf][pdf]])
+- Office hours: MWF 1-3 pm, TR 9-11 am
 
 
 #+HTML: <br><br><br><br>

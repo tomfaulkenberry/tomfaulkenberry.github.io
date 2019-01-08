@@ -5,8 +5,9 @@
 
 Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
 
-1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. To appear in /Psychological Research/ doi: 10.1007/s00426-018-1057-9
-1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (in press). Tracking the continuous dynamics of numerical processing: A brief review and editorial. To appear in /Journal of Numerical Cognition/.
+1. Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. doi: [[http://dx.doi.org/10.24425/119507][10.24425/119507]]
+1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
+1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/(2), 271-285. doi: [[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]
 1. Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/(1), 31-43. doi: [[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
 1. Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. /Journal of Undergraduate Neuroscience Education/, /16/, A126-A130. http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298
 1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/. doi: [[https://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225]]

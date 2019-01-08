@@ -46,10 +46,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publications
-1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. To appear in /Psychological Research/ doi: 10.1007/s00426-018-1057-9
-2. Frampton, A. R., & Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in /Journal of Psychological Inquiry/.
-3. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/, 271-285. doi:10.5964/jnc.v4i2.179
-4. Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/, 31-43. doi: [[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
+1. Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. doi: [[http://dx.doi.org/10.24425/119507][10.24425/119507]]
+1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
+1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/(2), 271-285. doi: [[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]
+1. Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/(1), 31-43. doi: [[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
 5. Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. /Journal of Undergraduate Neuroscience Education/, /16/, A126-A130. http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298
 6. Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. doi: [[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
 7. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204.  doi: [[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
@@ -74,6 +74,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 26. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Abstracts, columns, and book reviews
+1. Faulkenberry, T. J. (2018). Modeling individual difference structures in the size-congruity effect. /Abstracts of the Psychonomic Society/, /23/, 42.
+1. Bowman, K. A., & Faulkenberry, T. J. (2018). Nonwords induce reverse priming effects in a lexical decision task. /Abstracts of the Psychonomic Society/, /23/, 246.
 1. Faulkenberry, T. J. (2018). Where does the money go? A quick picture of SWPA finances. /SWPA Newsletter/.
 1. Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. /Abstracts of the Psychonomic Society/, /22/, 27.
 1. Geye, T. L., & Faulkenberry, T. J. (2017). Computer mousetracking reveals the facilitation and interference components of the size congruity effect. /Abstracts of the Psychonomic Society/, /22/, 106.
@@ -98,6 +100,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. (January, 2019). Demonstrating Bayesian model comparison with a class-sourced experiment in mental arithmetic. National Institute on the Teaching of Psychology (NITOP), St. Pete Beach, FL 
 1. Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX
 1. Bowman, K. A., & Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.
 1. Faulkenberry, T. J. (November, 2017). A hierarchical Bayesian model for measuring response times in a mental arithmetic task. Society for Mathematical Psychology, Vancouver, BC.
@@ -296,13 +299,13 @@ Tarleton State University
 - PSYC 3309: Writing in Psychology, Spring 16
 - PSYC 3320: Psycholinguistics, Summer 17,18
 - PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18
-- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 15,16,17
+- PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18,19; Su 15,16,17
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
 - PSYC 5303: Theories of Learning, Fall 16
 - HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
-- PSYC 5301: Research Methods, Spring 14,15,17,18
+- PSYC 5301: Research Methods, Spring 14,15,17,18,19
 - PSYC 5304: Human Development, Spring 14
 - PSYC 5316: Advanced Quantitative Methods, Fall 17,18
 - PSYC 5379: Advanced Psycholinguistics, Summer 17,18
@@ -312,11 +315,9 @@ Tarleton State University
 
 *** Masters Thesis Chair
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
-- Savannah Hines (Applied Psychology, Tarleton, in progress)
 
 *** Doctoral Committees
 
-- Matthew Herzberg (Educational Leadership, Tarleton, in progress)
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
 - Trina Geye (Psychology, TAMU-C, graduated 2016)
 - Stephen McDaniel (Psychology, TAMU-C, in progress)
@@ -333,7 +334,8 @@ Tarleton State University
 
 *** Honors Thesis Chair
 
-- Anissa Eid (Psychology, tarleton, graduated 2018), /Cognitive mechanisms underlying spatial-numerical associations/
+- Kristen Bowman (Psychology, Tarleton, graduated 2018), /Nonwords induce reverse priming effects in a lexical decision task/
+- Anissa Eid (Psychology, Tarleton, graduated 2018), /Cognitive mechanisms underlying spatial-numerical associations/
 - Paige Woodard (Psychology, Tarleton, graduated 2017), /Mental arithmetic: Relationship between encoding and calculation processes/
 - Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), /Measuring the Working Memory Requirements of Mental Arithmetic/
 - Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), /The Effects of Generation on False Memory for Numbers/
