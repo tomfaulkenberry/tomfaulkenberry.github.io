@@ -3,22 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title></title>
-<!-- 2019-01-08 Tue 10:16 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
+<!-- 2019-02-05 Tue 16:23 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
   .todo   { font-family: monospace; color: red; }
-  .done   { color: green; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
@@ -45,27 +52,111 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.right  { text-align: center;  }
-  th.left   { text-align: center;   }
-  th.center { text-align: center; }
-  td.right  { text-align: right;  }
-  td.left   { text-align: left;   }
-  td.center { text-align: center; }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara:nth-child(2) { display: inline; }
-  .footpara { display: block; }
+  .footpara { display: inline; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
@@ -85,6 +176,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="../bjm.css" />
@@ -93,7 +185,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -134,588 +226,363 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
-<script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js"></script>
-<script type="text/javascript">
-<!--/*--><![CDATA[/*><!--*/
+<script type="text/x-mathjax-config">
     MathJax.Hub.Config({
-        // Only one of the two following lines, depending on user settings
-        // First allows browser-native MathML display, second forces HTML/CSS
-        //  config: ["MMLorHTML.js"], jax: ["input/TeX"],
-            jax: ["input/TeX", "output/HTML-CSS"],
-        extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js",
-                     "TeX/noUndefined.js"],
-        tex2jax: {
-            inlineMath: [ ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"], ["\\begin{displaymath}","\\end{displaymath}"] ],
-            skipTags: ["script","noscript","style","textarea","pre","code"],
-            ignoreClass: "tex2jax_ignore",
-            processEscapes: false,
-            processEnvironments: true,
-            preview: "TeX"
-        },
-        showProcessingMessages: true,
         displayAlign: "center",
-        displayIndent: "2em",
+        displayIndent: "0em",
 
-        "HTML-CSS": {
-             scale: 100,
-             availableFonts: ["STIX","TeX"],
-             preferredFont: "TeX",
-             webFont: "TeX",
-             imageFont: "TeX",
-             showMathMenu: true,
-        },
-        MMLorHTML: {
-             prefer: {
-                 MSIE:    "MML",
-                 Firefox: "MML",
-                 Opera:   "HTML",
-                 other:   "HTML"
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
              }
-        }
-    });
-/*]]>*///-->
+});
 </script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title"></h1>
 
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">Thomas J. Faulkenberry, Ph.D.</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-orgd8d032f" class="outline-2">
+<h2 id="orgd8d032f">Thomas J. Faulkenberry, Ph.D.</h2>
+<div class="outline-text-2" id="text-orgd8d032f">
 <p>
-Department of Psychological Sciences<br  />
-Tarleton State University<br  />
-Box T-0820, Stephenville, TX 76402<br  />
-Phone: +1 (254) 968-9816<br  />
-Email: faulkenberry@tarleton.edu<br  />
+Department of Psychological Sciences<br />
+Tarleton State University<br />
+Box T-0820, Stephenville, TX 76402<br />
+Phone: +1 (254) 968-9816<br />
+Email: faulkenberry@tarleton.edu<br />
 Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.github.io</a>
 </p>
 </div>
 
-<div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1">Education</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-org23c4fa5" class="outline-3">
+<h3 id="org23c4fa5">Education</h3>
+<div class="outline-text-3" id="text-org23c4fa5">
 <ul class="org-ul">
-<li>Ph.D., Psychology, Texas A&amp;M University – Commerce, 2010
-</li>
-<li>M.S., Mathematics, Oklahoma State University - 2002
-</li>
-<li>B.S. with highest honors, Mathematics, Southeastern Oklahoma State University, 2000
-</li>
+<li>Ph.D., Psychology, Texas A&amp;M University – Commerce, 2010</li>
+<li>M.S., Mathematics, Oklahoma State University - 2002</li>
+<li>B.S. with highest honors, Mathematics, Southeastern Oklahoma State University, 2000</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2">Academic positions</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-org2684671" class="outline-3">
+<h3 id="org2684671">Academic positions</h3>
+<div class="outline-text-3" id="text-org2684671">
 <ul class="org-ul">
-<li>2013-present: Assistant Professor, Department of Psychological Sciences, Tarleton State University
-</li>
-<li>2012-2013: Assistant Professor, Department of Mathematics, Texas A&amp;M University – Commerce
-</li>
-<li>2010-2012: Visiting Assistant Professor, Department of Psychology and Special Education, Texas A&amp;M University – Commerce
-</li>
-<li>2005-2010: Lecturer, Department of Mathematics, Texas A&amp;M University - Commerce
-</li>
+<li>2013-present: Assistant Professor, Department of Psychological Sciences, Tarleton State University</li>
+<li>2012-2013: Assistant Professor, Department of Mathematics, Texas A&amp;M University – Commerce</li>
+<li>2010-2012: Visiting Assistant Professor, Department of Psychology and Special Education, Texas A&amp;M University – Commerce</li>
+<li>2005-2010: Lecturer, Department of Mathematics, Texas A&amp;M University - Commerce</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-3" class="outline-3">
-<h3 id="sec-1-3">Honors and awards</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-org92dde5b" class="outline-3">
+<h3 id="org92dde5b">Honors and awards</h3>
+<div class="outline-text-3" id="text-org92dde5b">
 <ul class="org-ul">
-<li>O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018
-</li>
-<li>Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016
-</li>
-<li>President's All-Purple Award, Tarleton State University, 2016
-</li>
-<li>Nominee, Bruce N. Chaloux Award for Early Career Excellence in Online Education, Sloan Consortium, 2015
-</li>
-<li>Fellow, The Psychonomic Society, 2014
-</li>
-<li>Texas A&amp;M University System Teaching Excellence Award, 2010-2011
-</li>
-<li>Best Graduate Student Presentation, Annual Research Symposium, TAMU-C, 2010
-</li>
-<li>O.H. Hamilton Fellowship in Mathematics, Oklahoma State University, 2002
-</li>
-<li>S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001
-</li>
-<li>Regional University Scholarship (4 years), Southeastern Oklahoma State University, 1996
-</li>
+<li>O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018</li>
+<li>Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016</li>
+<li>President's All-Purple Award, Tarleton State University, 2016</li>
+<li>Nominee, Bruce N. Chaloux Award for Early Career Excellence in Online Education, Sloan Consortium, 2015</li>
+<li>Fellow, The Psychonomic Society, 2014</li>
+<li>Texas A&amp;M University System Teaching Excellence Award, 2010-2011</li>
+<li>Best Graduate Student Presentation, Annual Research Symposium, TAMU-C, 2010</li>
+<li>O.H. Hamilton Fellowship in Mathematics, Oklahoma State University, 2002</li>
+<li>S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001</li>
+<li>Regional University Scholarship (4 years), Southeastern Oklahoma State University, 1996</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-4" class="outline-3">
-<h3 id="sec-1-4">Administrative activities</h3>
-<div class="outline-text-3" id="text-1-4">
+<div id="outline-container-org3b8ddd4" class="outline-3">
+<h3 id="org3b8ddd4">Administrative activities</h3>
+<div class="outline-text-3" id="text-org3b8ddd4">
 <ul class="org-ul">
-<li>2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
-</li>
-<li>2010-2011: Director, Math &amp; Science Teacher Preparation Program (LeoTEACH), TAMU-C
-</li>
+<li>2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C</li>
+<li>2010-2011: Director, Math &amp; Science Teacher Preparation Program (LeoTEACH), TAMU-C</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-5" class="outline-3">
-<h3 id="sec-1-5">Research publications</h3>
-<div class="outline-text-3" id="text-1-5">
+<div id="outline-container-orga70be9c" class="outline-3">
+<h3 id="orga70be9c">Research publication</h3>
+<div class="outline-text-3" id="text-orga70be9c">
 <ol class="org-ol">
-<li>Faulkenberry, T. J., Vick, A. D., &amp; Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. <i>Polish Psychological Bulletin</i>, <i>49</i>, 391-397. doi: <a href="http://dx.doi.org/10.24425/119507">10.24425/119507</a>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. <i>Psychological Research</i>,  doi: <a href="https://dx.doi.org/10.1007/s00426-018-1057-9">10.1007/s00426-018-1057-9</a>
-</li>
-<li>Faulkenberry, T. J., Witte, M., &amp; Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. <i>Journal of Numerical Cognition</i>, /4/(2), 271-285. doi: <a href="http://dx.doi.org/10.5964/jnc.v4i2.179">10.5964/jnc.v4i2.179</a>
-</li>
-<li>Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. <i>Biometrical Letters</i>, /55/(1), 31-43. doi: <a href="https://doi.org/10.2478/bile-2018-0003">10.2478/bile-2018-0003</a>
-</li>
-<li>Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. <i>Journal of Undergraduate Neuroscience Education</i>, <i>16</i>, A126-A130. <a href="http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298">http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298</a>
-</li>
-<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. <i>Frontiers in Psychology</i>, <i>8:1225</i>. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2017.01225">10.3389/fpsyg.2017.01225/</a>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. <i>Experimental Psychology</i>, <i>64</i>, 191-204.  doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000365">10.1027/1618-3169/a000365</a>
-</li>
-<li>Sobel, K. V., Puri, A. M., Faulkenberry, T. J., &amp; Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. <i>Journal of Experimental Psychology: Human Perception &amp; Performance</i>, <i>43</i>, 444-453. doi: <a href="http://dx.doi.org/10.1037/xhp0000323">10.1037/xhp0000323</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). <i>Frontiers in Psychology</i>, <i>7:1915</i>. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2016.01915">10.3389/fpsyg.2016.01915</a>
-</li>
-<li>Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. <i>Journal of Cognitive Psychology</i>, <i>28</i>, 825-842. doi: <a href="http://dx.doi.org/10.1080/20445911.2016.1191504">10.1080/20445911.2016.1191504</a>
-</li>
-<li>Sobel, K. V., Puri, A. M., &amp; Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. <i>Attention, Perception, &amp; Psychophysics</i>, <i>78</i>, 1324-1336. doi: <a href="http://dx.doi.org/10.3758/s13414-016-1098-3">10.3758/s13414-016-1098-3</a>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. <i>Acta Psychologica</i>, <i>163</i>, 114-123. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.11.010">10.1016/j.actpsy.2015.11.010</a>
-</li>
-<li>Faulkenberry, T. J., Montgomery, S. A., &amp; Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. <i>Acta Psychologica</i>, <i>159</i>, 100-107. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.05.013">10.1016/j.actpsy.2015.05.013</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). <i>Frontiers in Psychology</i>, <i>5</i>:1436. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2014.01436">10.3389/fpsyg.2014.01436</a>
-</li>
-<li>Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. <i>Canadian Journal of Experimental Psychology</i>, <i>68</i>, 147-151. doi: <a href="http://dx.doi.org/10.1037/cep0000021">10.1037/cep0000021</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. <i>The Rehabilitation Professional</i>, <i>22</i> (1), 9-16.
-</li>
-<li>Faulkenberry, T. J., &amp; Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. <i>Oklahoma Journal of School Mathematics</i>, <i>5</i> (2), 5-14.
-</li>
-<li>Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). <i>Frontiers in Psychology</i>, <i>4</i>:820. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2013.00820">10.3389/fpsyg.2013.00820</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 155-162). Tulsa, OK: RCML
-</li>
-<li>Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 205-212). Tulsa, OK: RCML
-</li>
-<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), <i>Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 121-126). Charlotte, NC: RCML.
-</li>
-<li>Faulkenberry, T. J., &amp; Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. <i>Experimental Psychology</i>, <i>58</i>, 480-489. doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000116">10.1027/1618-3169/a000116</a>
-</li>
-<li>Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) <i>Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 136-143). Cincinnati, OH: RCML.
-</li>
-<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. <i>Mathematics Teacher</i>, <i>104</i>, 29-33.
-</li>
-<li>Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) <i>Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 84-89). Conway, AR: RCML.
-</li>
-<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. <i>The Texas Science Teacher</i>, <i>35</i>, 17- 22.
-</li>
+<li>Faulkenberry, T. J. (in press). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. To appear in <i>Communications for Statistical Methods and Applications</i></li>
+<li>Faulkenberry, T. J., Vick, A. D., &amp; Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. <i>Polish Psychological Bulletin</i>, <i>49</i>, 391-397. doi: <a href="http://dx.doi.org/10.24425/119507">10.24425/119507</a></li>
+<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. <i>Psychological Research</i>,  doi: <a href="https://dx.doi.org/10.1007/s00426-018-1057-9">10.1007/s00426-018-1057-9</a></li>
+<li>Faulkenberry, T. J., Witte, M., &amp; Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. <i>Journal of Numerical Cognition</i>, /4/(2), 271-285. doi: <a href="http://dx.doi.org/10.5964/jnc.v4i2.179">10.5964/jnc.v4i2.179</a></li>
+<li>Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. <i>Biometrical Letters</i>, /55/(1), 31-43. doi: <a href="https://doi.org/10.2478/bile-2018-0003">10.2478/bile-2018-0003</a></li>
+<li>Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. <i>Journal of Undergraduate Neuroscience Education</i>, <i>16</i>, A126-A130. <a href="http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298">http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298</a></li>
+<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. <i>Frontiers in Psychology</i>, <i>8:1225</i>. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2017.01225">10.3389/fpsyg.2017.01225/</a></li>
+<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. <i>Experimental Psychology</i>, <i>64</i>, 191-204.  doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000365">10.1027/1618-3169/a000365</a></li>
+<li>Sobel, K. V., Puri, A. M., Faulkenberry, T. J., &amp; Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. <i>Journal of Experimental Psychology: Human Perception &amp; Performance</i>, <i>43</i>, 444-453. doi: <a href="http://dx.doi.org/10.1037/xhp0000323">10.1037/xhp0000323</a></li>
+<li>Faulkenberry, T. J., &amp; Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). <i>Frontiers in Psychology</i>, <i>7:1915</i>. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2016.01915">10.3389/fpsyg.2016.01915</a></li>
+<li>Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. <i>Journal of Cognitive Psychology</i>, <i>28</i>, 825-842. doi: <a href="http://dx.doi.org/10.1080/20445911.2016.1191504">10.1080/20445911.2016.1191504</a></li>
+<li>Sobel, K. V., Puri, A. M., &amp; Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. <i>Attention, Perception, &amp; Psychophysics</i>, <i>78</i>, 1324-1336. doi: <a href="http://dx.doi.org/10.3758/s13414-016-1098-3">10.3758/s13414-016-1098-3</a></li>
+<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. <i>Acta Psychologica</i>, <i>163</i>, 114-123. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.11.010">10.1016/j.actpsy.2015.11.010</a></li>
+<li>Faulkenberry, T. J., Montgomery, S. A., &amp; Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. <i>Acta Psychologica</i>, <i>159</i>, 100-107. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.05.013">10.1016/j.actpsy.2015.05.013</a></li>
+<li>Faulkenberry, T. J., &amp; Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). <i>Frontiers in Psychology</i>, <i>5</i>:1436. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2014.01436">10.3389/fpsyg.2014.01436</a></li>
+<li>Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. <i>Canadian Journal of Experimental Psychology</i>, <i>68</i>, 147-151. doi: <a href="http://dx.doi.org/10.1037/cep0000021">10.1037/cep0000021</a></li>
+<li>Faulkenberry, T. J., &amp; Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. <i>The Rehabilitation Professional</i>, <i>22</i> (1), 9-16.</li>
+<li>Faulkenberry, T. J., &amp; Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. <i>Oklahoma Journal of School Mathematics</i>, <i>5</i> (2), 5-14.</li>
+<li>Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). <i>Frontiers in Psychology</i>, <i>4</i>:820. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2013.00820">10.3389/fpsyg.2013.00820</a></li>
+<li>Faulkenberry, T. J., &amp; Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 155-162). Tulsa, OK: RCML</li>
+<li>Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 205-212). Tulsa, OK: RCML</li>
+<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), <i>Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 121-126). Charlotte, NC: RCML.</li>
+<li>Faulkenberry, T. J., &amp; Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. <i>Experimental Psychology</i>, <i>58</i>, 480-489. doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000116">10.1027/1618-3169/a000116</a></li>
+<li>Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) <i>Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 136-143). Cincinnati, OH: RCML.</li>
+<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. <i>Mathematics Teacher</i>, <i>104</i>, 29-33.</li>
+<li>Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) <i>Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 84-89). Conway, AR: RCML.</li>
+<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. <i>The Texas Science Teacher</i>, <i>35</i>, 17- 22.</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-sec-1-6" class="outline-3">
-<h3 id="sec-1-6">Abstracts, columns, and book reviews</h3>
-<div class="outline-text-3" id="text-1-6">
+<div id="outline-container-org5f54914" class="outline-3">
+<h3 id="org5f54914">Abstracts, columns, and book reviews</h3>
+<div class="outline-text-3" id="text-org5f54914">
 <ol class="org-ol">
-<li>Faulkenberry, T. J. (2018). Modeling individual difference structures in the size-congruity effect. <i>Abstracts of the Psychonomic Society</i>, <i>23</i>, 42.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2018). Nonwords induce reverse priming effects in a lexical decision task. <i>Abstracts of the Psychonomic Society</i>, <i>23</i>, 246.
-</li>
-<li>Faulkenberry, T. J. (2018). Where does the money go? A quick picture of SWPA finances. <i>SWPA Newsletter</i>.
-</li>
-<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 27.
-</li>
-<li>Geye, T. L., &amp; Faulkenberry, T. J. (2017). Computer mousetracking reveals the facilitation and interference components of the size congruity effect. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 106.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2017). The dynamics of spatial-operational momentum in mental arithmetic. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 188.
-</li>
-<li>Faulkenberry, T. J. (2016). Motor dynamics support a competition model of number processing. <i>Abstracts of the Psychonomic Society</i>, <i>21</i>, 26.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2016). Testing competing models of two-digit number representation: Decomposed versus holistic processing. <i>Abstracts of the Psychonomic Society</i>, <i>21</i>, 285. 
-</li>
-<li>Faulkenberry, T. J. (2016). Decoding the development of mathematical thinking: A book review of <i>Development of Mathematical Thinking: Neural Substrates and Genetic Influences</i>. <i>PsycCRITIQUES</i>, <i>61</i> (31). doi: <a href="http://dx.doi.org/10.1037/a0040434">10.1037/a0040434</a>
-</li>
-<li>Faulkenberry, T. J. (2016). Undergraduate students: An endangered resource? <i>SWPA Newsletter</i>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2015). Response trajectories support a late-interaction model of the size-congruity effect. <i>Canadian Journal of Experimental Psychology, 69</i>, 346.
-</li>
-<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2015). Reversing the manual decade bias in two-digit number comparison. <i>Abstracts of the Psychonomic Society, 20</i>, 39.
-</li>
-<li>Geye, T. L, &amp; Faulkenberry, T. J. (2015). Response trajectories capture individual differences in a size congruity task. <i>Abstracts of the Psychonomic Society, 20</i>, 249.
-</li>
-<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2014). Response trajectories capture the continuous dynamics of the size-congruity effect. <i>Abstracts of the Psychonomic Society, 19</i>, 53.
-</li>
-<li>Faulkenberry, T. J. (2013). Measuring the working memory requirements of mental arithmetic. <i>Canadian Journal of Experimental Psychology, 67</i>, 281.
-</li>
-<li>Faulkenberry, T. J. (2013). Measuring the working memory requirements of mental arithmetic. <i>Abstracts of the Psychonomic Society, 18</i>, 203-204.
-</li>
-<li>Faulkenberry, T. J. (2012). The temporal dynamics of fraction representations: Components are processed first. <i>Canadian Journal of Experimental Psychology, 66</i>, 310.
-</li>
-<li>Faulkenberry, T. J. &amp; Montgomery, S. A. (2012). The primacy of components in numerical fractions. <i>Abstracts of the Psychonomic Society, 17</i>, 206.
-</li>
-<li>Faulkenberry, T. J. (2011). Brain-based mathematics: Promising practice or hopeful hype? <i>RCML Intersection Points, 35</i> (3), 9-10.
-</li>
-<li>Faulkenberry, T. J. &amp; Kelsey, A. R. (2011). Working memory and strategic performance in fraction comparison. <i>Canadian Journal of Experimental Psychology, 65</i>, 311-311.
-</li>
-<li>Faulkenberry, T. J. (2011). The dynamics of the SNARC effect: Evidence from mouse tracking. <i>Canadian Journal of Experimental Psychology, 65</i>, 316-316.
-</li>
-<li>Faulkenberry, T. J. (2011). Motor dynamics in numerical representations: Evidence from mouse tracking. <i>Abstracts of the Psychonomic Society, 16</i>, 76-76.
-</li>
-<li>Faulkenberry, T. J. (2010). The roles of phonological and visuo-spatial working memory resources in simple fraction strategies. <i>Canadian Journal of Experimental Psychology, 64</i>, 302-302.
-</li>
-<li>Lu, S. Wakefield, L. &amp; Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. <i>Abstracts of the Psychonomic Society, 11</i>, 9-9.
-</li>
+<li>Faulkenberry, T. J. (2018). Modeling individual difference structures in the size-congruity effect. <i>Abstracts of the Psychonomic Society</i>, <i>23</i>, 42.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2018). Nonwords induce reverse priming effects in a lexical decision task. <i>Abstracts of the Psychonomic Society</i>, <i>23</i>, 246.</li>
+<li>Faulkenberry, T. J. (2018). Where does the money go? A quick picture of SWPA finances. <i>SWPA Newsletter</i>.</li>
+<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of decisions in a mental arithmetic task. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 27.</li>
+<li>Geye, T. L., &amp; Faulkenberry, T. J. (2017). Computer mousetracking reveals the facilitation and interference components of the size congruity effect. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 106.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2017). The dynamics of spatial-operational momentum in mental arithmetic. <i>Abstracts of the Psychonomic Society</i>, <i>22</i>, 188.</li>
+<li>Faulkenberry, T. J. (2016). Motor dynamics support a competition model of number processing. <i>Abstracts of the Psychonomic Society</i>, <i>21</i>, 26.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (2016). Testing competing models of two-digit number representation: Decomposed versus holistic processing. <i>Abstracts of the Psychonomic Society</i>, <i>21</i>, 285.</li>
+<li>Faulkenberry, T. J. (2016). Decoding the development of mathematical thinking: A book review of <i>Development of Mathematical Thinking: Neural Substrates and Genetic Influences</i>. <i>PsycCRITIQUES</i>, <i>61</i> (31). doi: <a href="http://dx.doi.org/10.1037/a0040434">10.1037/a0040434</a></li>
+<li>Faulkenberry, T. J. (2016). Undergraduate students: An endangered resource? <i>SWPA Newsletter</i></li>
+<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2015). Response trajectories support a late-interaction model of the size-congruity effect. <i>Canadian Journal of Experimental Psychology, 69</i>, 346.</li>
+<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2015). Reversing the manual decade bias in two-digit number comparison. <i>Abstracts of the Psychonomic Society, 20</i>, 39.</li>
+<li>Geye, T. L, &amp; Faulkenberry, T. J. (2015). Response trajectories capture individual differences in a size congruity task. <i>Abstracts of the Psychonomic Society, 20</i>, 249.</li>
+<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2014). Response trajectories capture the continuous dynamics of the size-congruity effect. <i>Abstracts of the Psychonomic Society, 19</i>, 53.</li>
+<li>Faulkenberry, T. J. (2013). Measuring the working memory requirements of mental arithmetic. <i>Canadian Journal of Experimental Psychology, 67</i>, 281.</li>
+<li>Faulkenberry, T. J. (2013). Measuring the working memory requirements of mental arithmetic. <i>Abstracts of the Psychonomic Society, 18</i>, 203-204.</li>
+<li>Faulkenberry, T. J. (2012). The temporal dynamics of fraction representations: Components are processed first. <i>Canadian Journal of Experimental Psychology, 66</i>, 310.</li>
+<li>Faulkenberry, T. J. &amp; Montgomery, S. A. (2012). The primacy of components in numerical fractions. <i>Abstracts of the Psychonomic Society, 17</i>, 206.</li>
+<li>Faulkenberry, T. J. (2011). Brain-based mathematics: Promising practice or hopeful hype? <i>RCML Intersection Points, 35</i> (3), 9-10.</li>
+<li>Faulkenberry, T. J. &amp; Kelsey, A. R. (2011). Working memory and strategic performance in fraction comparison. <i>Canadian Journal of Experimental Psychology, 65</i>, 311-311.</li>
+<li>Faulkenberry, T. J. (2011). The dynamics of the SNARC effect: Evidence from mouse tracking. <i>Canadian Journal of Experimental Psychology, 65</i>, 316-316.</li>
+<li>Faulkenberry, T. J. (2011). Motor dynamics in numerical representations: Evidence from mouse tracking. <i>Abstracts of the Psychonomic Society, 16</i>, 76-76.</li>
+<li>Faulkenberry, T. J. (2010). The roles of phonological and visuo-spatial working memory resources in simple fraction strategies. <i>Canadian Journal of Experimental Psychology, 64</i>, 302-302.</li>
+<li>Lu, S. Wakefield, L. &amp; Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. <i>Abstracts of the Psychonomic Society, 11</i>, 9-9.</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-sec-1-7" class="outline-3">
-<h3 id="sec-1-7">Conference Presentations</h3>
-<div class="outline-text-3" id="text-1-7">
+<div id="outline-container-org1407ad4" class="outline-3">
+<h3 id="org1407ad4">Conference Presentations</h3>
+<div class="outline-text-3" id="text-org1407ad4">
 <ol class="org-ol">
-<li>Faulkenberry, T. J. (January, 2019). Demonstrating Bayesian model comparison with a class-sourced experiment in mental arithmetic. National Institute on the Teaching of Psychology (NITOP), St. Pete Beach, FL 
-</li>
-<li>Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.
-</li>
-<li>Faulkenberry, T. J. (November, 2017). A hierarchical Bayesian model for measuring response times in a mental arithmetic task. Society for Mathematical Psychology, Vancouver, BC.
-</li>
-<li>Faulkenberry, T. J. (April, 2017). Accumulator models of decision processes in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
-</li>
-<li>Faulkenberry, T. J., &amp; Wood, J. (April, 2017). A Bayesian perspective on the operator preview paradigm in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
-</li>
-<li>Nejman, J., &amp; Faulkenberry, T. J. (April, 2017). Implicit priming reveals both holistic and decomposed processing in fraction comparison. Southwestern Psychological Association, San Antonio, TX
-</li>
-<li>Wood, J., &amp; Faulkenberry, T. J. (April, 2017). The dynamics of operator preview effects in mental arithmetic. Southwestern Psychological Association, San Antonio, TX
-</li>
-<li>Bowman, K., &amp; Faulkenberry, T. J. (April, 2017). Testing competing models of two-digit number representation: Decomposed versus holistic processing. Southwestern Psychological Association, San Antonio, TX
-</li>
-<li>Faulkenberry, T. J. (April, 2016). Testing two accounts of response dynamics in a number comparison task. Southwestern Psychological Association, Dallas, TX
-</li>
-<li>Faulkenberry, T. J. (April, 2016). Recent developments on the size congruity effect in numerical cognition. Southwestern Psychological Association, Dallas, TX
-</li>
-<li>Rutledge, M., &amp; Faulkenberry, T. J. (April, 2016). Spatial-numerical associations in mental arithmetic. Southwestern Psychological Association, Dallas, TX
-</li>
-<li>Geye, T., &amp; Faulkenberry, T. J. (April, 2016). Computer mousetracking reveals individual differences in a size congruity task. Southwestern Psychological Association, Dallas, TX
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (April, 2016). The effects of mathematical fluency on multi-digit number representations. Southwestern Psychological Association, Dallas, TX
-</li>
-<li>Faulkenberry, T. J. (October, 2015). Testing a direct-mapping versus competition account of response dynamics in a number comparison task. ARMADILLO 2015, Waco, TX.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. ARMADILLO 2015, Waco, TX.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. TAMUS Pathways Symposium, Corpus Christi, TX.
-</li>
-<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. Tarleton Research Symposium, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2015). Class-sourcing replications of reaction time studies: An example in mathematical cognition. Southwestern Teachers of Psychology Conference, Wichita, KS.
-</li>
-<li>Geye, T., Fleming, B., &amp; Faulkenberry, T. J. (April, 2015). Validation of the calculation fluency test for measuring arithmetic skills. Southwestern Psychological Association, Wichita, KS.
-</li>
-<li>Frampton, A., &amp; Faulkenberry, T. J. (April, 2015). Cognitive arithmetic processs: The effects of problem size and format on performance. Southwestern Psychological Association, Wichita, KS.
-</li>
-<li>Faulkenberry, T. J. (April, 2015). Evidence for a late-interactions model of the numerical size congruity effect. Southwestern Psychological Association, Wichita, KS.
-</li>
-<li>Harris Bozer, A., &amp; Faulkenberry, T. J. (April, 2015). Applying the CREATE pedagogical tool to the online animal behavior course to enhance scientific literacy.  2015 CIRTL Forum: Preparing the Future STEM Faculty for the Rapidly Changing Landscape of Higher Education, College Station, TX.
-</li>
-<li>Frampton, A., &amp; Faulkenberry, T. J. (March, 2015). Cognitive arithmetic processes: The effects of numerical surface form on strategy choice. Texas Undergraduate Research Day at the Capitol, Austin, TX.
-</li>
-<li>Faulkenberry, E. D., Smith, K., Riggs, E., &amp; Faulkenberry, T. J. (February, 2015). The evolution of PST’s beliefs: Examining the effect of teacher preparation. Research Council on Mathematics Learning, Las Vegas, NV.
-</li>
-<li>Faulkenberry, T. J. (October, 2014).  Hand movements reflect competitive processing in a numerical parity task. ARMADILLO 2014, Norman, OK.
-</li>
-<li>Faulkenberry, T. J. (October, 2014). The dynamics of fraction representations: Components are processed first. ARMADILLO 2014, Norman, OK.
-</li>
-<li>Faulkenberry, T. J. (April, 2014). Hand movements reflect competitive processing in numerical fraction representations. Southwestern Psychological Association, San Antonio, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2014). A brief introduction to using R for teaching statistical methods. Southwestern Teachers of Psychology Conference, San Antonio, TX.
-</li>
-<li>Faulkenberry, T. J. (March, 2014). A classroom activity for demonstrating confirmation bias. Tarleton Excellence in Teaching Conference, Stephenville, TX.
-</li>
-<li>Smith, K. H., Riggs, B., Faulkenberry, E. D., &amp; Faulkenberry, T. J. (February, 2014). A snapshot of preservice teacher beliefs: A factor analytic method. Research Council on Mathematics Learning, San Antonio, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2013). Modeling the roles of working memory and strategy type in fraction comparison. TX Section MAA Meeting, Texas Tech University, Lubbock, TX.
-</li>
-<li>Faulkenberry, T. J. (March, 2013). Estimating the working memory requirements of mental arithmetic. OK-AR Section MAA Meeting, Oklahoma State University, Stillwater, OK.
-</li>
-<li>Faulkenberry, T. J. (April, 2012). Some limitations in measuring working memory capacity. TX Section MAA Meeting, El Centro College, Dallas, TX.
-</li>
-<li>Faulkenberry, T. J. (February, 2012). Examining the role of testing in learning mathematics: Directions for future research. 39th Annual Meeting of the Research Council on Mathematics Learning, Charlotte, NC.
-</li>
-<li>Faulkenberry, T. J. &amp; Pierce, B. H. (October, 2011). The roles of working memory and strategy type in fraction comparison. ARMADILLO 2011, Commerce, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2010). Working memory and strategy execution in simple fraction strategies. Annual Research Symposium, Texas A&amp; M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (April, 2009). Mathematics anxiety among elementary education majors: Does test format matter?. Annual Research Symposium, Texas A&amp; M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (February, 2009). Mathematics anxiety among elementary education majors. 36th Annual Meeting of the Research Council on Mathematics Learning, Rome, GA.
-</li>
-<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (February, 2008). An assessment of the mathematical knowledge of elementary preservice teachers with regard to number and operation. 35th Annual Meeting of the Research Council on Mathematics Learning, Oklahoma City, OK.
-</li>
-<li>Faulkenberry, T. J. (February, 2008). Working memory: Cognitive and instructional implications for mathematics. 35th Annual Meeting of the Research Council on Mathematics Learning, Oklahoma City, OK.
-</li>
-<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (October, 2005). Using the geometry module in Teacher Quality grants. Charles A. Dana Center Higher Education Mathematics Conference, Austin, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2005). Cognitive frameworks in advanced mathematical thinking. MAA Texas Section Meeting, University of Texas - Arlington.
-</li>
-<li>Faulkenberry, T. J. (April, 2004). The shapes of 2-dimensional manifolds. MAA Texas Section Meeting, Texas A&amp;M University - Corpus Christi.
-</li>
-<li>Faulkenberry, T. J. (March, 2003). Conway’s ZIP proof. MAA Oklahoma/Arkansas Section Meeting, University of Tulsa.
-</li>
-<li>Faulkenberry, T. J. (March, 2002). Knot algorithms and their computational complexity. MAA Oklahoma/Arkansas Section Meeting, Henderson State University.
-</li>
-<li>Faulkenberry, T. J. (March, 2002). Topology in the high school? National Council of Teachers of Mathematics Regional Conference, Oklahoma City, OK.
-</li>
-<li>Faulkenberry, T. J. (March, 1999). The construction of a Riemann surface structure on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Arkansas Tech University.
-</li>
-<li>Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
-</li>
+<li>Faulkenberry, T. J. (January, 2019). Demonstrating Bayesian model comparison with a class-sourced experiment in mental arithmetic. National Institute on the Teaching of Psychology (NITOP), St. Pete Beach, FL</li>
+<li>Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.</li>
+<li>Faulkenberry, T. J. (November, 2017). A hierarchical Bayesian model for measuring response times in a mental arithmetic task. Society for Mathematical Psychology, Vancouver, BC.</li>
+<li>Faulkenberry, T. J. (April, 2017). Accumulator models of decision processes in mental arithmetic. Southwestern Psychological Association, San Antonio, TX</li>
+<li>Faulkenberry, T. J., &amp; Wood, J. (April, 2017). A Bayesian perspective on the operator preview paradigm in mental arithmetic. Southwestern Psychological Association, San Antonio, TX</li>
+<li>Nejman, J., &amp; Faulkenberry, T. J. (April, 2017). Implicit priming reveals both holistic and decomposed processing in fraction comparison. Southwestern Psychological Association, San Antonio, TX</li>
+<li>Wood, J., &amp; Faulkenberry, T. J. (April, 2017). The dynamics of operator preview effects in mental arithmetic. Southwestern Psychological Association, San Antonio, TX</li>
+<li>Bowman, K., &amp; Faulkenberry, T. J. (April, 2017). Testing competing models of two-digit number representation: Decomposed versus holistic processing. Southwestern Psychological Association, San Antonio, TX</li>
+<li>Faulkenberry, T. J. (April, 2016). Testing two accounts of response dynamics in a number comparison task. Southwestern Psychological Association, Dallas, TX</li>
+<li>Faulkenberry, T. J. (April, 2016). Recent developments on the size congruity effect in numerical cognition. Southwestern Psychological Association, Dallas, TX</li>
+<li>Rutledge, M., &amp; Faulkenberry, T. J. (April, 2016). Spatial-numerical associations in mental arithmetic. Southwestern Psychological Association, Dallas, TX</li>
+<li>Geye, T., &amp; Faulkenberry, T. J. (April, 2016). Computer mousetracking reveals individual differences in a size congruity task. Southwestern Psychological Association, Dallas, TX</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (April, 2016). The effects of mathematical fluency on multi-digit number representations. Southwestern Psychological Association, Dallas, TX</li>
+<li>Faulkenberry, T. J. (October, 2015). Testing a direct-mapping versus competition account of response dynamics in a number comparison task. ARMADILLO 2015, Waco, TX.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. ARMADILLO 2015, Waco, TX.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. TAMUS Pathways Symposium, Corpus Christi, TX.</li>
+<li>Bowman, K. A., &amp; Faulkenberry, T. J. (October, 2015). The effects of mathematical fluency on multi-digit number representations. Tarleton Research Symposium, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. (April, 2015). Class-sourcing replications of reaction time studies: An example in mathematical cognition. Southwestern Teachers of Psychology Conference, Wichita, KS.</li>
+<li>Geye, T., Fleming, B., &amp; Faulkenberry, T. J. (April, 2015). Validation of the calculation fluency test for measuring arithmetic skills. Southwestern Psychological Association, Wichita, KS.</li>
+<li>Frampton, A., &amp; Faulkenberry, T. J. (April, 2015). Cognitive arithmetic processs: The effects of problem size and format on performance. Southwestern Psychological Association, Wichita, KS.</li>
+<li>Faulkenberry, T. J. (April, 2015). Evidence for a late-interactions model of the numerical size congruity effect. Southwestern Psychological Association, Wichita, KS.</li>
+<li>Harris Bozer, A., &amp; Faulkenberry, T. J. (April, 2015). Applying the CREATE pedagogical tool to the online animal behavior course to enhance scientific literacy.  2015 CIRTL Forum: Preparing the Future STEM Faculty for the Rapidly Changing Landscape of Higher Education, College Station, TX.</li>
+<li>Frampton, A., &amp; Faulkenberry, T. J. (March, 2015). Cognitive arithmetic processes: The effects of numerical surface form on strategy choice. Texas Undergraduate Research Day at the Capitol, Austin, TX.</li>
+<li>Faulkenberry, E. D., Smith, K., Riggs, E., &amp; Faulkenberry, T. J. (February, 2015). The evolution of PST’s beliefs: Examining the effect of teacher preparation. Research Council on Mathematics Learning, Las Vegas, NV.</li>
+<li>Faulkenberry, T. J. (October, 2014).  Hand movements reflect competitive processing in a numerical parity task. ARMADILLO 2014, Norman, OK.</li>
+<li>Faulkenberry, T. J. (October, 2014). The dynamics of fraction representations: Components are processed first. ARMADILLO 2014, Norman, OK.</li>
+<li>Faulkenberry, T. J. (April, 2014). Hand movements reflect competitive processing in numerical fraction representations. Southwestern Psychological Association, San Antonio, TX.</li>
+<li>Faulkenberry, T. J. (April, 2014). A brief introduction to using R for teaching statistical methods. Southwestern Teachers of Psychology Conference, San Antonio, TX.</li>
+<li>Faulkenberry, T. J. (March, 2014). A classroom activity for demonstrating confirmation bias. Tarleton Excellence in Teaching Conference, Stephenville, TX.</li>
+<li>Smith, K. H., Riggs, B., Faulkenberry, E. D., &amp; Faulkenberry, T. J. (February, 2014). A snapshot of preservice teacher beliefs: A factor analytic method. Research Council on Mathematics Learning, San Antonio, TX.</li>
+<li>Faulkenberry, T. J. (April, 2013). Modeling the roles of working memory and strategy type in fraction comparison. TX Section MAA Meeting, Texas Tech University, Lubbock, TX.</li>
+<li>Faulkenberry, T. J. (March, 2013). Estimating the working memory requirements of mental arithmetic. OK-AR Section MAA Meeting, Oklahoma State University, Stillwater, OK.</li>
+<li>Faulkenberry, T. J. (April, 2012). Some limitations in measuring working memory capacity. TX Section MAA Meeting, El Centro College, Dallas, TX.</li>
+<li>Faulkenberry, T. J. (February, 2012). Examining the role of testing in learning mathematics: Directions for future research. 39th Annual Meeting of the Research Council on Mathematics Learning, Charlotte, NC.</li>
+<li>Faulkenberry, T. J. &amp; Pierce, B. H. (October, 2011). The roles of working memory and strategy type in fraction comparison. ARMADILLO 2011, Commerce, TX.</li>
+<li>Faulkenberry, T. J. (April, 2010). Working memory and strategy execution in simple fraction strategies. Annual Research Symposium, Texas A&amp; M University - Commerce.</li>
+<li>Faulkenberry, T. J. (April, 2009). Mathematics anxiety among elementary education majors: Does test format matter?. Annual Research Symposium, Texas A&amp; M University - Commerce.</li>
+<li>Faulkenberry, T. J. (February, 2009). Mathematics anxiety among elementary education majors. 36th Annual Meeting of the Research Council on Mathematics Learning, Rome, GA.</li>
+<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (February, 2008). An assessment of the mathematical knowledge of elementary preservice teachers with regard to number and operation. 35th Annual Meeting of the Research Council on Mathematics Learning, Oklahoma City, OK.</li>
+<li>Faulkenberry, T. J. (February, 2008). Working memory: Cognitive and instructional implications for mathematics. 35th Annual Meeting of the Research Council on Mathematics Learning, Oklahoma City, OK.</li>
+<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (October, 2005). Using the geometry module in Teacher Quality grants. Charles A. Dana Center Higher Education Mathematics Conference, Austin, TX.</li>
+<li>Faulkenberry, T. J. (April, 2005). Cognitive frameworks in advanced mathematical thinking. MAA Texas Section Meeting, University of Texas - Arlington.</li>
+<li>Faulkenberry, T. J. (April, 2004). The shapes of 2-dimensional manifolds. MAA Texas Section Meeting, Texas A&amp;M University - Corpus Christi.</li>
+<li>Faulkenberry, T. J. (March, 2003). Conway’s ZIP proof. MAA Oklahoma/Arkansas Section Meeting, University of Tulsa.</li>
+<li>Faulkenberry, T. J. (March, 2002). Knot algorithms and their computational complexity. MAA Oklahoma/Arkansas Section Meeting, Henderson State University.</li>
+<li>Faulkenberry, T. J. (March, 2002). Topology in the high school? National Council of Teachers of Mathematics Regional Conference, Oklahoma City, OK.</li>
+<li>Faulkenberry, T. J. (March, 1999). The construction of a Riemann surface structure on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Arkansas Tech University.</li>
+<li>Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-sec-1-8" class="outline-3">
-<h3 id="sec-1-8">Seminars and Invited Talks</h3>
-<div class="outline-text-3" id="text-1-8">
+<div id="outline-container-orgbed53fe" class="outline-3">
+<h3 id="orgbed53fe">Seminars and Invited Talks</h3>
+<div class="outline-text-3" id="text-orgbed53fe">
 <ol class="org-ol">
-<li>Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics &#x2013; Texas Lutheran University, Seguin, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2018). Introduction to applied Bayesian hypothesis testing &#x2013; Faculty Research Coffee Hour, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A&amp;M University - San Antonio Speakers' Series, San Antonio, TX.
-</li>
-<li>Faulkenberry, T. J. (September, 2017). Modeling response times in mental arithmetic. Baylor University Psychology and Neuroscience Speaker Series, Waco, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2017). The Pope, Bayes' Theorem, and Harry Potter: A statistical drama in three acts.  Tarleton Psychology Club, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. (March, 2017). Using mathematical modeling to understand mental arithmetic. Tarleton Math Club, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. (Nov. 2015). Associations between number and space in mental arithmetic.  Psychological Sciences Open House, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. et al. (Oct. 2015). Publishing in the digital age.  CII Panel Presentation, Stephenville, TX.
-</li>
-<li>Faulkenberry, T. J. (June, 2015). Discussion of Marghetis et al. (2014). Carleton Math Cognition Lab, Ottawa, Ontario.
-</li>
-<li>Smith, K. H., Riggs, B., Faulkenberry, E. D., &amp; Faulkenberry, T. J. (May, 2014). A snapshot of preservice teacher beliefs: A factor analytic method. Tarleton State University Math Day 2014.
-</li>
-<li>Faulkenberry, T. J. (Feb, 2014). Detecting cognitive processes via the motions of the hand: Studies in numerical cognition.  Psychology &amp; Counseling Department Seminar, Tarleton State University.Math 
-</li>
-<li>Faulkenberry, T. J. (April, 2013). Estimating the working memory requirements of mental arithmetic. Mathematics Education Seminar, University of Texas - Arlington, Arlington, TX.
-</li>
-<li>Faulkenberry, T. J. (April, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Southeastern Oklahoma State University, Durant, OK.
-</li>
-<li>Faulkenberry, T. J. (May, 2012). Arctangent approximations of \(\pi\). Math Club Invited Speaker, Texas A&amp;M University - Commerce
-</li>
-<li>Faulkenberry, T. J. (Feb, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2011). Introduction to LaTeX, Mathematics Department Colloquium, Texas A&amp;M University - Commerce
-</li>
-<li>Faulkenberry, T. J. (2009). Working memory in mathematical cognition: The case for fractions. Mathematics Department Colloquium, Texas A&amp; M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2007). Uses, mis-uses, and non-uses of probability and statistics. Math club invited lecture, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). Continuous dynamics among phonological competitors. Cognitive Science Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). The evolution of color language. Cognitive Science Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). A computational model of event segmentation based on perceptual prediction. Cognitive Science Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). An introduction to latent semantic analysis. Cognitive Science Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). Dissections in mathematics. Math club invited lecture, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2006). Embodied cognition: The role of body and mind in abstract thought. Mathematics Education Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2005). A cognitive map for mathematical induction. Mathematics Education Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2005). Reflective abstraction in advanced mathematical thinking. Mathematics Education Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2005). Explorations in Flatland. Mathematics Colloquium, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2005). What is mathematics education research? Mathematics Education Seminar, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2004). Where do all the knots live: Templates and surface dynamics. Mathematics Colloquium, Texas A&amp;M University - Commerce.
-</li>
-<li>Faulkenberry, T. J. (2003). A beginner’s guide to 3-manifolds. Graduate Student Colloquium, University of North Texas.
-</li>
-<li>Faulkenberry, T. J. (2002). Determining the shape of space. Mathematics Colloquium, University of Central Oklahoma.
-</li>
-<li>Faulkenberry, T. J. (2002). Determining the shape of space. Mathematics Colloquium, East Central University.
-</li>
-<li>Faulkenberry, T. J. (2002). Algorithms in topology. Mathematics Colloquium, Southeastern Oklahoma State University.
-</li>
+<li>Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics &#x2013; Texas Lutheran University, Seguin, TX.</li>
+<li>Faulkenberry, T. J. (April, 2018). Introduction to applied Bayesian hypothesis testing &#x2013; Faculty Research Coffee Hour, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A&amp;M University - San Antonio Speakers' Series, San Antonio, TX.</li>
+<li>Faulkenberry, T. J. (September, 2017). Modeling response times in mental arithmetic. Baylor University Psychology and Neuroscience Speaker Series, Waco, TX.</li>
+<li>Faulkenberry, T. J. (April, 2017). The Pope, Bayes' Theorem, and Harry Potter: A statistical drama in three acts.  Tarleton Psychology Club, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. (March, 2017). Using mathematical modeling to understand mental arithmetic. Tarleton Math Club, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. (Nov. 2015). Associations between number and space in mental arithmetic.  Psychological Sciences Open House, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. et al. (Oct. 2015). Publishing in the digital age.  CII Panel Presentation, Stephenville, TX.</li>
+<li>Faulkenberry, T. J. (June, 2015). Discussion of Marghetis et al. (2014). Carleton Math Cognition Lab, Ottawa, Ontario.</li>
+<li>Smith, K. H., Riggs, B., Faulkenberry, E. D., &amp; Faulkenberry, T. J. (May, 2014). A snapshot of preservice teacher beliefs: A factor analytic method. Tarleton State University Math Day 2014.</li>
+<li>Faulkenberry, T. J. (Feb, 2014). Detecting cognitive processes via the motions of the hand: Studies in numerical cognition.  Psychology &amp; Counseling Department Seminar, Tarleton State University.Math</li>
+<li>Faulkenberry, T. J. (April, 2013). Estimating the working memory requirements of mental arithmetic. Mathematics Education Seminar, University of Texas - Arlington, Arlington, TX.</li>
+<li>Faulkenberry, T. J. (April, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Southeastern Oklahoma State University, Durant, OK.</li>
+<li>Faulkenberry, T. J. (May, 2012). Arctangent approximations of \(\pi\). Math Club Invited Speaker, Texas A&amp;M University - Commerce</li>
+<li>Faulkenberry, T. J. (Feb, 2012). Reconsidering the magic number 7: Measuring and modeling working memory capacity. Mathematics Department Colloquium, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2011). Introduction to LaTeX, Mathematics Department Colloquium, Texas A&amp;M University - Commerce</li>
+<li>Faulkenberry, T. J. (2009). Working memory in mathematical cognition: The case for fractions. Mathematics Department Colloquium, Texas A&amp; M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2007). Uses, mis-uses, and non-uses of probability and statistics. Math club invited lecture, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). Continuous dynamics among phonological competitors. Cognitive Science Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). The evolution of color language. Cognitive Science Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). A computational model of event segmentation based on perceptual prediction. Cognitive Science Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). An introduction to latent semantic analysis. Cognitive Science Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). Dissections in mathematics. Math club invited lecture, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2006). Embodied cognition: The role of body and mind in abstract thought. Mathematics Education Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2005). A cognitive map for mathematical induction. Mathematics Education Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2005). Reflective abstraction in advanced mathematical thinking. Mathematics Education Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2005). Explorations in Flatland. Mathematics Colloquium, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2005). What is mathematics education research? Mathematics Education Seminar, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2004). Where do all the knots live: Templates and surface dynamics. Mathematics Colloquium, Texas A&amp;M University - Commerce.</li>
+<li>Faulkenberry, T. J. (2003). A beginner’s guide to 3-manifolds. Graduate Student Colloquium, University of North Texas.</li>
+<li>Faulkenberry, T. J. (2002). Determining the shape of space. Mathematics Colloquium, University of Central Oklahoma.</li>
+<li>Faulkenberry, T. J. (2002). Determining the shape of space. Mathematics Colloquium, East Central University.</li>
+<li>Faulkenberry, T. J. (2002). Algorithms in topology. Mathematics Colloquium, Southeastern Oklahoma State University.</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-sec-1-9" class="outline-3">
-<h3 id="sec-1-9">Research Funding</h3>
-<div class="outline-text-3" id="text-1-9">
+<div id="outline-container-orgf47f78a" class="outline-3">
+<h3 id="orgf47f78a">Research Funding</h3>
+<div class="outline-text-3" id="text-orgf47f78a">
 <p>
 <i>PI unless otherwise noted.  Total funding = $233,668.</i>
 </p>
 
 <ul class="org-ul">
-<li>2018-2019, Tarleton State University, Faculty-Student Research Grant, $5000, <i>Modeling individual difference structures in numerical cognition</i>
-</li>
-<li>2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space</i>
-</li>
-<li>2017 (fall), Tarleton State University, Faculty Development Grant, $1000, <i>Travel: Psychonomic Society Meeting in Vancouver, BC</i>
-</li>
-<li>2017 (summer), Tarleton State University, First Year Research Experience (FYRE), $4000, <i>Using the Wiener diffusion process to model response time distributions in a numerical decision task</i>  
-</li>
-<li>2015 (fall), Tarleton State University, Faculty Development Grant, $750, <i>Travel: Psychonomic Society Meeting in Boston, MA</i>
-</li>
-<li>2016 (summer), Tarleton State University, First Year Research Experience (FYRE), $6500, <i>Investigating the dynamics of operator preview effects in mental arithmetic</i>
-</li>
-<li>2016 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $4000, <i>Testing competing models of two-digit number representation: Decomposed, holistic, or hybrid?</i>
-</li>
-<li>2016 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Testing decomposed versus holistic fraction representations via an implicit priming task</i>
-</li>
-<li>2016 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Is memory "retrieval" in single digit arithmetic really just rapid shifts of attention along a mental number line?</i>
-</li>
-<li>2015 (fall), Tarleton State University, Faculty Development Grant, $750, <i>Travel: Psychonomic Society Meeting in Chicago, Illinois</i>
-</li>
-<li>2015 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>The effects of numerical fluency on mental representations of two-digit numbers.</i>
-</li>
-<li>2015 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Spatial-numerical associations in mental arithmetic.</i>
-</li>
-<li>2015 (summer), Tarleton State University, First Year Research Experience (FYRE), $6500, <i>Mental representations of two-digit numbers</i>
-</li>
-<li>2015 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $3500, <i>Spatial-numerical associations in mental arithmetic.</i>
-</li>
-<li>2015 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Are the stages of cognitive arithmetic additive or interactive? The effects of numerical surface form on an addition production task.</i>
-</li>
-<li>2015 (spring), Society for the Teaching of Psychology, Early Career Travel Grant, $350, <i>Travel: Southwestern Teachers of Psychology Conference in Wichita, Kansas</i>
-</li>
-<li>2014-2015, Tarleton State University, Organized Research Grant, $9560, <i>Investigating the cognitive factors behind mathematics learning disability</i>
-</li>
-<li>2014 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>The effects of numerical surface form on strategies for mental arithmetic verification</i>
-</li>
-<li>2014 (fall), Tarleton State University, Faculty Development Grant, $508, <i>Travel: Psychonomic Society Meeting in Long Beach, California</i>
-</li>
-<li>2014 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $3500, <i>Using hand tracking to analyze mental representations of fractions</i>
-</li>
-<li>2014 (spring), Tarleton State University, QEP Startup Grant, $1500, <i>Applied Learning Experience: Undergraduate Research in Mathematical Cognition</i>
-</li>
-<li>2013 (fall), Tarleton State University, Faculty Development Grant, $630, <i>Travel: Psychonomic Society Meeting in Toronto, Ontario</i>
-</li>
-<li>2012-2013, National Science Foundation: Robert Noyce Scholarship Program, $174,020 (Co-PI with Ben Jang), <i>Building the Capacity for Math and Science Teacher Training</i>
-</li>
-<li>2010, Texas A&amp;M University – Commerce, OSP Research Grant, $5000, <i>Mouse Tracking in Mathematical Cognition</i>
-</li>
-<li>2008, Texas A&amp;M University – Commerce, OSP Mini Grant, $600, <i>IoLab Button Box for Psyscope X</i>
-</li>
+<li>2018-2019, Tarleton State University, Faculty-Student Research Grant, $5000, <i>Modeling individual difference structures in numerical cognition</i></li>
+<li>2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space</i></li>
+<li>2017 (fall), Tarleton State University, Faculty Development Grant, $1000, <i>Travel: Psychonomic Society Meeting in Vancouver, BC</i></li>
+<li>2017 (summer), Tarleton State University, First Year Research Experience (FYRE), $4000, <i>Using the Wiener diffusion process to model response time distributions in a numerical decision task</i></li>
+<li>2015 (fall), Tarleton State University, Faculty Development Grant, $750, <i>Travel: Psychonomic Society Meeting in Boston, MA</i></li>
+<li>2016 (summer), Tarleton State University, First Year Research Experience (FYRE), $6500, <i>Investigating the dynamics of operator preview effects in mental arithmetic</i></li>
+<li>2016 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $4000, <i>Testing competing models of two-digit number representation: Decomposed, holistic, or hybrid?</i></li>
+<li>2016 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Testing decomposed versus holistic fraction representations via an implicit priming task</i></li>
+<li>2016 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Is memory "retrieval" in single digit arithmetic really just rapid shifts of attention along a mental number line?</i></li>
+<li>2015 (fall), Tarleton State University, Faculty Development Grant, $750, <i>Travel: Psychonomic Society Meeting in Chicago, Illinois</i></li>
+<li>2015 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>The effects of numerical fluency on mental representations of two-digit numbers.</i></li>
+<li>2015 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Spatial-numerical associations in mental arithmetic.</i></li>
+<li>2015 (summer), Tarleton State University, First Year Research Experience (FYRE), $6500, <i>Mental representations of two-digit numbers</i></li>
+<li>2015 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $3500, <i>Spatial-numerical associations in mental arithmetic.</i></li>
+<li>2015 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>Are the stages of cognitive arithmetic additive or interactive? The effects of numerical surface form on an addition production task.</i></li>
+<li>2015 (spring), Society for the Teaching of Psychology, Early Career Travel Grant, $350, <i>Travel: Southwestern Teachers of Psychology Conference in Wichita, Kansas</i></li>
+<li>2014-2015, Tarleton State University, Organized Research Grant, $9560, <i>Investigating the cognitive factors behind mathematics learning disability</i></li>
+<li>2014 (fall), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, <i>The effects of numerical surface form on strategies for mental arithmetic verification</i></li>
+<li>2014 (fall), Tarleton State University, Faculty Development Grant, $508, <i>Travel: Psychonomic Society Meeting in Long Beach, California</i></li>
+<li>2014 (summer), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $3500, <i>Using hand tracking to analyze mental representations of fractions</i></li>
+<li>2014 (spring), Tarleton State University, QEP Startup Grant, $1500, <i>Applied Learning Experience: Undergraduate Research in Mathematical Cognition</i></li>
+<li>2013 (fall), Tarleton State University, Faculty Development Grant, $630, <i>Travel: Psychonomic Society Meeting in Toronto, Ontario</i></li>
+<li>2012-2013, National Science Foundation: Robert Noyce Scholarship Program, $174,020 (Co-PI with Ben Jang), <i>Building the Capacity for Math and Science Teacher Training</i></li>
+<li>2010, Texas A&amp;M University – Commerce, OSP Research Grant, $5000, <i>Mouse Tracking in Mathematical Cognition</i></li>
+<li>2008, Texas A&amp;M University – Commerce, OSP Mini Grant, $600, <i>IoLab Button Box for Psyscope X</i></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-10" class="outline-3">
-<h3 id="sec-1-10">Editorial roles</h3>
-<div class="outline-text-3" id="text-1-10">
+<div id="outline-container-org385eb90" class="outline-3">
+<h3 id="org385eb90">Editorial roles</h3>
+<div class="outline-text-3" id="text-org385eb90">
 <ul class="org-ul">
-<li>Associate Editor (2017-present): <i>Journal of European Psychology Students</i>
-</li>
-<li>Associate Editor (2017-present): <i>Frontiers in Psychology: Cognition Section</i>
-</li>
-<li>Guest Editor (2016-2018): <i>Journal of Numerical Cognition</i>
-</li>
-<li>Associate Editor (2016-2018): <i>Journal of Psychological Inquiry</i>
-</li>
-<li>Review Editor (2016-2017): <i>Frontiers in Psychology: Cognition Section</i>
-</li>
+<li>Associate Editor (2017-present): <i>Journal of European Psychology Students</i></li>
+<li>Associate Editor (2017-present): <i>Frontiers in Psychology: Cognition Section</i></li>
+<li>Guest Editor (2016-2018): <i>Journal of Numerical Cognition</i></li>
+<li>Associate Editor (2016-2018): <i>Journal of Psychological Inquiry</i></li>
+<li>Review Editor (2016-2017): <i>Frontiers in Psychology: Cognition Section</i></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-sec-1-11" class="outline-3">
-<h3 id="sec-1-11">Reviewing</h3>
-<div class="outline-text-3" id="text-1-11">
+<div id="outline-container-org3678dfb" class="outline-3">
+<h3 id="org3678dfb">Reviewing</h3>
+<div class="outline-text-3" id="text-org3678dfb">
 <ul class="org-ul">
-<li>Ad hoc reviewer for the following journals: <i>Acta Psychologica, Attention, Perception, &amp; Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology</i>
-</li>
+<li>Ad hoc reviewer for the following journals: <i>Acta Psychologica, Attention, Perception, &amp; Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology</i></li>
 <li>External Examiner
 <ul class="org-ul">
-<li>2017, Corinna Jones, Ph.D., University of Huddersfield, UK
-</li>
-</ul>
-</li>
+<li>2017, Corinna Jones, Ph.D., University of Huddersfield, UK</li>
+</ul></li>
 <li>Panelist/Reader
 <ul class="org-ul">
-<li>2017, Judge, American Statistical Association Statistics Project Competition
-</li>
-<li>2015-2018, Reader, AP Statistics Exam, Kansas City, MO
-</li>
-<li>2012-2015, Panelist, National Science Foundation, Washington, DC
-</li>
-</ul>
-</li>
+<li>2017, Judge, American Statistical Association Statistics Project Competition</li>
+<li>2015-2018, Reader, AP Statistics Exam, Kansas City, MO</li>
+<li>2012-2015, Panelist, National Science Foundation, Washington, DC</li>
+</ul></li>
 
-<li>Textbook reviewer for Psychology Press, Routledge, Sage, Taylor &amp; Francis
-</li>
+<li>Textbook reviewer for Psychology Press, Routledge, Sage, Taylor &amp; Francis</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-12" class="outline-3">
-<h3 id="sec-1-12">Professional Memberships</h3>
-<div class="outline-text-3" id="text-1-12">
+<div id="outline-container-org172223f" class="outline-3">
+<h3 id="org172223f">Professional Memberships</h3>
+<div class="outline-text-3" id="text-org172223f">
 <ul class="org-ul">
-<li>American Mathematical Society
-</li>
-<li>American Statistical Association
-</li>
-<li>Canadian Society for Brain, Behaviour, &amp; Cognitive Science
-</li>
-<li>Mathematical Cognition and Learning Society
-</li>
-<li>Psychonomic Society
-</li>
-<li>Society for Mathematical Psychology
-</li>
-<li>Southwestern Psychological Association (SWPA)
-</li>
+<li>American Mathematical Society</li>
+<li>American Statistical Association</li>
+<li>Canadian Society for Brain, Behaviour, &amp; Cognitive Science</li>
+<li>Mathematical Cognition and Learning Society</li>
+<li>Psychonomic Society</li>
+<li>Society for Mathematical Psychology</li>
+<li>Southwestern Psychological Association (SWPA)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-13" class="outline-3">
-<h3 id="sec-1-13">Professional Service</h3>
-<div class="outline-text-3" id="text-1-13">
+<div id="outline-container-orgffc9ad9" class="outline-3">
+<h3 id="orgffc9ad9">Professional Service</h3>
+<div class="outline-text-3" id="text-orgffc9ad9">
 <p>
 National/regional service 
 </p>
 
 <ul class="org-ul">
-<li>Program Review Committee member, Psychonomic Society (appointed 2018-2021)
-</li>
-<li>Treasurer, Southwestern Psychological Association (appointed, 2017-2020)        
-</li>
-<li>Texas Representative, Southwestern Psychological Association (elected, 2015-2017)
-</li>
-<li>Steering Committee Member, Southwestern Teachers of Psychology (appointed, 2015-2016)
-</li>
-<li>Nominating Committee Chair, Southwestern Psychological Association (appointed, 2015)
-</li>
-<li>Advisory Board Member, Collaborative Replications and Education Project (CREP) (appointed, 2014-2016)
-</li>
-<li>Session Chair, Psychonomics Annual Meeting (2014, 2015)
-</li>
-<li>Session Chair, Southwestern Psychological Association Meeting (2015)
-</li>
-<li>Conference Committee Member, Research Council on Mathematics Learning (elected, 2012-2015)
-</li>
+<li>Program Review Committee member, Psychonomic Society (appointed 2018-2021)</li>
+<li>Treasurer, Southwestern Psychological Association (appointed, 2017-2020)</li>
+<li>Texas Representative, Southwestern Psychological Association (elected, 2015-2017)</li>
+<li>Steering Committee Member, Southwestern Teachers of Psychology (appointed, 2015-2016)</li>
+<li>Nominating Committee Chair, Southwestern Psychological Association (appointed, 2015)</li>
+<li>Advisory Board Member, Collaborative Replications and Education Project (CREP) (appointed, 2014-2016)</li>
+<li>Session Chair, Psychonomics Annual Meeting (2014, 2015)</li>
+<li>Session Chair, Southwestern Psychological Association Meeting (2015)</li>
+<li>Conference Committee Member, Research Council on Mathematics Learning (elected, 2012-2015)</li>
 </ul>
 
 <p>
@@ -723,44 +590,25 @@ University service
 </p>
 
 <ul class="org-ul">
-<li>Chair, Institutional Review Board (IRB) (2018-present)
-</li>
-<li>Faculty Research Fellow (2018-present)
-</li>
-<li>Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)
-</li>
-<li>State Non-Funded Course Review Group, Member, Tarleton (2015-present)
-</li>
-<li>University Research Committee, Member, Tarleton (2015-present)
-</li>
-<li>Student Research and Creative Activity Advisory Committee, Member, Tarleton (2013-present)
-</li>
-<li>Member, Institutional Review Board (IRB) (2017-2018)
-</li>
-<li>Faculty Fellow, Tarleton (2016-2018)
-</li>
-<li>Honors Advisory Committee for College of Education, Member, Tarleton (2015-2017)
-</li>
-<li>Session Chair and Judge, TAMUS Pathways Symposium (2017)
-</li>
-<li>University ALE Task Force, Member, Tarleton (2016-2017)
-</li>
-<li>Curriculum Committee, College of Education, Member, Tarleton (2014-2017)
-</li>
-<li>Greater Expectations Task Force, Member, Tarleton (2014-2015)
-</li>
-<li>Student Marshall, College of Education Commencement, Tarleton (Sp14, Sp15, Fa15)
-</li>
-<li>Session Chair and Judge, Tarleton Research Symposium (2014, 2015)
-</li>
-<li>External Search Committee member, Department of Engineering, TAMU-C (2012-2013)
-</li>
-<li>University Honors Council, Member, TAMU-C (2012-2013)
-</li>
-<li>Liberal Studies Committee, Member, TAMU-C (2012-2013)
-</li>
-<li>Developmental Appeals Committee, Member, TAMU-C (2010-2012)                
-</li>
+<li>Chair, Institutional Review Board (IRB) (2018-present)</li>
+<li>Faculty Research Fellow (2018-present)</li>
+<li>Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)</li>
+<li>State Non-Funded Course Review Group, Member, Tarleton (2015-present)</li>
+<li>University Research Committee, Member, Tarleton (2015-present)</li>
+<li>Student Research and Creative Activity Advisory Committee, Member, Tarleton (2013-present)</li>
+<li>Member, Institutional Review Board (IRB) (2017-2018)</li>
+<li>Faculty Fellow, Tarleton (2016-2018)</li>
+<li>Honors Advisory Committee for College of Education, Member, Tarleton (2015-2017)</li>
+<li>Session Chair and Judge, TAMUS Pathways Symposium (2017)</li>
+<li>University ALE Task Force, Member, Tarleton (2016-2017)</li>
+<li>Curriculum Committee, College of Education, Member, Tarleton (2014-2017)</li>
+<li>Greater Expectations Task Force, Member, Tarleton (2014-2015)</li>
+<li>Student Marshall, College of Education Commencement, Tarleton (Sp14, Sp15, Fa15)</li>
+<li>Session Chair and Judge, Tarleton Research Symposium (2014, 2015)</li>
+<li>External Search Committee member, Department of Engineering, TAMU-C (2012-2013)</li>
+<li>University Honors Council, Member, TAMU-C (2012-2013)</li>
+<li>Liberal Studies Committee, Member, TAMU-C (2012-2013)</li>
+<li>Developmental Appeals Committee, Member, TAMU-C (2010-2012)</li>
 </ul>
 
 <p>
@@ -768,159 +616,111 @@ Department service
 </p>
 
 <ul class="org-ul">
-<li>Organized <i>Psychological Sciences Day</i>, Tarleton, (2017-2018)
-</li>
-<li>Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015)
-</li>
-<li>Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2018)
-</li>
-<li>Texan Tour Speaker, Department of Psychological Sciences, Tarleton (2015)
-</li>
-<li>Organizer, Psychology Department Seminar, Tarleton (2013-2014)
-</li>
-<li>Psychology Scholarship Committee, Tarleton (2013-2015)
-</li>
-<li>Psychology Undergraduate Programs Committee, Member, TAMU-C (2011-2012)
-</li>
+<li>Organized <i>Psychological Sciences Day</i>, Tarleton, (2017-2018)</li>
+<li>Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015)</li>
+<li>Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2018)</li>
+<li>Texan Tour Speaker, Department of Psychological Sciences, Tarleton (2015)</li>
+<li>Organizer, Psychology Department Seminar, Tarleton (2013-2014)</li>
+<li>Psychology Scholarship Committee, Tarleton (2013-2015)</li>
+<li>Psychology Undergraduate Programs Committee, Member, TAMU-C (2011-2012)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-14" class="outline-3">
-<h3 id="sec-1-14">Courses Taught</h3>
-<div class="outline-text-3" id="text-1-14">
+<div id="outline-container-orgc6d4792" class="outline-3">
+<h3 id="orgc6d4792">Courses Taught</h3>
+<div class="outline-text-3" id="text-orgc6d4792">
 <p>
 Tarleton State University
 </p>
 
 <ul class="org-ul">
-<li>PSYC 2301: General Psychology (Honors), Fall 13,14,15
-</li>
-<li>PSYC 2301: General Psychology, Summer 14,15
-</li>
-<li>PSYC 3301: Psychology of Learning, Fall 13,14,15,16
-</li>
-<li>PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
-</li>
-<li>PSYC 3309: Writing in Psychology, Spring 16
-</li>
-<li>PSYC 3320: Psycholinguistics, Summer 17,18
-</li>
-<li>PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18
-</li>
-<li>PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18,19; Su 15,16,17
-</li>
-<li>PSYC 4386: Advanced Statistical Methods, Spring 14
-</li>
-<li>PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
-</li>
-<li>PSYC 4386: Problems in Numerical Cognition, Fall 15
-</li>
-<li>PSYC 5303: Theories of Learning, Fall 16
-</li>
-<li>HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
-</li>
-<li>PSYC 5301: Research Methods, Spring 14,15,17,18,19
-</li>
-<li>PSYC 5304: Human Development, Spring 14
-</li>
-<li>PSYC 5316: Advanced Quantitative Methods, Fall 17,18
-</li>
-<li>PSYC 5379: Advanced Psycholinguistics, Summer 17,18
-</li>
-<li>EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
-</li>
+<li>PSYC 2301: General Psychology (Honors), Fall 13,14,15</li>
+<li>PSYC 2301: General Psychology, Summer 14,15</li>
+<li>PSYC 3301: Psychology of Learning, Fall 13,14,15,16</li>
+<li>PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16</li>
+<li>PSYC 3309: Writing in Psychology, Spring 16</li>
+<li>PSYC 3320: Psycholinguistics, Summer 17,18</li>
+<li>PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18</li>
+<li>PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18,19; Su 15,16,17</li>
+<li>PSYC 4386: Advanced Statistical Methods, Spring 14</li>
+<li>PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15</li>
+<li>PSYC 4386: Problems in Numerical Cognition, Fall 15</li>
+<li>PSYC 5303: Theories of Learning, Fall 16</li>
+<li>HONS 3385: Honors Seminar (Numerical Cognition), Spring 15</li>
+<li>PSYC 5301: Research Methods, Spring 14,15,17,18,19</li>
+<li>PSYC 5304: Human Development, Spring 14</li>
+<li>PSYC 5316: Advanced Quantitative Methods, Fall 17,18</li>
+<li>PSYC 5379: Advanced Psycholinguistics, Summer 17,18</li>
+<li>EDAD 6313: Statistical Methods for Educational Leadership, Spring 16</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-15" class="outline-3">
-<h3 id="sec-1-15">Student Mentoring</h3>
-<div class="outline-text-3" id="text-1-15">
-</div><div id="outline-container-sec-1-15-1" class="outline-4">
-<h4 id="sec-1-15-1">Masters Thesis Chair</h4>
-<div class="outline-text-4" id="text-1-15-1">
+<div id="outline-container-org771044d" class="outline-3">
+<h3 id="org771044d">Student Mentoring</h3>
+<div class="outline-text-3" id="text-org771044d">
+</div>
+<div id="outline-container-orga700df7" class="outline-4">
+<h4 id="orga700df7">Masters Thesis Chair</h4>
+<div class="outline-text-4" id="text-orga700df7">
 <ul class="org-ul">
-<li>Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
-</li>
+<li>Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-15-2" class="outline-4">
-<h4 id="sec-1-15-2">Doctoral Committees</h4>
-<div class="outline-text-4" id="text-1-15-2">
+<div id="outline-container-orga645b19" class="outline-4">
+<h4 id="orga645b19">Doctoral Committees</h4>
+<div class="outline-text-4" id="text-orga645b19">
 <ul class="org-ul">
-<li>Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
-</li>
-<li>Trina Geye (Psychology, TAMU-C, graduated 2016)
-</li>
-<li>Stephen McDaniel (Psychology, TAMU-C, in progress)
-</li>
-<li>Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)
-</li>
-<li>Donna Peters (Psychology, TAMU-C, graduated 2013)
-</li>
+<li>Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)</li>
+<li>Trina Geye (Psychology, TAMU-C, graduated 2016)</li>
+<li>Stephen McDaniel (Psychology, TAMU-C, in progress)</li>
+<li>Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)</li>
+<li>Donna Peters (Psychology, TAMU-C, graduated 2013)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-15-3" class="outline-4">
-<h4 id="sec-1-15-3">Masters Committees</h4>
-<div class="outline-text-4" id="text-1-15-3">
+<div id="outline-container-orgc64a5d6" class="outline-4">
+<h4 id="orgc64a5d6">Masters Committees</h4>
+<div class="outline-text-4" id="text-orgc64a5d6">
 <ul class="org-ul">
-<li>Kody Lamb (Applied Psychology, Tarleton, graduated 2018)
-</li>
-<li>Trina Geye (Psychology, TAMU-C, graduated 2015)
-</li>
-<li>Beth Nikopoulous (Psychology, TAMU-C, graduated 2013)
-</li>
-<li>Heather Oetker (Special Education, TAMU-C, graduated 2012)
-</li>
-<li>Joshua Patterson (Mathematics, TAMU-C, graduated 2011)
-</li>
+<li>Kody Lamb (Applied Psychology, Tarleton, graduated 2018)</li>
+<li>Trina Geye (Psychology, TAMU-C, graduated 2015)</li>
+<li>Beth Nikopoulous (Psychology, TAMU-C, graduated 2013)</li>
+<li>Heather Oetker (Special Education, TAMU-C, graduated 2012)</li>
+<li>Joshua Patterson (Mathematics, TAMU-C, graduated 2011)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-15-4" class="outline-4">
-<h4 id="sec-1-15-4">Honors Thesis Chair</h4>
-<div class="outline-text-4" id="text-1-15-4">
+<div id="outline-container-orgcc805e8" class="outline-4">
+<h4 id="orgcc805e8">Honors Thesis Chair</h4>
+<div class="outline-text-4" id="text-orgcc805e8">
 <ul class="org-ul">
-<li>Kristen Bowman (Psychology, Tarleton, graduated 2018), <i>Nonwords induce reverse priming effects in a lexical decision task</i>
-</li>
-<li>Anissa Eid (Psychology, Tarleton, graduated 2018), <i>Cognitive mechanisms underlying spatial-numerical associations</i>
-</li>
-<li>Paige Woodard (Psychology, Tarleton, graduated 2017), <i>Mental arithmetic: Relationship between encoding and calculation processes</i>
-</li>
-<li>Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), <i>Measuring the Working Memory Requirements of Mental Arithmetic</i>
-</li>
-<li>Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), <i>The Effects of Generation on False Memory for Numbers</i>
-</li>
-<li>Kaytlin Reid (Honors in Interdisciplinary Studies, TAMU-C, graduated 2013), <i>The Role of Working Memory in Mental Fraction Computation</i>
-</li>
-<li>Douglas Boney (Honors in Mathematics, TAMU-C, graduated 2013), <i>Knot Polynomials</i>
-</li>
-<li>Samantha Reece (Honors in Sociology, TAMU-C, graduated 2012), <i>The Effects of Stereotype Threat on Cheating Behavior in Mathematics</i>
-</li>
+<li>Kristen Bowman (Psychology, Tarleton, graduated 2018), <i>Nonwords induce reverse priming effects in a lexical decision task</i></li>
+<li>Anissa Eid (Psychology, Tarleton, graduated 2018), <i>Cognitive mechanisms underlying spatial-numerical associations</i></li>
+<li>Paige Woodard (Psychology, Tarleton, graduated 2017), <i>Mental arithmetic: Relationship between encoding and calculation processes</i></li>
+<li>Sarah Montgomery (High Honors in Psychology, TAMU-C, graduated 2013), <i>Measuring the Working Memory Requirements of Mental Arithmetic</i></li>
+<li>Emily Dalton (Honors in Psychology, TAMU-C, graduated 2013), <i>The Effects of Generation on False Memory for Numbers</i></li>
+<li>Kaytlin Reid (Honors in Interdisciplinary Studies, TAMU-C, graduated 2013), <i>The Role of Working Memory in Mental Fraction Computation</i></li>
+<li>Douglas Boney (Honors in Mathematics, TAMU-C, graduated 2013), <i>Knot Polynomials</i></li>
+<li>Samantha Reece (Honors in Sociology, TAMU-C, graduated 2012), <i>The Effects of Stereotype Threat on Cheating Behavior in Mathematics</i></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-15-5" class="outline-4">
-<h4 id="sec-1-15-5">Honors Thesis Committees</h4>
-<div class="outline-text-4" id="text-1-15-5">
+<div id="outline-container-org472c3c4" class="outline-4">
+<h4 id="org472c3c4">Honors Thesis Committees</h4>
+<div class="outline-text-4" id="text-org472c3c4">
 <ul class="org-ul">
-<li>Carmen Phelps (English, TAMU-C, 2013)
-</li>
-<li>Morgan Lutz (Psychology, TAMU-C, 2013)
-</li>
-<li>Nick Bredberg (Physics, TAMU-C, 2012)
-</li>
-<li>Kallie Hinton (Mathematics Education, TAMU-C, 2011)
-</li>
-<li>Lindsey Preston (Mathematics Education, TAMU-C, 2011)
-</li>
+<li>Carmen Phelps (English, TAMU-C, 2013)</li>
+<li>Morgan Lutz (Psychology, TAMU-C, 2013)</li>
+<li>Nick Bredberg (Physics, TAMU-C, 2012)</li>
+<li>Kallie Hinton (Mathematics Education, TAMU-C, 2011)</li>
+<li>Lindsey Preston (Mathematics Education, TAMU-C, 2011)</li>
 </ul>
 </div>
 </div>
@@ -928,8 +728,7 @@ Tarleton State University
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-01-08 Tue 10:16</p>
-<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="date">Created: 2019-02-05 Tue 16:23</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

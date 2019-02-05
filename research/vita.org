@@ -45,7 +45,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
-** Research publications
+** Research publication
+1. Faulkenberry, T. J. (in press). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. To appear in /Communications for Statistical Methods and Applications/
 1. Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. doi: [[http://dx.doi.org/10.24425/119507][10.24425/119507]]
 1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
 1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/(2), 271-285. doi: [[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]

@@ -3,22 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+<!-- 2019-02-05 Tue 16:22 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Publications</title>
-<!-- 2019-01-08 Tue 10:04 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
   .todo   { font-family: monospace; color: red; }
-  .done   { color: green; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
@@ -45,27 +52,111 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.right  { text-align: center;  }
-  th.left   { text-align: center;   }
-  th.center { text-align: center; }
-  td.right  { text-align: right;  }
-  td.left   { text-align: left;   }
-  td.center { text-align: center; }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara:nth-child(2) { display: inline; }
-  .footpara { display: block; }
+  .footpara { display: inline; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
@@ -85,6 +176,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="../bjm.css" />
@@ -93,7 +185,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -143,65 +235,38 @@ Links below are for the official published version.  If you would like a copy of
 </p>
 
 <ol class="org-ol">
-<li>Faulkenberry, T. J., Vick, A. D., &amp; Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. <i>Polish Psychological Bulletin</i>, <i>49</i>, 391-397. doi: <a href="http://dx.doi.org/10.24425/119507">10.24425/119507</a>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. <i>Psychological Research</i>,  doi: <a href="https://dx.doi.org/10.1007/s00426-018-1057-9">10.1007/s00426-018-1057-9</a>
-</li>
-<li>Faulkenberry, T. J., Witte, M., &amp; Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. <i>Journal of Numerical Cognition</i>, /4/(2), 271-285. doi: <a href="http://dx.doi.org/10.5964/jnc.v4i2.179">10.5964/jnc.v4i2.179</a>
-</li>
-<li>Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. <i>Biometrical Letters</i>, /55/(1), 31-43. doi: <a href="https://doi.org/10.2478/bile-2018-0003">10.2478/bile-2018-0003</a>
-</li>
-<li>Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. <i>Journal of Undergraduate Neuroscience Education</i>, <i>16</i>, A126-A130. <a href="http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298">http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298</a>
-</li>
-<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. <i>Frontiers in Psychology</i>. doi: <a href="https://dx.doi.org/10.3389/fpsyg.2017.01225">10.3389/fpsyg.2017.01225</a>
-</li>
-<li>Frampton, A. R., &amp; Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in <i>Journal of Psychological Inquiry</i>.
-</li>
-<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. <i>Experimental Psychology</i>, /64/(3), 191-204. doi: <a href="https://doi.org/10.1027/1618-3169/a000365">10.1027/1618-3169/a000365</a>
-</li>
-<li>Sobel, K. V., Puri, A. M., Faulkenberry, T. J., &amp; Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. <i>Journal of Experimental Psychology: Human Perception &amp; Performance</i>. doi: <a href="http://dx.doi.org/10.1037/xhp0000323">10.1037/xhp0000323</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). <i>Frontiers in Psychology, 7</i>:1915. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2016.01915">10.3389/fpsyg.2016.01915</a>
-</li>
-<li>Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. <i>Journal of Cognitive Psychology</i>, <i>28</i>, 825-842. doi: <a href="http://dx.doi.org/10.1080/20445911.2016.1191504">10.1080/20445911.2016.1191504</a>
-</li>
-<li>Sobel, K. V., Puri, A. M., &amp; Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. <i>Attention, Perception, &amp; Psychophysics</i>, <i>78</i>, 1324-1336. doi: <a href="http://dx.doi.org/10.3758/s13414-016-1098-3">10.3758/s13414-016-1098-3</a>
-</li>
-<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. <i>Acta Psychologica</i>, <i>163</i>, 114-123. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.11.010">10.1016/j.actpsy.2015.11.010</a>
-</li>
-<li>Faulkenberry, T. J., Montgomery, S. A., &amp; Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. <i>Acta Psychologica</i>, <i>159</i>, 100-107. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.05.013">10.1016/j.actpsy.2015.05.013</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). <i>Frontiers in Psychology</i>, <i>5</i>:1436. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2014.01436">10.3389/fpsyg.2014.01436</a>
-</li>
-<li>Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. <i>Canadian Journal of Experimental Psychology</i>, <i>68</i>, 147-151. doi: <a href="http://dx.doi.org/10.1037/cep0000021">10.1037/cep0000021</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. <i>The Rehabilitation Professional</i>, <i>22</i> (1), 9-16.
-</li>
-<li>Faulkenberry, T. J., &amp; Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. <i>Oklahoma Journal of School Mathematics</i>, <i>5</i> (2), 5-14.
-</li>
-<li>Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). <i>Frontiers in Psychology</i>, <i>4</i>:820. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2013.00820">10.3389/fpsyg.2013.00820</a>
-</li>
-<li>Faulkenberry, T. J., &amp; Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 155-162). Tulsa, OK: RCML
-</li>
-<li>Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 205-212). Tulsa, OK: RCML
-</li>
-<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), <i>Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 121-126). Charlotte, NC: RCML.
-</li>
-<li>Faulkenberry, T. J., &amp; Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. <i>Experimental Psychology</i>, <i>58</i>, 480-489. doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000116">10.1027/1618-3169/a000116</a>
-</li>
-<li>Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) <i>Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 136-143). Cincinnati, OH: RCML.
-</li>
-<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. <i>Mathematics Teacher</i>, <i>104</i>, 29-33.
-</li>
-<li>Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) <i>Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 84-89). Conway, AR: RCML.
-</li>
-<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. <i>The Texas Science Teacher</i>, <i>35</i>, 17- 22.
-</li>
+<li>Faulkenberry, T. J. (in press). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. To appear in <i>Communications for Statistical Methods and Applications</i></li>
+<li>Faulkenberry, T. J., Vick, A. D., &amp; Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. <i>Polish Psychological Bulletin</i>, <i>49</i>, 391-397. doi: <a href="http://dx.doi.org/10.24425/119507">10.24425/119507</a></li>
+<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. <i>Psychological Research</i>,  doi: <a href="https://dx.doi.org/10.1007/s00426-018-1057-9">10.1007/s00426-018-1057-9</a></li>
+<li>Faulkenberry, T. J., Witte, M., &amp; Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. <i>Journal of Numerical Cognition</i>, /4/(2), 271-285. doi: <a href="http://dx.doi.org/10.5964/jnc.v4i2.179">10.5964/jnc.v4i2.179</a></li>
+<li>Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. <i>Biometrical Letters</i>, /55/(1), 31-43. doi: <a href="https://doi.org/10.2478/bile-2018-0003">10.2478/bile-2018-0003</a></li>
+<li>Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. <i>Journal of Undergraduate Neuroscience Education</i>, <i>16</i>, A126-A130. <a href="http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298">http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298</a></li>
+<li>Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. <i>Frontiers in Psychology</i>. doi: <a href="https://dx.doi.org/10.3389/fpsyg.2017.01225">10.3389/fpsyg.2017.01225</a></li>
+<li>Frampton, A. R., &amp; Faulkenberry, T. J. (in press). Mental arithmetic processes: Testing the independence of encoding and calculation. To appear in <i>Journal of Psychological Inquiry</i>.</li>
+<li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. <i>Experimental Psychology</i>, /64/(3), 191-204. doi: <a href="https://doi.org/10.1027/1618-3169/a000365">10.1027/1618-3169/a000365</a></li>
+<li>Sobel, K. V., Puri, A. M., Faulkenberry, T. J., &amp; Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. <i>Journal of Experimental Psychology: Human Perception &amp; Performance</i>. doi: <a href="http://dx.doi.org/10.1037/xhp0000323">10.1037/xhp0000323</a></li>
+<li>Faulkenberry, T. J., &amp; Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). <i>Frontiers in Psychology, 7</i>:1915. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2016.01915">10.3389/fpsyg.2016.01915</a></li>
+<li>Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. <i>Journal of Cognitive Psychology</i>, <i>28</i>, 825-842. doi: <a href="http://dx.doi.org/10.1080/20445911.2016.1191504">10.1080/20445911.2016.1191504</a></li>
+<li>Sobel, K. V., Puri, A. M., &amp; Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. <i>Attention, Perception, &amp; Psychophysics</i>, <i>78</i>, 1324-1336. doi: <a href="http://dx.doi.org/10.3758/s13414-016-1098-3">10.3758/s13414-016-1098-3</a></li>
+<li>Faulkenberry, T. J., Cruise, A., Lavro, D., &amp; Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. <i>Acta Psychologica</i>, <i>163</i>, 114-123. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.11.010">10.1016/j.actpsy.2015.11.010</a></li>
+<li>Faulkenberry, T. J., Montgomery, S. A., &amp; Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. <i>Acta Psychologica</i>, <i>159</i>, 100-107. doi: <a href="http://dx.doi.org/10.1016/j.actpsy.2015.05.013">10.1016/j.actpsy.2015.05.013</a></li>
+<li>Faulkenberry, T. J., &amp; Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). <i>Frontiers in Psychology</i>, <i>5</i>:1436. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2014.01436">10.3389/fpsyg.2014.01436</a></li>
+<li>Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. <i>Canadian Journal of Experimental Psychology</i>, <i>68</i>, 147-151. doi: <a href="http://dx.doi.org/10.1037/cep0000021">10.1037/cep0000021</a></li>
+<li>Faulkenberry, T. J., &amp; Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. <i>The Rehabilitation Professional</i>, <i>22</i> (1), 9-16.</li>
+<li>Faulkenberry, T. J., &amp; Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. <i>Oklahoma Journal of School Mathematics</i>, <i>5</i> (2), 5-14.</li>
+<li>Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). <i>Frontiers in Psychology</i>, <i>4</i>:820. doi: <a href="http://dx.doi.org/10.3389/fpsyg.2013.00820">10.3389/fpsyg.2013.00820</a></li>
+<li>Faulkenberry, T. J., &amp; Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 155-162). Tulsa, OK: RCML</li>
+<li>Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). <i>Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 205-212). Tulsa, OK: RCML</li>
+<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), <i>Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 121-126). Charlotte, NC: RCML.</li>
+<li>Faulkenberry, T. J., &amp; Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. <i>Experimental Psychology</i>, <i>58</i>, 480-489. doi: <a href="http://dx.doi.org/10.1027/1618-3169/a000116">10.1027/1618-3169/a000116</a></li>
+<li>Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) <i>Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 136-143). Cincinnati, OH: RCML.</li>
+<li>Faulkenberry, E. D., &amp; Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. <i>Mathematics Teacher</i>, <i>104</i>, 29-33.</li>
+<li>Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) <i>Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning</i> (pp. 84-89). Conway, AR: RCML.</li>
+<li>Faulkenberry, E. D. &amp; Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. <i>The Texas Science Teacher</i>, <i>35</i>, 17- 22.</li>
 </ol>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-01-08 Tue 10:04</p>
-<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="date">Created: 2019-02-05 Tue 16:22</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
