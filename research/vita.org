@@ -188,8 +188,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research Funding  
 
-/PI unless otherwise noted.  Total funding = $233,668./
+/PI unless otherwise noted.  Total funding = $263,331./
 
+- 2019 (summer), National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,663. /CMAT: Computational Mathematics at Tarleton/
 - 2018-2019, Tarleton State University, Faculty-Student Research Grant, $5000, /Modeling individual difference structures in numerical cognition/
 - 2018 (spring), Tarleton State University, OSRCA Undergrad. Res. Assistantship, $1000, /Using hierarchical Bayesian modeling to uncover the cognitive mechanisms underlying associations between number and space/
 - 2017 (fall), Tarleton State University, Faculty Development Grant, $1000, /Travel: Psychonomic Society Meeting in Vancouver, BC/
@@ -217,6 +218,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
   
 ** Editorial roles
+- Associate Editor (2019-present): /Journal of Numerical Cognition/
 - Associate Editor (2017-present): /Journal of European Psychology Students/
 - Associate Editor (2017-present): /Frontiers in Psychology: Cognition Section/
 - Guest Editor (2016-2018): /Journal of Numerical Cognition/
