@@ -24,7 +24,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 - B.S. with highest honors, Mathematics, Southeastern Oklahoma State University, 2000
 
 ** Academic positions
-- 2013-present: Assistant Professor, Department of Psychological Sciences, Tarleton State University
+- 2019-present: Associate Professor (with tenure), Department of Psychological Sciences, Tarleton State University
+- 2013-2019: Assistant Professor, Department of Psychological Sciences, Tarleton State University
 - 2012-2013: Assistant Professor, Department of Mathematics, Texas A&M University – Commerce
 - 2010-2012: Visiting Assistant Professor, Department of Psychology and Special Education, Texas A&M University – Commerce
 - 2005-2010: Lecturer, Department of Mathematics, Texas A&M University - Commerce
@@ -42,11 +43,12 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Regional University Scholarship (4 years), Southeastern Oklahoma State University, 1996
   
 ** Administrative activities
+- 2019-present: Assistant Head, Department of Psychological Sciences, Tarleton State University
 - 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publication
-1. Faulkenberry, T. J. (in press). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. To appear in /Communications for Statistical Methods and Applications/
+1. Faulkenberry, T. J. (2019). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. /Communications for Statistical Applications and Methods/, /26/, 217-238. doi: [[https://doi.org/10.29220/CSAM.2019.26.2.217][10.29220/CSAM.2019.26.2.217]]
 1. Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. doi: [[http://dx.doi.org/10.24425/119507][10.24425/119507]]
 1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
 1. Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/(2), 271-285. doi: [[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]
@@ -101,6 +103,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J., Hetzel, S., & Bowman, K. (April, 2019). A systems factorial technology approach to classifying the architecture of fraction perception. Southwestern Psychological Association, Albuquerque, NM.
+1. Faulkenberry, T. J. (April, 2019). An introduction to the theory and practice of Bayesian hypothesis testing: A workshop using JASP. Southwestern Psychological Association, Albuquerque, NM.
+1. Bowman, K., & Faulkenberry, T. J. (April, 2019). Response time modeling supports a late interaction account of the size-congruity effect. Southwestern Psychological Association, Albuquerque, NM.
 1. Faulkenberry, T. J. (January, 2019). Demonstrating Bayesian model comparison with a class-sourced experiment in mental arithmetic. National Institute on the Teaching of Psychology (NITOP), St. Pete Beach, FL 
 1. Faulkenberry, T. J. (April, 2018). Introduction to Bayesian inference for the psychological sciences (workshop). Southwestern Psychological Association, Houston, TX
 1. Bowman, K. A., & Faulkenberry, T. J. (April, 2018). The dynamics of spatial operational momentum in mental arithmetic. Southwestern Psychological Association, Houston, TX.
