@@ -26,6 +26,10 @@ Stephenville, TX  76402\\
 - [[https://scholar.google.com/citations?user=Xa-siFAAAAAJ&hl=en&oi=ao][Google Scholar]]
   
 ** Teaching
+Summer 2019
+- PSYC 3320 - Psycholinguistics ([[https://rawgit.com/tomfaulkenberry/courses/master/summer2019/psyc3320/psyc3320-summer2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/summer2019/psyc3320/psyc3320-summer2019.pdf][pdf]])
+- PSYC 5379 - Advanced Psycholinguistics 
+
 Spring 2019
 - PSYC 3435 - Principles of Research for the Behavioral Sciences ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435/psyc3435-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435/psyc3435-spring2019.pdf][pdf]])
 - PSYC 3435 - Principles of Research for the Behavioral Sciences, online/16-week ([[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online/psyc3435-spring2019.html][html]] / [[https://rawgit.com/tomfaulkenberry/courses/master/spring2019/psyc3435online/psyc3435-spring2019.pdf][pdf]])  
