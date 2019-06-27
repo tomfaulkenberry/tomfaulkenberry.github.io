@@ -103,6 +103,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. (June, 2019). A hierarchical Bayesian model of individual difference structures for the size-congruity effect. Math Cognition and Learning Society, Ottawa, ON.
 1. Faulkenberry, T. J., Hetzel, S., & Bowman, K. (April, 2019). A systems factorial technology approach to classifying the architecture of fraction perception. Southwestern Psychological Association, Albuquerque, NM.
 1. Faulkenberry, T. J. (April, 2019). An introduction to the theory and practice of Bayesian hypothesis testing: A workshop using JASP. Southwestern Psychological Association, Albuquerque, NM.
 1. Bowman, K., & Faulkenberry, T. J. (April, 2019). Response time modeling supports a late interaction account of the size-congruity effect. Southwestern Psychological Association, Albuquerque, NM.
@@ -157,6 +158,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+1. Faulkenberry, T. J. (June 2019). Bayesian statistics in numerical cognition. Math Cognition and Learning Society, Ottawa, ON.
 1. Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics -- Texas Lutheran University, Seguin, TX.
 1. Faulkenberry, T. J. (April, 2018). Introduction to applied Bayesian hypothesis testing -- Faculty Research Coffee Hour, Stephenville, TX.
 1. Faulkenberry, T. J. (December, 2017). Mental representations of two-digit numbers. Texas A&M University - San Antonio Speakers' Series, San Antonio, TX.
@@ -231,11 +233,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Review Editor (2016-2017): /Frontiers in Psychology: Cognition Section/
 ** Reviewing
    
-- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
+- Ad hoc reviewer for the following journals: /Acta Psychologica, Attention, Perception, & Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Proceedings of the Research Council on Mathematics Learning, Psychological Methods, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology/
 - External Examiner
   - 2017, Corinna Jones, Ph.D., University of Huddersfield, UK
 - Panelist/Reader
-  - 2017, Judge, American Statistical Association Statistics Project Competition
+  - 2017-2019, Judge, American Statistical Association Statistics Project Competition
   - 2015-2018, Reader, AP Statistics Exam, Kansas City, MO
   - 2012-2015, Panelist, National Science Foundation, Washington, DC
  
@@ -244,7 +246,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 ** Professional Memberships 
 - American Mathematical Society
 - American Statistical Association
-- Canadian Society for Brain, Behaviour, & Cognitive Science
+- Mathematical Association of America
 - Mathematical Cognition and Learning Society
 - Psychonomic Society
 - Society for Mathematical Psychology
@@ -254,6 +256,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 National/regional service 
 
+- ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)
 - Program Review Committee member, Psychonomic Society (appointed 2018-2021)
 - Treasurer, Southwestern Psychological Association (appointed, 2017-2020)	
 - Texas Representative, Southwestern Psychological Association (elected, 2015-2017)
@@ -267,7 +270,7 @@ National/regional service
 University service
 
 - Chair, Institutional Review Board (IRB) (2018-present)
-- Faculty Research Fellow (2018-present)
+- Faculty Research Fellow (2018-2019)
 - Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)
 - State Non-Funded Course Review Group, Member, Tarleton (2015-present)
 - University Research Committee, Member, Tarleton (2015-present)
