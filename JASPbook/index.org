@@ -1,0 +1,39 @@
+#+TITLE: 
+#+AUTHOR:
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../bjm.css" />
+
+* Learning Statistics with JASP
+
+/Learning Statistics with JASP: A Tutorial for Psychology Students and Other Beginners/ by Navarro, Foxcroft, and Faulkenberry is a free textbook covering the basics of statistical inference and uses the free software package [[http://jasp-stats.org][JASP]]. Written in a lively, conversational style, it provides the reader with a perfect balance of readability and rigor. 
+
+** Download the book
+
+/Learning Statistics with JASP/ is available as a free PDF download.  You can download the entire book in one file, or you can download specific chapters.
+
+- download links coming soon!
+
+** Data sets for book
+
+The example datasets that are used in /Learning Statistics with JASP/ are available for download in two ways.
+
+- you can download one ZIP file containing all data files and save it to your computer (recommended)
+- you can download specific datasets from the book's GitHub [[https://github.com/tomfaulkenberry/JASPbook/tree/master/data][repository]] 
+
+** Source code
+
+This book was written entirely in LaTeX, and all source code for the book can be found on [[http://github.com/tomfaulkenberry/JASPbook][GitHub]].
+
+** Contributing?
+
+This book is completely open source, which means you are free to adapt it in any way you wish (as long as appropriate credit is given to the authors..see below). However, if you find issues that you would like to see in this posted version, feel free to contact [[mailto:faulkenberry@tarleton.edu?subject=JASP book issue][me]] by email.  Even better would be to log an issue on [[https://github.com/tomfaulkenberry/JASPbook/issues][GitHub]].
+
+
+#+HTML: <br><br>
+
+This book is an adaptation of [[http://learnstatswithjamovi.com][Navarro, D.J., & Foxcroft, D. R. (2019). learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.7). DOI: 10.24384/hgc3-7p15]]
+
+The book is released under a Creative Commons CC BY-SA 4.0 license. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA.
+
+
+#+HTML: <br><br><br><br>
