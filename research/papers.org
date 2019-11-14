@@ -4,7 +4,8 @@
 
 Links below are for the official published version.  If you would like a copy of a paper but cannot access it, please email me (faulkenberry@tarleton.edu) to request a copy.
 
-1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
+1. Faulkenberry, T. J. (in press). Estimating evidential value from ANOVA summaries: A comment on Ly et al. (2018). To appear in /Advances in Methods and Practices in Psychological Science/. doi: [[https://doi.org/10.1177/2515245919872960][10.1177/2515245919872960]]
+1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (in press). Task instructions modulate unit-decade binding in two-digit number representation. To appear in /Psychological Research/,  doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
 2. Faulkenberry, T. J. (2019). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. /Communications for Statistical Applications and Methods/, /26/, 217-238. doi: [[https://doi.org/10.29220/CSAM.2019.26.2.217][10.29220/CSAM.2019.26.2.217]]
 3. Frampton, A. R., & Faulkenberry, T. J. (2018). Mental arithmetic processes: Testing the independence of encoding and calculation. /Journal of Psychological Inquiry/, /22/, 30-35. https://www.psychinquiry.org/wp-content/uploads/2019/03/Vol22-1.pdf
 4. Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. doi: [[http://dx.doi.org/10.24425/119507][10.24425/119507]]
