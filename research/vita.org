@@ -47,7 +47,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publications
-
+1. Faulkenberry, T. J. (in press). Estimating Bayes factors from minimal ANOVA summaries for repeated-measures designs. To appear in /Metodoloski Zvezki: Advances in Methodology and Statistics/. https://arxiv.org/abs/1905.05569
 1. Nejman, J. A. & Faulkenberry, T. J. (in press). Implicit priming reveals decomposed processing in fraction comparison. To appear in /Journal of Psychological Inquiry/. https://psyarxiv.com/nkw45/
 1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/, /84/, 424-439. doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
 2. Faulkenberry, T. J. (2019). Estimating evidential value from ANOVA summaries: A comment on Ly et al. (2018). /Advances in Methods and Practices in Psychological Science/, /2/, 406-409. doi: [[https://doi.org/10.1177/2515245919872960][10.1177/2515245919872960]]
@@ -266,8 +266,8 @@ National/regional service
 
 - Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2022)
 - ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)
+- Treasurer, Southwestern Psychological Association (appointed, 2017-2023)	
 - Program Review Committee member, Psychonomic Society (appointed 2018-2021)
-- Treasurer, Southwestern Psychological Association (appointed, 2017-2020)	
 - Texas Representative, Southwestern Psychological Association (elected, 2015-2017)
 - Steering Committee Member, Southwestern Teachers of Psychology (appointed, 2015-2016)
 - Nominating Committee Chair, Southwestern Psychological Association (appointed, 2015)
@@ -313,14 +313,15 @@ Department service
 Tarleton State University
 
 - PSYC 2301: General Psychology (Honors), Fall 13,14,15
-- PSYC 2317: Statistical Methods for Psychology, Fall 19
+- PSYC 2317: Statistical Methods for Psychology, Fall 19, Sp 20
 - PSYC 2301: General Psychology, Summer 14,15
 - PSYC 3301: Psychology of Learning, Fall 13,14,15,16
 - PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
 - PSYC 3309: Writing in Psychology, Spring 16
-- PSYC 3320: Psycholinguistics, Summer 17,18
-- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Spring 15,16,17,18; Su 16,17,18
+- PSYC 3320: Psycholinguistics, Summer 17,18,19,20
+- PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 16,17,18
 - PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18,19; Sp 15,16,17,18,19; Su 15,16,17
+- PSYC 4301: Psychological Tests and Measurements, Sp 20
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
@@ -329,13 +330,14 @@ Tarleton State University
 - PSYC 5301: Research Methods, Spring 14,15,17,18,19
 - PSYC 5304: Human Development, Spring 14
 - PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19
-- PSYC 5379: Advanced Psycholinguistics, Summer 17,18
+- PSYC 5322: Psychometrics, Sp 20
+- PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
 ** Student Mentoring
 
 *** Masters Thesis Chair
-- Kristen Bowman (Applied Psychology, Tarleton, in progress)
+- Kristen Bowman (Applied Psychology, Tarleton, graduated 2020)
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
 *** Doctoral Committees
@@ -348,6 +350,7 @@ Tarleton State University
 	
 *** Masters Committees
 
+- Kayli Colpitts (Applied Psychology, Tarleton, in progress)
 - Kody Lamb (Applied Psychology, Tarleton, graduated 2018)
 - Trina Geye (Psychology, TAMU-C, graduated 2015)
 - Beth Nikopoulous (Psychology, TAMU-C, graduated 2013)
