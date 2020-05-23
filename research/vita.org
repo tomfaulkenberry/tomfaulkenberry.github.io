@@ -47,6 +47,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Research publications
+1. Faulkenberry, T. J., Ly, A., & Wagenmakers, E. J. (in press). Bayesian statistics in numerical cognition: A tutorial using JASP. To appear in /Journal of Numerical Cognition/. https://psyarxiv.com/vg9pw/
 1. Faulkenberry, T. J. (in press). Estimating Bayes factors from minimal ANOVA summaries for repeated-measures designs. To appear in /Metodoloski Zvezki: Advances in Methodology and Statistics/. https://arxiv.org/abs/1905.05569
 1. Nejman, J. A. & Faulkenberry, T. J. (in press). Implicit priming reveals decomposed processing in fraction comparison. To appear in /Journal of Psychological Inquiry/. https://psyarxiv.com/nkw45/
 1. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/, /84/, 424-439. doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
@@ -80,6 +81,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 29. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Abstracts, columns, and book reviews
+1. Faulkenberry, T. J. (2020). Statistics education awards presented at Joint Mathematics Meetings. /MAA Focus/, /40(2)/, 40. https://www.maa.org/press/periodicals/maa-focus
+1. Faulkenberry, T. J. (2020). Closed form Bayes factor techniques for measuring evidential value from analysis of variance models. /Abstracts of Papers Presented to the American Mathematical Society./, /41/, 256.
 1. Faulkenberry, T. J. (2019). Book review of "Handbook of Approximate Bayesian Computation". /MAA Reviews/, https://www.maa.org/press/maa-reviews/handbook-of-approximate-bayesian-computation.
 1. Bowman, K. A., & Faulkenberry, T. J. (2019). Response time modeling supports a late interaction account of the size-congruity effect. /Abstracts of the Psychonomic Society/, /24/, 227-228.
 1. Faulkenberry, T. J. (2019). Treasurer's Column: Financial Challenges in Albuquerque. /Southwestern Psychologist/, /12(2)/, 3. 
@@ -110,6 +113,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. (June 2020). A systems factorial technology approach to classifying the architecture of fraction perception. Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)
+1. Scheuler, B., & Faulkenberry, T. J. (April 2020). An illustration of Bayesian hypothesis testing: The case of the facial feedback effect. Southwestern Psychological Association, Frisco, TX (cancelled due to COVID-19)
+1. Faulkenberry, T. J. (April 2020). Getting started with Bayesian inference in psychology: A workshop using JASP. Southwestern Psychological Association, Frisco, TX (cancelled due to COVID-19)
+1. Bowman, K., Caldwell, K., Garcia, B., & Faulkenberry, T. J. (April 2020). Maximum likelihood estimation of the Ex-Gaussian model for response time distributions. Southwestern Psychological Association, Frisco, TX (cancelled due to COVID-19)
+1. Faulkenberry, T. J., (November, 2019). Org-mode and FoilTeX - an unlikely (but useful) combination for teaching", EmacsConf2019, Free Software Foundation, Virtual / Online.
 1. Faulkenberry, T. J. (June, 2019). A hierarchical Bayesian model of individual difference structures for the size-congruity effect. Math Cognition and Learning Society, Ottawa, ON.
 1. Faulkenberry, T. J., Hetzel, S., & Bowman, K. (April, 2019). A systems factorial technology approach to classifying the architecture of fraction perception. Southwestern Psychological Association, Albuquerque, NM.
 1. Faulkenberry, T. J. (April, 2019). An introduction to the theory and practice of Bayesian hypothesis testing: A workshop using JASP. Southwestern Psychological Association, Albuquerque, NM.
@@ -165,6 +173,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+1. Faulkenberry, T. J. (June 2020). Workshop: Bayesian statistics in numerical cognition. Invited workshop for the Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)
+1. Faulkenberry, T. J. (June 2020), Workshop on Bayesian Statistics. Invited Lecture, University College - Dublin, Dublin, Ireland (cancelled due to COVID-19)
+1. Faulkenberry, T. J. (April 2020). Developing an interactive web application for computing Bayes factors from summary statistics. Tarleton Psychological Sciences Day, Stephenville, TX. 
+1. Faulkenberry, T. J. (April 2020) A Mathematician's Apology: What a Life in Mathematics has Taught Me about Teaching Psychology,  Keynote Address - Southwestern Teachers of Psychology Conference (SWToP), Frisco, TX (cancelled due to COVID-19)
 1. Faulkenberry, T. J. (September 2019). Workshop: Bayesian statistics with JASP -- Angelo State University, San Angelo, TX.
 1. Faulkenberry, T. J. (June 2019). Workshop: Bayesian statistics in numerical cognition. Math Cognition and Learning Society, Ottawa, ON.
 1. Faulkenberry, T. J. (August, 2018). Workshop on R and Bayesian Statistics -- Texas Lutheran University, Seguin, TX.
@@ -246,10 +258,10 @@ Website: [[http://tomfaulkenberry.github.io]]
   - 2017, Corinna Jones, Ph.D., University of Huddersfield, UK
 - Panelist/Reader
   - 2017-2019, Judge, American Statistical Association Statistics Project Competition
-  - 2015-2018, Reader, AP Statistics Exam, Kansas City, MO
+  - 2015-2020, Reader, AP Statistics Exam, Kansas City, MO
   - 2012-2015, Panelist, National Science Foundation, Washington, DC
  
-- Textbook reviewer for Psychology Press, Routledge, Sage, Taylor & Francis
+- Textbook reviewer for Psychology Press, Routledge, Sage, Taylor & Francis, Cambridge Univ. Press
     
 ** Professional Memberships 
 - American Mathematical Society
@@ -279,6 +291,7 @@ National/regional service
 University service
 
 - Chair, Institutional Review Board (IRB) (2018-present)
+- Member, General Education and Academic Assessment Committee (2019-present)
 - Faculty Research Fellow (2018-2019)
 - Official Advisor for Alpha Chi Honor Society, Tarleton (2015-present)
 - State Non-Funded Course Review Group, Member, Tarleton (2015-present)
@@ -300,8 +313,9 @@ University service
 
 Department service
 
-- Organized /Psychological Sciences Day/, Tarleton, (2017-2018)
-- Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015)
+- Human subjects research pool coordinator, Tarleton (2018-present)
+- Organized /Psychological Sciences Day/, Tarleton (2017-present)
+- Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015, 2020)
 - Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2018)
 - Texan Tour Speaker, Department of Psychological Sciences, Tarleton (2015)
 - Organizer, Psychology Department Seminar, Tarleton (2013-2014)
@@ -335,7 +349,6 @@ Tarleton State University
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
 ** Student Mentoring
-
 *** Masters Thesis Chair
 - Kristen Bowman (Applied Psychology, Tarleton, graduated 2020)
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
