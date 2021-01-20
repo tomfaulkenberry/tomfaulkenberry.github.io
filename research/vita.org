@@ -81,6 +81,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 32. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
+1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /PsyArXiv/, https://psyarxiv.com/gfc78/
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /PsyArXiv/, https://psyarxiv.com/5je9u
 1. Faulkenberry, T. J. (2020). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /arXiv/, https://arxiv.org/abs/2011.09549
 2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
