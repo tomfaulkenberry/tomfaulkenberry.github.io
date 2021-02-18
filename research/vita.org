@@ -47,7 +47,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Papers
-1. Nejman, J. A. & Faulkenberry, T. J. (in press). Implicit priming reveals decomposed processing in fraction comparison. To appear in /Journal of Psychological Inquiry/. https://psyarxiv.com/nkw45/
+1. Faulkenberry, T. J. (in press). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. To appear in /Biometrical Letters/. https://arxiv.org/abs/2011.095491. 
+1. Nejman, J. A. & Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. /Journal of Psychological Inquiry/, /24/ (2), 17-23. https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf
 2. Faulkenberry, T. J. (2020). Estimating Bayes factors from minimal summary statistics in repeated-measures analysis of variance designs. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /17/, 1-17.  https://arxiv.org/abs/1905.05569
 3. Faulkenberry, T. J., Ly, A., & Wagenmakers, E. J. (2020). Bayesian statistics in numerical cognition: A tutorial using JASP. /Journal of Numerical Cognition/, /6/, 231-259. https://doi.org/10.5964/jnc.v6i2.288
 4. Faulkenberry, T. J., Cruise, A., & Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/, /84/, 424-439. doi: [[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
@@ -83,7 +84,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 ** Preprints
 1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /PsyArXiv/, https://psyarxiv.com/gfc78/
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /PsyArXiv/, https://psyarxiv.com/5je9u
-1. Faulkenberry, T. J. (2020). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /arXiv/, https://arxiv.org/abs/2011.09549
 2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
 ** Abstracts, columns, and book reviews
