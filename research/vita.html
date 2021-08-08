@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-02-18 Thu 04:50 -->
+<!-- 2021-08-08 Sun 15:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -39,7 +39,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -51,7 +51,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -193,50 +193,26 @@
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -264,9 +240,9 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 
-<div id="outline-container-org51899b4" class="outline-2">
-<h2 id="org51899b4">Thomas J. Faulkenberry, Ph.D.</h2>
-<div class="outline-text-2" id="text-org51899b4">
+<div id="outline-container-org9f369c9" class="outline-2">
+<h2 id="org9f369c9">Thomas J. Faulkenberry, Ph.D.</h2>
+<div class="outline-text-2" id="text-org9f369c9">
 <p>
 Department of Psychological Sciences<br />
 Tarleton State University<br />
@@ -277,9 +253,9 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </p>
 </div>
 
-<div id="outline-container-orgc206218" class="outline-3">
-<h3 id="orgc206218">Education</h3>
-<div class="outline-text-3" id="text-orgc206218">
+<div id="outline-container-orgc666ca1" class="outline-3">
+<h3 id="orgc666ca1">Education</h3>
+<div class="outline-text-3" id="text-orgc666ca1">
 <ul class="org-ul">
 <li>Ph.D., Psychology, Texas A&amp;M University – Commerce, 2010</li>
 <li>M.S., Mathematics, Oklahoma State University - 2002</li>
@@ -288,9 +264,9 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-orga64f8d5" class="outline-3">
-<h3 id="orga64f8d5">Academic positions</h3>
-<div class="outline-text-3" id="text-orga64f8d5">
+<div id="outline-container-org8545d6c" class="outline-3">
+<h3 id="org8545d6c">Academic positions</h3>
+<div class="outline-text-3" id="text-org8545d6c">
 <ul class="org-ul">
 <li>2019-present: Associate Professor (with tenure), Department of Psychological Sciences, Tarleton State University</li>
 <li>2013-2019: Assistant Professor, Department of Psychological Sciences, Tarleton State University</li>
@@ -301,14 +277,13 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-orgb2775e7" class="outline-3">
-<h3 id="orgb2775e7">Honors and awards</h3>
-<div class="outline-text-3" id="text-orgb2775e7">
+<div id="outline-container-org916be3e" class="outline-3">
+<h3 id="org916be3e">Honors and awards</h3>
+<div class="outline-text-3" id="text-org916be3e">
 <ul class="org-ul">
 <li>O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018</li>
 <li>Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016</li>
 <li>President's All-Purple Award, Tarleton State University, 2016</li>
-<li>Nominee, Bruce N. Chaloux Award for Early Career Excellence in Online Education, Sloan Consortium, 2015</li>
 <li>Fellow, The Psychonomic Society, 2014</li>
 <li>Texas A&amp;M University System Teaching Excellence Award, 2010-2011</li>
 <li>Best Graduate Student Presentation, Annual Research Symposium, TAMU-C, 2010</li>
@@ -319,23 +294,25 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-orgb7b0836" class="outline-3">
-<h3 id="orgb7b0836">Administrative activities</h3>
-<div class="outline-text-3" id="text-orgb7b0836">
+<div id="outline-container-org47ec5cb" class="outline-3">
+<h3 id="org47ec5cb">Administrative activities</h3>
+<div class="outline-text-3" id="text-org47ec5cb">
 <ul class="org-ul">
-<li>2019-present: Assistant Head, Department of Psychological Sciences, Tarleton State University</li>
+<li>2021-present: Head, Department of Psychological Sciences, Tarleton State University</li>
+<li>2019-2021: Assistant Head, Department of Psychological Sciences, Tarleton State University</li>
 <li>2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C</li>
 <li>2010-2011: Director, Math &amp; Science Teacher Preparation Program (LeoTEACH), TAMU-C</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org6da5302" class="outline-3">
-<h3 id="org6da5302">Papers</h3>
-<div class="outline-text-3" id="text-org6da5302">
+<div id="outline-container-org169e334" class="outline-3">
+<h3 id="org169e334">Papers</h3>
+<div class="outline-text-3" id="text-org169e334">
 <ol class="org-ol">
-<li>Faulkenberry, T. J. (in press). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. To appear in <i>Biometrical Letters</i>. <a href="https://arxiv.org/abs/2011.095491">https://arxiv.org/abs/2011.095491</a>.</li>
-<li>Nejman, J. A. &amp; Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. To appear in <i>Journal of Psychological Inquiry</i>, <i>24</i> (2), 17-23. <a href="https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf">https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf</a></li>
+<li>Vogel, S., Faulkenberry, T. J., &amp; Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. <i>Frontiers in Education: Educational Psychology, 6</i>: 655747. <a href="https://doi.org/10.3389/feduc.2021.655747">https://doi.org/10.3389/feduc.2021.655747</a></li>
+<li>Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. <i>Biometrical Letters</i>, <i>58</i> (1), 1-26. <a href="https://doi.org/10.2478/bile-2021-0001">https://doi.org/10.2478/bile-2021-0001</a></li>
+<li>Nejman, J. A. &amp; Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. <i>Journal of Psychological Inquiry</i>, <i>24</i> (2), 17-23. <a href="https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf">https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf</a></li>
 <li>Faulkenberry, T. J. (2020). Estimating Bayes factors from minimal summary statistics in repeated-measures analysis of variance designs. <i>Metodoloski Zvezki: Advances in Methodology and Statistics</i>, <i>17</i>, 1-17.  <a href="https://arxiv.org/abs/1905.05569">https://arxiv.org/abs/1905.05569</a></li>
 <li>Faulkenberry, T. J., Ly, A., &amp; Wagenmakers, E. J. (2020). Bayesian statistics in numerical cognition: A tutorial using JASP. <i>Journal of Numerical Cognition</i>, <i>6</i>, 231-259. <a href="https://doi.org/10.5964/jnc.v6i2.288">https://doi.org/10.5964/jnc.v6i2.288</a></li>
 <li>Faulkenberry, T. J., Cruise, A., &amp; Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. <i>Psychological Research</i>, <i>84</i>, 424-439. doi: <a href="https://dx.doi.org/10.1007/s00426-018-1057-9">10.1007/s00426-018-1057-9</a></li>
@@ -371,20 +348,19 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-orgad58963" class="outline-3">
-<h3 id="orgad58963">Preprints</h3>
-<div class="outline-text-3" id="text-orgad58963">
+<div id="outline-container-org736260d" class="outline-3">
+<h3 id="org736260d">Preprints</h3>
+<div class="outline-text-3" id="text-org736260d">
 <ol class="org-ol">
-<li>Vogel, S., Faulkenberry, T. J., &amp; Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. <i>PsyArXiv</i>, <a href="https://psyarxiv.com/gfc78/">https://psyarxiv.com/gfc78/</a></li>
 <li>Brennan, K., Rutledge, M., &amp; Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. <i>PsyArXiv</i>, <a href="https://psyarxiv.com/5je9u">https://psyarxiv.com/5je9u</a></li>
 <li>Faulkenberrry, T. J., &amp; Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. <i>PsyArXiv</i>, <a href="https://psyarxiv.com/4b9rs/">https://psyarxiv.com/4b9rs/</a></li>
 <li>Bowman, K. A., &amp; Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. <i>PsyArXiv</i>, <a href="https://psyarxiv.com/dns4t/">https://psyarxiv.com/dns4t/</a></li>
 </ol>
 </div>
 </div>
-<div id="outline-container-orgc669830" class="outline-3">
-<h3 id="orgc669830">Abstracts, columns, and book reviews</h3>
-<div class="outline-text-3" id="text-orgc669830">
+<div id="outline-container-orge72eb78" class="outline-3">
+<h3 id="orge72eb78">Abstracts, columns, and book reviews</h3>
+<div class="outline-text-3" id="text-orge72eb78">
 <ol class="org-ol">
 <li>Faulkenberry, T. J. (2020). Getting started with Bayesian statistics. <i>Southwestern Psychologist</i>, <i>13</i> (3). <a href="https://rb.gy/rikuim">https://rb.gy/rikuim</a></li>
 <li>Bowman, K. A., &amp; Faulkenberry, T. J. (2020). Response time modeling for the size-congruity effect: Early vs. late interaction. <i>Abstracts of the Psychonomic Society</i>, <i>25</i>, 193.</li>
@@ -423,10 +399,13 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-org3ff3f9c" class="outline-3">
-<h3 id="org3ff3f9c">Conference Presentations</h3>
-<div class="outline-text-3" id="text-org3ff3f9c">
+<div id="outline-container-org5faae65" class="outline-3">
+<h3 id="org5faae65">Conference Presentations</h3>
+<div class="outline-text-3" id="text-org5faae65">
 <ol class="org-ol">
+<li>Faulkenberry, T. J. &amp; Horry, R. (July, 2021). An interactive web applet for exploring the impact of unequal variances on the t-test. US Conference on the Teaching of Statistics (USCOTS 2021). Virtual/online.</li>
+<li>Faulkenberry, T. J. (April, 2021). Gamma function approximations for computing closed-form Bayes factors. Mathematical Association of America Texas Section Meeting. Virtual/online.</li>
+<li>Faulkenberry, T. J. (April, 2021). Do asynchronous students perform worse? A Bayesian analysis of pandemic teaching. Southwestern Psychological Association. San Antonio, TX.</li>
 <li>Faulkenberry, T. J., &amp; Bowman, K. A. (October 2020). Modeling a latent structure of individual differences in numerical cognition. Southwest Cognition Conference (ARMADILLO), Virtual/online.</li>
 <li>Faulkenberry, T. J. (June 2020). A systems factorial technology approach to classifying the architecture of fraction perception. Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)</li>
 <li>Scheuler, B., &amp; Faulkenberry, T. J. (April 2020). An illustration of Bayesian hypothesis testing: The case of the facial feedback effect. Southwestern Psychological Association, Frisco, TX (cancelled due to COVID-19)</li>
@@ -490,9 +469,12 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-org451d36f" class="outline-3">
-<h3 id="org451d36f">Seminars and Invited Talks</h3>
-<div class="outline-text-3" id="text-org451d36f">
+<div id="outline-container-org495a2f9" class="outline-3">
+<h3 id="org495a2f9">Seminars and Invited Talks</h3>
+<div class="outline-text-3" id="text-org495a2f9">
+<ol class="org-ol">
+<li>Faulkenberry, T. J. (April 2021) A Mathematician's Apology: What a Life in Mathematics has Taught Me about Teaching Psychology,  Keynote Address - Southwestern Teachers of Psychology Conference (SWToP), San Antonio, TX.</li>
+</ol>
 <ol class="org-ol">
 <li>Faulkenberry, T. J. (June 2020). Workshop: Bayesian statistics in numerical cognition. Invited workshop for the Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)</li>
 <li>Faulkenberry, T. J. (June 2020), Workshop on Bayesian Statistics. Invited Lecture, University College - Dublin, Dublin, Ireland (cancelled due to COVID-19)</li>
@@ -537,14 +519,16 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-org81d59b8" class="outline-3">
-<h3 id="org81d59b8">Research Funding</h3>
-<div class="outline-text-3" id="text-org81d59b8">
+<div id="outline-container-org9c91555" class="outline-3">
+<h3 id="org9c91555">Research Funding</h3>
+<div class="outline-text-3" id="text-org9c91555">
 <p>
-<i>PI unless otherwise noted.  Total funding = $269,331.</i>
+<i>PI unless otherwise noted.  Total funding = $330,956</i>
 </p>
 
 <ul class="org-ul">
+<li>2021-2022, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $30,125. <i>CMAT: Computational Mathematics at Tarleton</i></li>
+<li>2021 (summer), Tarleton State University, President's Excellence in Research Scholars (PERS), <i>REU Site: Computational Mathematics at Tarleton</i>.</li>
 <li>2020-2021, Tarleton State University, Faculty-Student Research Grant, $5000, <i>Developing an interactive web-based calculator for Bayesian statistics</i></li>
 <li>2019 (fall), Tarleton State University, Faculty Development Grant, $1000, <i>Travel: Math Cognition and Learning Society Conference in Dublin, Ireland</i>.</li>
 <li>2019 (summer), National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,663. <i>CMAT: Computational Mathematics at Tarleton</i></li>
@@ -577,22 +561,22 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-orge45c119" class="outline-3">
-<h3 id="orge45c119">Editorial roles</h3>
-<div class="outline-text-3" id="text-orge45c119">
+<div id="outline-container-org8b851a4" class="outline-3">
+<h3 id="org8b851a4">Editorial roles</h3>
+<div class="outline-text-3" id="text-org8b851a4">
 <ul class="org-ul">
-<li>Associate Editor (2019-present): <i>Journal of Numerical Cognition</i></li>
-<li>Associate Editor (2017-present): <i>Journal of European Psychology Students</i></li>
+<li>Editorial Board (2019-present): <i>Journal of Numerical Cognition</i></li>
 <li>Associate Editor (2016-present): <i>Journal of Psychological Inquiry</i></li>
+<li>Associate Editor (2017-2021): <i>Journal of European Psychology Students</i></li>
 <li>Guest Editor (2016-2018): <i>Journal of Numerical Cognition</i></li>
 <li>Associate Editor (2017-2019): <i>Frontiers in Psychology: Cognition Section</i></li>
 <li>Review Editor (2016-2017): <i>Frontiers in Psychology: Cognition Section</i></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgced5e9d" class="outline-3">
-<h3 id="orgced5e9d">Reviewing</h3>
-<div class="outline-text-3" id="text-orgced5e9d">
+<div id="outline-container-org55d5493" class="outline-3">
+<h3 id="org55d5493">Reviewing</h3>
+<div class="outline-text-3" id="text-org55d5493">
 <ul class="org-ul">
 <li>Ad hoc reviewer for the following journals: <i>Acta Psychologica, Attention, Perception, &amp; Psychophysics, Behavior Research Methods, British Journal of Developmental Psychology, Canadian Journal of Experimental Psychology, Cognitive Processing, Cognition, Cognitive Science, Frontiers in Psychology, Journal of Cognitive Psychology, Journal of Experimental Child Psychology, Journal of Numerical Cognition, Learning and Individual Differences, Mathematics Teacher, Mathematics Teaching in the Middle School, Meta-Psychology, Proceedings of the Research Council on Mathematics Learning, Psychological Methods, Psychonomic Bulletin and Review, Quarterly Journal of Experimental Psychology</i></li>
 <li>External Examiner
@@ -611,9 +595,9 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-org7045460" class="outline-3">
-<h3 id="org7045460">Professional Memberships</h3>
-<div class="outline-text-3" id="text-org7045460">
+<div id="outline-container-orgd1a60a0" class="outline-3">
+<h3 id="orgd1a60a0">Professional Memberships</h3>
+<div class="outline-text-3" id="text-orgd1a60a0">
 <ul class="org-ul">
 <li>American Mathematical Society</li>
 <li>American Statistical Association</li>
@@ -626,17 +610,18 @@ Website: <a href="http://tomfaulkenberry.github.io">http://tomfaulkenberry.githu
 </div>
 </div>
 
-<div id="outline-container-org9b4b255" class="outline-3">
-<h3 id="org9b4b255">Professional Service</h3>
-<div class="outline-text-3" id="text-org9b4b255">
+<div id="outline-container-orgcec0f3d" class="outline-3">
+<h3 id="orgcec0f3d">Professional Service</h3>
+<div class="outline-text-3" id="text-orgcec0f3d">
 <p>
 National/regional service 
 </p>
 
 <ul class="org-ul">
+<li>President, Southwestern Psychological Association (elected 2021-2024)</li>
 <li>Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2022)</li>
 <li>ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)</li>
-<li>Treasurer, Southwestern Psychological Association (appointed, 2017-2023)</li>
+<li>Treasurer, Southwestern Psychological Association (appointed, 2017-2021)</li>
 <li>Program Review Committee member, Psychonomic Society (appointed 2018-2021)</li>
 <li>Texas Representative, Southwestern Psychological Association (elected, 2015-2017)</li>
 <li>Steering Committee Member, Southwestern Teachers of Psychology (appointed, 2015-2016)</li>
@@ -691,21 +676,21 @@ Department service
 </div>
 </div>
 
-<div id="outline-container-org0a9db13" class="outline-3">
-<h3 id="org0a9db13">Courses Taught</h3>
-<div class="outline-text-3" id="text-org0a9db13">
+<div id="outline-container-org983370e" class="outline-3">
+<h3 id="org983370e">Courses Taught</h3>
+<div class="outline-text-3" id="text-org983370e">
 <p>
 Tarleton State University
 </p>
 
 <ul class="org-ul">
 <li>PSYC 2301: General Psychology (Honors), Fall 13,14,15</li>
-<li>PSYC 2317: Statistical Methods for Psychology, Fall 19,20; Sp 20</li>
+<li>PSYC 2317: Statistical Methods for Psychology, Fall 19,20,21; Sp 20</li>
 <li>PSYC 2301: General Psychology, Summer 14,15</li>
 <li>PSYC 3301: Psychology of Learning, Fall 13,14,15,16</li>
 <li>PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16</li>
 <li>PSYC 3309: Writing in Psychology, Spring 16</li>
-<li>PSYC 3320: Psycholinguistics, Summer 17,18,19,20</li>
+<li>PSYC 3320: Psycholinguistics, Summer 17,18,19,20,21</li>
 <li>PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 16,17,18</li>
 <li>PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18,19,20; Sp 15,16,17,18,19,21; Su 15,16,17</li>
 <li>PSYC 4301: Psychological Tests and Measurements, Sp 20,21</li>
@@ -716,44 +701,44 @@ Tarleton State University
 <li>HONS 3385: Honors Seminar (Numerical Cognition), Spring 15</li>
 <li>PSYC 5301: Research Methods, Spring 14,15,17,18,19,21</li>
 <li>PSYC 5304: Human Development, Spring 14</li>
-<li>PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19</li>
+<li>PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21</li>
 <li>PSYC 5322: Psychometrics, Sp 20</li>
-<li>PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20</li>
+<li>PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20,21</li>
 <li>EDAD 6313: Statistical Methods for Educational Leadership, Spring 16</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgf64e655" class="outline-3">
-<h3 id="orgf64e655">Student Mentoring</h3>
-<div class="outline-text-3" id="text-orgf64e655">
+<div id="outline-container-org17089ff" class="outline-3">
+<h3 id="org17089ff">Student Mentoring</h3>
+<div class="outline-text-3" id="text-org17089ff">
 </div>
-<div id="outline-container-orgb1cedd9" class="outline-4">
-<h4 id="orgb1cedd9">Masters Thesis Chair</h4>
-<div class="outline-text-4" id="text-orgb1cedd9">
+<div id="outline-container-orgdc3e7af" class="outline-4">
+<h4 id="orgdc3e7af">Masters Thesis Chair</h4>
+<div class="outline-text-4" id="text-orgdc3e7af">
 <ul class="org-ul">
+<li>Annie Lenoir (Applied Psychology, Tarleton, graduated 2021)</li>
 <li>Kristen Bowman (Applied Psychology, Tarleton, graduated 2020)</li>
 <li>Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org88a0400" class="outline-4">
-<h4 id="org88a0400">Doctoral Committees</h4>
-<div class="outline-text-4" id="text-org88a0400">
+<div id="outline-container-orge1e07e2" class="outline-4">
+<h4 id="orge1e07e2">Doctoral Committees</h4>
+<div class="outline-text-4" id="text-orge1e07e2">
 <ul class="org-ul">
 <li>Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)</li>
 <li>Trina Geye (Psychology, TAMU-C, graduated 2016)</li>
-<li>Stephen McDaniel (Psychology, TAMU-C, in progress)</li>
 <li>Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)</li>
 <li>Donna Peters (Psychology, TAMU-C, graduated 2013)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org48ffaf1" class="outline-4">
-<h4 id="org48ffaf1">Masters Committees</h4>
-<div class="outline-text-4" id="text-org48ffaf1">
+<div id="outline-container-org79b3663" class="outline-4">
+<h4 id="org79b3663">Masters Committees</h4>
+<div class="outline-text-4" id="text-org79b3663">
 <ul class="org-ul">
 <li>Rene Wallace (Applied Psychology, Tarleton, in progress)</li>
 <li>Kayli Colpitts (Applied Psychology, Tarleton, graduated 2020)</li>
@@ -766,9 +751,9 @@ Tarleton State University
 </div>
 </div>
 
-<div id="outline-container-orgde5677c" class="outline-4">
-<h4 id="orgde5677c">Honors Thesis Chair</h4>
-<div class="outline-text-4" id="text-orgde5677c">
+<div id="outline-container-org4530b08" class="outline-4">
+<h4 id="org4530b08">Honors Thesis Chair</h4>
+<div class="outline-text-4" id="text-org4530b08">
 <ul class="org-ul">
 <li>Kristen Bowman (Psychology, Tarleton, graduated 2018), <i>Nonwords induce reverse priming effects in a lexical decision task</i></li>
 <li>Anissa Eid (Psychology, Tarleton, graduated 2018), <i>Cognitive mechanisms underlying spatial-numerical associations</i></li>
@@ -782,9 +767,9 @@ Tarleton State University
 </div>
 </div>
 
-<div id="outline-container-org306fde4" class="outline-4">
-<h4 id="org306fde4">Honors Thesis Committees</h4>
-<div class="outline-text-4" id="text-org306fde4">
+<div id="outline-container-org94640f0" class="outline-4">
+<h4 id="org94640f0">Honors Thesis Committees</h4>
+<div class="outline-text-4" id="text-org94640f0">
 <ul class="org-ul">
 <li>Carmen Phelps (English, TAMU-C, 2013)</li>
 <li>Morgan Lutz (Psychology, TAMU-C, 2013)</li>
@@ -798,8 +783,8 @@ Tarleton State University
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2021-02-18 Thu 04:50</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-08-08 Sun 15:59</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

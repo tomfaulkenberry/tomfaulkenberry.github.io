@@ -33,7 +33,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 - O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018
 - Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2016
 - President's All-Purple Award, Tarleton State University, 2016
-- Nominee, Bruce N. Chaloux Award for Early Career Excellence in Online Education, Sloan Consortium, 2015
 - Fellow, The Psychonomic Society, 2014
 - Texas A&M University System Teaching Excellence Award, 2010-2011
 - Best Graduate Student Presentation, Annual Research Symposium, TAMU-C, 2010
@@ -42,12 +41,14 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Regional University Scholarship (4 years), Southeastern Oklahoma State University, 1996
   
 ** Administrative activities
-- 2019-present: Assistant Head, Department of Psychological Sciences, Tarleton State University
+- 2021-present: Head, Department of Psychological Sciences, Tarleton State University
+- 2019-2021: Assistant Head, Department of Psychological Sciences, Tarleton State University
 - 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
 ** Papers
-1. Faulkenberry, T. J. (in press). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. To appear in /Biometrical Letters/. https://arxiv.org/abs/2011.095491. 
+1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
+1. Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
 1. Nejman, J. A. & Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. /Journal of Psychological Inquiry/, /24/ (2), 17-23. https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf
 2. Faulkenberry, T. J. (2020). Estimating Bayes factors from minimal summary statistics in repeated-measures analysis of variance designs. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /17/, 1-17.  https://arxiv.org/abs/1905.05569
 3. Faulkenberry, T. J., Ly, A., & Wagenmakers, E. J. (2020). Bayesian statistics in numerical cognition: A tutorial using JASP. /Journal of Numerical Cognition/, /6/, 231-259. https://doi.org/10.5964/jnc.v6i2.288
@@ -82,7 +83,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 32. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
-1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /PsyArXiv/, https://psyarxiv.com/gfc78/
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /PsyArXiv/, https://psyarxiv.com/5je9u
 2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
@@ -122,6 +122,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Faulkenberry, T. J. & Horry, R. (July, 2021). An interactive web applet for exploring the impact of unequal variances on the t-test. US Conference on the Teaching of Statistics (USCOTS 2021). Virtual/online.
+1. Faulkenberry, T. J. (April, 2021). Gamma function approximations for computing closed-form Bayes factors. Mathematical Association of America Texas Section Meeting. Virtual/online.
+1. Faulkenberry, T. J. (April, 2021). Do asynchronous students perform worse? A Bayesian analysis of pandemic teaching. Southwestern Psychological Association. San Antonio, TX.
 1. Faulkenberry, T. J., & Bowman, K. A. (October 2020). Modeling a latent structure of individual differences in numerical cognition. Southwest Cognition Conference (ARMADILLO), Virtual/online.
 1. Faulkenberry, T. J. (June 2020). A systems factorial technology approach to classifying the architecture of fraction perception. Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)
 1. Scheuler, B., & Faulkenberry, T. J. (April 2020). An illustration of Bayesian hypothesis testing: The case of the facial feedback effect. Southwestern Psychological Association, Frisco, TX (cancelled due to COVID-19)
@@ -183,6 +186,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
+   1. Faulkenberry, T. J. (April 2021) A Mathematician's Apology: What a Life in Mathematics has Taught Me about Teaching Psychology,  Keynote Address - Southwestern Teachers of Psychology Conference (SWToP), San Antonio, TX.
 1. Faulkenberry, T. J. (June 2020). Workshop: Bayesian statistics in numerical cognition. Invited workshop for the Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)
 1. Faulkenberry, T. J. (June 2020), Workshop on Bayesian Statistics. Invited Lecture, University College - Dublin, Dublin, Ireland (cancelled due to COVID-19)
 1. Faulkenberry, T. J. (April 2020). Developing an interactive web application for computing Bayes factors from summary statistics. Tarleton Psychological Sciences Day, Stephenville, TX. 
@@ -225,8 +229,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research Funding  
 
-/PI unless otherwise noted.  Total funding = $269,331./
+/PI unless otherwise noted.  Total funding = $330,956/
 
+- 2021-2022, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $30,125. /CMAT: Computational Mathematics at Tarleton/
+- 2021 (summer), Tarleton State University, President's Excellence in Research Scholars (PERS), /REU Site: Computational Mathematics at Tarleton/.
 - 2020-2021, Tarleton State University, Faculty-Student Research Grant, $5000, /Developing an interactive web-based calculator for Bayesian statistics/
 - 2019 (fall), Tarleton State University, Faculty Development Grant, $1000, /Travel: Math Cognition and Learning Society Conference in Dublin, Ireland/.
 - 2019 (summer), National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,663. /CMAT: Computational Mathematics at Tarleton/
@@ -257,9 +263,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
   
 ** Editorial roles
-- Associate Editor (2019-present): /Journal of Numerical Cognition/
-- Associate Editor (2017-present): /Journal of European Psychology Students/
+- Editorial Board (2019-present): /Journal of Numerical Cognition/
 - Associate Editor (2016-present): /Journal of Psychological Inquiry/
+- Associate Editor (2017-2021): /Journal of European Psychology Students/
 - Guest Editor (2016-2018): /Journal of Numerical Cognition/
 - Associate Editor (2017-2019): /Frontiers in Psychology: Cognition Section/
 - Review Editor (2016-2017): /Frontiers in Psychology: Cognition Section/
@@ -288,9 +294,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 National/regional service 
 
+- President, Southwestern Psychological Association (elected 2021-2024)
 - Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2022)
 - ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)
-- Treasurer, Southwestern Psychological Association (appointed, 2017-2023)	
+- Treasurer, Southwestern Psychological Association (appointed, 2017-2021)	
 - Program Review Committee member, Psychonomic Society (appointed 2018-2021)
 - Texas Representative, Southwestern Psychological Association (elected, 2015-2017)
 - Steering Committee Member, Southwestern Teachers of Psychology (appointed, 2015-2016)
@@ -339,12 +346,12 @@ Department service
 Tarleton State University
 
 - PSYC 2301: General Psychology (Honors), Fall 13,14,15
-- PSYC 2317: Statistical Methods for Psychology, Fall 19,20; Sp 20
+- PSYC 2317: Statistical Methods for Psychology, Fall 19,20,21; Sp 20
 - PSYC 2301: General Psychology, Summer 14,15
 - PSYC 3301: Psychology of Learning, Fall 13,14,15,16
 - PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
 - PSYC 3309: Writing in Psychology, Spring 16
-- PSYC 3320: Psycholinguistics, Summer 17,18,19,20
+- PSYC 3320: Psycholinguistics, Summer 17,18,19,20,21
 - PSYC 3330: Elem Statistics for Behav Science, Fall 14,15,16,17,18; Sp 15,16,17,18; Su 16,17,18
 - PSYC 3435: Prin Research for Behav Science, Fall 14,15,16,17,18,19,20; Sp 15,16,17,18,19,21; Su 15,16,17
 - PSYC 4301: Psychological Tests and Measurements, Sp 20,21
@@ -355,13 +362,14 @@ Tarleton State University
 - HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
 - PSYC 5301: Research Methods, Spring 14,15,17,18,19,21
 - PSYC 5304: Human Development, Spring 14
-- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19
+- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21
 - PSYC 5322: Psychometrics, Sp 20
-- PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20
+- PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20,21
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
 ** Student Mentoring
 *** Masters Thesis Chair
+- Annie Lenoir (Applied Psychology, Tarleton, graduated 2021)
 - Kristen Bowman (Applied Psychology, Tarleton, graduated 2020)
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
@@ -369,7 +377,6 @@ Tarleton State University
 
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
 - Trina Geye (Psychology, TAMU-C, graduated 2016)
-- Stephen McDaniel (Psychology, TAMU-C, in progress)
 - Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)
 - Donna Peters (Psychology, TAMU-C, graduated 2013)
 	
