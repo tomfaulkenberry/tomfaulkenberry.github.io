@@ -46,6 +46,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2011-2012: Director, Center for Undergraduate Research and Creative Activities, TAMU-C
 - 2010-2011: Director, Math & Science Teacher Preparation Program (LeoTEACH), TAMU-C
 
+** Books
+1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
+   
 ** Papers
 1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
 1. Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
@@ -83,9 +86,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 32. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
+1. Faulkenberry, T. J. (2021). A note on the normality assumption for modeling constraint in cognitive individual differences. /arXiv/, https://arxiv.org/abs/2112.05503
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /PsyArXiv/, https://psyarxiv.com/5je9u
 2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
+   
 ** Abstracts, columns, and book reviews
 1. Faulkenberry, T. J. (2020). Getting started with Bayesian statistics. /Southwestern Psychologist/, /13/ (3). https://rb.gy/rikuim
 1. Bowman, K. A., & Faulkenberry, T. J. (2020). Response time modeling for the size-congruity effect: Early vs. late interaction. /Abstracts of the Psychonomic Society/, /25/, 193. 
@@ -122,6 +127,17 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Lu, S. Wakefield, L. & Faulkenberry, T. J. (2006). The roles of beginnings, overlap, and ends in event temporal relations. /Abstracts of the Psychonomic Society, 11/, 9-9.
 
 ** Conference Presentations
+1. Codreanu, M., & Faulkenberry, T. J. (April 2022). Using ex-Gaussian modeling to reveal mechanisms of the flanker effect, Southwestern Psychological Association, Baton Rouge, LA.
+1. Zapata, B., Bowman, K., & Faulkenberry, T. J. (April 2022). Response time modeling reveals the latent cognitive processes in two-digit number comparison, Southwestern Psychological Association, Baton Rouge, LA.
+1. Scheuler, B., & Faulkenberry, T. J. (April 2022). Cognitive processes in mental arithmetic: A confirmatory Bayesian analysis, Southwestern Psychological Association, Baton Rouge, LA.
+1. Faulkenberry, T. J. (February 2022). Developing an interdisciplinary research experience for undergraduates in computational mathematics. PERS Symposium, Tarleton State University, Stephenville, TX.
+1. Codreanu, M., & Faulkenberry, T. J. (February 2022). Using ex-Gaussian and diffusion modeling to reveal mechanisms of the flanker effect, PERS Symposium, Tarleton State University, Stephenville, TX.
+1. Scheuler, B., & Faulkenberry, T. J. (February 2022). Cognitive processes in mental arithmetic: A confirmatory Bayesian analysis, PERS Symposium, Tarleton State University, Stephenville, TX.
+1. Zapata, B., & Faulkenberry, T. J. (February 2022). Response time modeling reveals the latent cognitive processes in two-digit number comparison, PERS Symposium, Tarleton State University, Stephenville, TX. 
+1. Faulkenberry, T. J. (September 2021). Obtaining closed form Bayes factors from summary statistics in common experimental designs. Applied Statistics 2021, Virtual/online.
+1. Faulkenberry, T. J. (September, 2021). A Bayesian framework for modeling individual differences in two-digit number representation. Southwest Cognition Conference (ARMADILLO), Virtual/online.
+1. Zapata, B., Bowman, K., & Faulkenberry, T. J. (September 2021). An EZ Diffusion Model Parameter Decomposition of the Unit-decade Compatibility Effect. Southwest Cognition Conference (ARMADILLO), Virtual/online.
+1. Jean Baptiste, C., Bowman, K., & Faulkenberry, T. J. (September 2021). An ex-Gaussian decomposition of the unit-decade compatibility effect. Southwest Cognition Conference (ARMADILLO), Virtual/online.
 1. Faulkenberry, T. J. & Horry, R. (July, 2021). An interactive web applet for exploring the impact of unequal variances on the t-test. US Conference on the Teaching of Statistics (USCOTS 2021). Virtual/online.
 1. Faulkenberry, T. J. (April, 2021). Gamma function approximations for computing closed-form Bayes factors. Mathematical Association of America Texas Section Meeting. Virtual/online.
 1. Faulkenberry, T. J. (April, 2021). Do asynchronous students perform worse? A Bayesian analysis of pandemic teaching. Southwestern Psychological Association. San Antonio, TX.
@@ -186,7 +202,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (March, 1998). The classification of Markoff numbers on a once-punctured torus. MAA Oklahoma/Arkansas Section Meeting, Southern Nazarene University.
 
 ** Seminars and Invited Talks
-   1. Faulkenberry, T. J. (April 2021) A Mathematician's Apology: What a Life in Mathematics has Taught Me about Teaching Psychology,  Keynote Address - Southwestern Teachers of Psychology Conference (SWToP), San Antonio, TX.
+1. Faulkenberry, T. J. (April 2022). Workshop: Getting started in Bayesian Statistics with JASP. Southwestern Psychological Association, Baton Rouge, LA.
+1. Faulkenberry, T. J. (September 2021). A Bayesian framework for modeling individual differences in numerical cognition. Educational Psychology Colloquium Series, University of Alabama.
+1. Faulkenberry, T. J. (April 2021). A Mathematician's Apology: What a Life in Mathematics has Taught Me about Teaching Psychology,  Keynote Address - Southwestern Teachers of Psychology Conference (SWToP), San Antonio, TX.
 1. Faulkenberry, T. J. (June 2020). Workshop: Bayesian statistics in numerical cognition. Invited workshop for the Math Cognition and Learning Society, Dublin, Ireland (cancelled due to COVID-19)
 1. Faulkenberry, T. J. (June 2020), Workshop on Bayesian Statistics. Invited Lecture, University College - Dublin, Dublin, Ireland (cancelled due to COVID-19)
 1. Faulkenberry, T. J. (April 2020). Developing an interactive web application for computing Bayes factors from summary statistics. Tarleton Psychological Sciences Day, Stephenville, TX. 
@@ -231,8 +249,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 /PI unless otherwise noted.  Total funding = $330,956/
 
+- 2022-2023, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,425. /CMAT: Computational Mathematics at Tarleton/
 - 2021-2022, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $30,125. /CMAT: Computational Mathematics at Tarleton/
-- 2021 (summer), Tarleton State University, President's Excellence in Research Scholars (PERS), /REU Site: Computational Mathematics at Tarleton/.
+- 2021 (summer), Tarleton State University, President's Excellence in Research Scholars (PERS), $31,500. /REU Site: Computational Mathematics at Tarleton/.
 - 2020-2021, Tarleton State University, Faculty-Student Research Grant, $5000, /Developing an interactive web-based calculator for Bayesian statistics/
 - 2019 (fall), Tarleton State University, Faculty Development Grant, $1000, /Travel: Math Cognition and Learning Society Conference in Dublin, Ireland/.
 - 2019 (summer), National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,663. /CMAT: Computational Mathematics at Tarleton/
@@ -295,8 +314,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 National/regional service 
 
 - President, Southwestern Psychological Association (elected 2021-2024)
+- Chair, ASA-MAA Joint Committee on Statistics and Data Science Education (appointed 2022-2023)
+- Member, MAA Council on Teaching and Learning (appointed 2022-2023)
 - Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2022)
-- ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)
+- Member, ASA-MAA Joint Committee on Statistics Education (appointed 2020-2023)
 - Treasurer, Southwestern Psychological Association (appointed, 2017-2021)	
 - Program Review Committee member, Psychonomic Society (appointed 2018-2021)
 - Texas Representative, Southwestern Psychological Association (elected, 2015-2017)
@@ -332,7 +353,7 @@ University service
 
 Department service
 
-- Human subjects research pool coordinator, Tarleton (2018-present)
+- Human subjects research pool coordinator, Tarleton (2018,2022)
 - Organized /Psychological Sciences Day/, Tarleton (2017-present)
 - Search Committee Chair, Department of Psychological Sciences, Tarleton (2014, 2015, 2020)
 - Texan Orientation, Department of Psychological Sciences, Tarleton (2014-2018)
@@ -369,12 +390,14 @@ Tarleton State University
 
 ** Student Mentoring
 *** Masters Thesis Chair
+- Bryanna Scheuler (Applied Psychology, Tarleton, graduated 2022)
 - Annie Lenoir (Applied Psychology, Tarleton, graduated 2021)
 - Kristen Bowman (Applied Psychology, Tarleton, graduated 2020)
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
 *** Doctoral Committees
 
+- Jessica Cervantes (Educational Leadership, Tarleton, graduated 2021)
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
 - Trina Geye (Psychology, TAMU-C, graduated 2016)
 - Beth Nikopoulous (Psychology, TAMU-C, graduated 2015)
