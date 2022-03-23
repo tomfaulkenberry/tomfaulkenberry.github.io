@@ -50,6 +50,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (in press). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. To appear in /Journal of Psychological Inquiry/, https://psyarxiv.com/5je9u
 1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
 1. Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
 1. Nejman, J. A. & Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. /Journal of Psychological Inquiry/, /24/ (2), 17-23. https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf
@@ -87,7 +88,6 @@ Website: [[http://tomfaulkenberry.github.io]]
     
 ** Preprints
 1. Faulkenberry, T. J. (2021). A note on the normality assumption for modeling constraint in cognitive individual differences. /arXiv/, https://arxiv.org/abs/2112.05503
-1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2021). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /PsyArXiv/, https://psyarxiv.com/5je9u
 2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
    
@@ -247,7 +247,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Research Funding  
 
-/PI unless otherwise noted.  Total funding = $330,956/
+/PI unless otherwise noted.  Total funding = $360,381/
 
 - 2022-2023, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,425. /CMAT: Computational Mathematics at Tarleton/
 - 2021-2022, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $30,125. /CMAT: Computational Mathematics at Tarleton/
