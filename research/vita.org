@@ -50,6 +50,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1. Faulkenberrry, T. J., & Bowman, K. A. (in press). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. To appear in /Journal of Cognitive Psychology/, https://psyarxiv.com/4b9rs/
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (in press). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. To appear in /Journal of Psychological Inquiry/, https://psyarxiv.com/5je9u
 1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
 1. Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
@@ -87,8 +88,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 32. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
+1. Faulkenberry, T. J., & Brennan, K. B. (2022). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /arXiv/, https://arxiv.org/abs/2209.08159
 1. Faulkenberry, T. J. (2022). A note on the normality assumption for modeling constraint in cognitive individual differences. /arXiv/, https://arxiv.org/abs/2112.05503
-2. Faulkenberrry, T. J., & Bowman, K. A. (2020). Modeling the latent structure of individual differences in the numerical size-congruity effect. /PsyArXiv/, https://psyarxiv.com/4b9rs/
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
    
 ** Abstracts, columns, and book reviews
@@ -380,17 +381,19 @@ Tarleton State University
 - PSYC 4386: Advanced Statistical Methods, Spring 14
 - PSYC 4386: Methods in Experimental Psychology, Spring 15; Fall 15
 - PSYC 4386: Problems in Numerical Cognition, Fall 15
-- PSYC 5303: Theories of Learning, Fall 16
+- PSYC 5303: Theories of Learning, Fall 16,22
 - HONS 3385: Honors Seminar (Numerical Cognition), Spring 15
 - PSYC 5301: Research Methods, Spring 14,15,17,18,19,21
 - PSYC 5304: Human Development, Spring 14
-- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21
+- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21,22
 - PSYC 5322: Psychometrics, Sp 20
 - PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20,21
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
 ** Student Mentoring
 *** Masters Thesis Chair
+- Keelyn Brennan (Applied Psychology, Tarleton, in progress)
+- Steven McMullin (Applied Psychology, Tarleton, in progress)
 - Bryanna Scheuler (Applied Psychology, Tarleton, graduated 2022)
 - Mihaela Codreanu (Applied Psychology, Tarleton, graduated 2022)
 - Annie Lenoir (Applied Psychology, Tarleton, graduated 2021)
