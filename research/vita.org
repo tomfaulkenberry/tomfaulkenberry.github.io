@@ -50,6 +50,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1. Faulkenberry, T. J. (in press). A note on the normality assumption for modeling constraint in cognitive individual differences. To appear in /Metodoloski Zvezki: Advances in Methodology and Statistics/, https://arxiv.org/abs/2112.05503
 1. Faulkenberrry, T. J., & Bowman, K. A. (in press). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. To appear in /Journal of Cognitive Psychology/, https://psyarxiv.com/4b9rs/
 1. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (in press). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. To appear in /Journal of Psychological Inquiry/, https://psyarxiv.com/5je9u
 1. Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
@@ -89,7 +90,6 @@ Website: [[http://tomfaulkenberry.github.io]]
     
 ** Preprints
 1. Faulkenberry, T. J., & Brennan, K. B. (2022). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /arXiv/, https://arxiv.org/abs/2209.08159
-1. Faulkenberry, T. J. (2022). A note on the normality assumption for modeling constraint in cognitive individual differences. /arXiv/, https://arxiv.org/abs/2112.05503
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
    
 ** Abstracts, columns, and book reviews
