@@ -93,6 +93,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
    
 ** Abstracts, columns, and book reviews
+1. Faulkenberry, T. J., & Scheuler, B. (2022). Testing the independence of encoding and calculation in mental addition: A confirmatory Bayesian analysis. /Abstracts of the Psychonomic Society/, /27/, 93.
+1. Scheuler, B., & Faulkenberry, T. J. (2022). Evaluating classical maximum likelihood estimation for estimating shifted-Wald models of response times. /Abstracts of the Psychonomic Society/, /27/, 181.
 1. Faulkenberry, T. J. (2020). Getting started with Bayesian statistics. /Southwestern Psychologist/, /13/ (3). https://rb.gy/rikuim
 1. Bowman, K. A., & Faulkenberry, T. J. (2020). Response time modeling for the size-congruity effect: Early vs. late interaction. /Abstracts of the Psychonomic Society/, /25/, 193. 
 1. Faulkenberry, T. J. (2020). Book review of "Chi-squared data analysis and model testing for beginners. /MAA Reviews/, https://www.maa.org/press/maa-reviews/chi-squared-data-analysis-and-model-testing-for-beginners.
