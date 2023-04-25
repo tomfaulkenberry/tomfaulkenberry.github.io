@@ -50,6 +50,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1. Faulkenberry, T. J., & Brennan, K. B. (in press). Computing analytic Bayes factors from summary statistics in repeated-measures designs. To appear in /Biometrical Letters/,  https://arxiv.org/abs/2209.08159
 1. Faulkenberry, T. J. (in press). A note on the normality assumption for modeling constraint in cognitive individual differences. To appear in /Metodoloski Zvezki: Advances in Methodology and Statistics/, https://arxiv.org/abs/2112.05503
 2. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (in press). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. To appear in /Journal of Psychological Inquiry/, https://psyarxiv.com/5je9u
 3. Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
@@ -89,7 +90,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 37. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
-1. Faulkenberry, T. J., & Brennan, K. B. (2022). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /arXiv/, https://arxiv.org/abs/2209.08159
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
    
 ** Abstracts, columns, and book reviews
