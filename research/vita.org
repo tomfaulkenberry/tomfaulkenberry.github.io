@@ -54,6 +54,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 ** Papers
 1. Faulkenberry, T. J. (in press). A note on the normality assumption for modeling constraint in cognitive individual differences. To appear in /Metodoloski Zvezki: Advances in Methodology and Statistics/, https://arxiv.org/abs/2112.05503
 1. Zapata, B., & Faulkenberry, T. J. (in press). A diffusion model decomposition of the unit-decade compatibility effect in two-digit number comparison. To appear in /Proceedings of the 21st International Conference on Cognitive Modeling (ICCM 2023)/. https://psyarxiv.com/f6qpy
+1. Colpitts, K., Dias, J., Faulkenberry, T. J., & Harris Bozer, A. (in press). Investigation of the relationship between perceived mental workload and chronic pain. To appear in /Psi Chi Journal of Psychological Research/.
 2. Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
 3. Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2023). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /Journal of Psychological Inquiry, 27/ (1), 5-13. https://www.psychinquiry.org/wp-content/uploads/2023/05/vol27n1.pdf
 4. Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
