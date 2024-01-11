@@ -30,6 +30,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2005-2010: Lecturer, Department of Mathematics, Texas A&M University - Commerce
 
 ** Honors and awards
+- Faculty Excellence in Scholarship Award, Tarleton State University College of Education, 2023
 - Virtual MathPsych People's Choice Award, Society for Mathematical Psychology, 2023
 - Elizabeth A. Dahl Award for Excellence in Undergraduate Research, Journal of Psychological Inquiry, 2023
 - O. A. Grant Excellence in Teaching Award, Tarleton State University College of Education, 2018
@@ -94,6 +95,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 38. Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
+1. Faulkenberry, T. J. (2023). Closed-form approximations of the two-sample Pearson Bayes factor. /arXiv/, https://arxiv.org/abs/2310.11313
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
 
 ** Contributions to Open Science
@@ -104,6 +106,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. In 2020, I co-authored the book /Learning Statistics with JASP: A Tutorial for Psychology and Other Beginners/ with Danielle Navarro and David Foxcroft. This book and its source files are freely downloadable from https://learnstatswithjasp.com and is published under a Creative Commons BY-SA license (CC BY-SA) version 4.0.
 
 ** Abstracts, columns, and book reviews
+1. Faulkenberry, T. J. (2023). A hierarchical Bayesian extension of the censored shifted Wald model for response times. /Abstracts of the Psychonomic Society/, /28/, 74-75.
+1. Zapata, B. E., & Faulkenberry, T. J. (2023). A diffusion model decomposition of the unit-decade compatibility effect in two-digit number comparison. /Abstracts of the Psychonomic Society/, /28/, 145.
 1. Faulkenberry, T. J. (2023). A Mathematician's Apology: How a Life in Mathematics Has Shaped a Career in Psychology. /Southwestern Psychologist/, /16/ (1). https://rb.gy/7gpbb
 1. Faulkenberry, T. J., & Scheuler, B. (2022). Testing the independence of encoding and calculation in mental addition: A confirmatory Bayesian analysis. /Abstracts of the Psychonomic Society/, /27/, 93.
 1. Scheuler, B., & Faulkenberry, T. J. (2022). Evaluating classical maximum likelihood estimation for estimating shifted-Wald models of response times. /Abstracts of the Psychonomic Society/, /27/, 181.
@@ -313,6 +317,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
   
 ** Editorial roles
+- Associate Editor (2024-present): /Behavior Research Methods/
 - Guest Editor (2023-present): /Canadian Journal of Experimental Psychology/
 - Editorial Board (2019-present): /Journal of Numerical Cognition/
 - Associate Editor (2016-present): /Journal of Psychological Inquiry/
@@ -347,7 +352,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 National/regional service 
 
-- Finance Committee Member, Psychonomic Society (appointed 2023-2025)
+- Chair, Psychonomic Society Finance Commitee (appointed 2024-present)
+- Member, Psychonomic Society Finance Committee (appointed 2023)
 - President, Southwestern Psychological Association (elected 2021-2024)
 - Chair, ASA-MAA Joint Committee on Statistics and Data Science Education (appointed 2022)
 - Member, MAA Council on Teaching and Learning (appointed 2022)
@@ -402,7 +408,7 @@ Department service
 Tarleton State University
 
 - PSYC 2301: General Psychology (Honors), Fall 13,14,15
-- PSYC 2317: Statistical Methods for Psychology, Fall 19,20,21; Sp 20
+- PSYC 2317: Statistical Methods for Psychology, Fall 19,20,21,23; Sp 20
 - PSYC 2301: General Psychology, Summer 14,15
 - PSYC 3301: Psychology of Learning, Fall 13,14,15,16
 - PSYC 3303: Educational Psychology, Fall 13; Spring 14; Summer 14,15,16
@@ -418,7 +424,7 @@ Tarleton State University
 - PSYC 5303: Theories of Learning, Fall 16,22
 - PSYC 5301: Research Methods, Spring 14,15,17,18,19,21
 - PSYC 5304: Human Development, Spring 14
-- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21,22
+- PSYC 5316: Advanced Quantitative Methods, Fall 17,18,19,20,21,22,23
 - PSYC 5322: Psychometrics, Sp 20
 - PSYC 5379: Advanced Psycholinguistics, Summer 17,18,19,20,21
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
@@ -453,7 +459,7 @@ Tarleton State University
 - Joshua Patterson (Mathematics, TAMU-C, graduated 2011)
 
 *** Honors Thesis Chair
-
+- Bella Zapata (Psychology, Tarleton, graduated 2023), /Closed form methods for estimating parameters of response time distributions/
 - Kristen Bowman (Psychology, Tarleton, graduated 2018), /Nonwords induce reverse priming effects in a lexical decision task/
 - Anissa Eid (Psychology, Tarleton, graduated 2018), /Cognitive mechanisms underlying spatial-numerical associations/
 - Paige Woodard (Psychology, Tarleton, graduated 2017), /Mental arithmetic: Relationship between encoding and calculation processes/
