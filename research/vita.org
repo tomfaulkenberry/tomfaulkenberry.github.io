@@ -10,17 +10,17 @@
 
 * Thomas J. Faulkenberry, Ph.D.
 
-Professor & Associate Dean\\
-College of Graduate Studies\\
+Professor of Psychological Sciences\\
+Associate Dean, College of Graduate Studies\\
 Tarleton State University\\
-Box T-0820, Stephenville, TX 76402\\  
+Box T-0350, Stephenville, TX 76402\\  
 Phone: +1 (254) 968-9816\\
 Email: faulkenberry@tarleton.edu\\
 Website: [[http://tomfaulkenberry.github.io]]
 
 ** Education   
-- Ph.D., Psychology, Texas A&M University – Commerce, 2010
-- M.S., Mathematics, Oklahoma State University - 2002
+- Ph.D., Psychology, East Texas A&M University, 2010
+- M.S., Mathematics, Oklahoma State University, 2002
 - B.S. with highest honors, Mathematics, Southeastern Oklahoma State University, 2000
 
 ** Experience
@@ -51,7 +51,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001
   
 ** Administrative duties and accomplishments
-*** 2021-present: Head of Psychological Sciences
+*** 2021-2024: Head of Psychological Sciences
 - /Duties and responsibilities:/
   - serve as manager for 34 faculty members (12 full-time faculty, 21 part-time faculty, and 1 full-time research staff).
   - manage a departmental operating budget of $48,000 and an instructional budget of $1,136,000.
@@ -93,7 +93,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Faculty Fellow, Tarleton (2016-2018)
 
 ** Books
-1. Faulkenberry, T. J. (2025). /Bayesian Statistics: The Basics/. Under contract with Routledge.
+1. Faulkenberry, T. J. (in press). /Bayesian Statistics: The Basics/. New York: Routledge. To appear in April 2025
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
@@ -369,7 +369,7 @@ Website: [[http://tomfaulkenberry.github.io]]
   
 ** Editorial roles
 - Associate Editor (2024-present): /Behavior Research Methods/
-- Guest Editor (2023-present): /Canadian Journal of Experimental Psychology/
+- Guest Editor (2023-2025): /Canadian Journal of Experimental Psychology/
 - Editorial Board (2019-present): /Journal of Numerical Cognition/
 - Associate Editor (2016-present): /Journal of Psychological Inquiry/
 - Associate Editor (2017-2021): /Journal of European Psychology Students/
@@ -483,6 +483,7 @@ Tarleton State University
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
 *** Doctoral Committees
+- Kristen Bowman (Psychology, TAMU-C, in progress)
 - Angelika Stefan (Psychological Methods, University of Amsterdam, graduated 2023)
 - Jessica Cervantes (Educational Leadership, Tarleton, graduated 2021)
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
@@ -491,8 +492,8 @@ Tarleton State University
 - Donna Peters (Psychology, TAMU-C, graduated 2013)
 	
 *** Masters Committees
-- Sam Arthur (Psychology, Tarleton, in progress)
 - Shanna Coury (Psychology, TAMU-C, in progress)
+- Sam Arthur (Psychology, Tarleton, graduated 2023)
 - Simon Rook (Applied Psychology, Tarleton, graduated 2022)
 - Rene Wallace (Applied Psychology, Tarleton, graduated 2021)
 - Kayli Colpitts (Applied Psychology, Tarleton, graduated 2020)
