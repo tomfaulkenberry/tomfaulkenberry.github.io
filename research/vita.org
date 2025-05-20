@@ -93,10 +93,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 - Faculty Fellow, Tarleton (2016-2018)
 
 ** Books
-1. Faulkenberry, T. J. (in press). /Bayesian Statistics: The Basics/. New York: Routledge. To appear in April 2025
+1. Faulkenberry, T. J. (2025). /Bayesian Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003470199 
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
 1) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
 2) Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
 3) Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2023). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /Journal of Psychological Inquiry, 27/ (1), 5-13. https://www.psychinquiry.org/wp-content/uploads/2023/05/vol27n1.pdf
@@ -139,7 +140,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 40) Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
-1. Zapata, B., & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /PsyArXiv/, https://psyarxiv.com/82psu
 1. Faulkenberry, T. J. (2023). Closed-form approximations of the two-sample Pearson Bayes factor. /arXiv/, https://arxiv.org/abs/2310.11313
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
 
@@ -368,10 +368,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
   
 ** Editorial roles
+- Associate Editor (2025-present): /Journal of Numerical Cognition)
 - Associate Editor (2024-present): /Behavior Research Methods/
 - Guest Editor (2023-2025): /Canadian Journal of Experimental Psychology/
-- Editorial Board (2019-present): /Journal of Numerical Cognition/
 - Associate Editor (2016-present): /Journal of Psychological Inquiry/
+- Editorial Board (2019-2024): /Journal of Numerical Cognition/
 - Associate Editor (2017-2021): /Journal of European Psychology Students/
 - Guest Editor (2016-2018): /Journal of Numerical Cognition/
 - Associate Editor (2017-2019): /Frontiers in Psychology: Cognition Section/
@@ -483,6 +484,7 @@ Tarleton State University
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
 *** Doctoral Committees
+- Addie Caudle (Educational Leadership, Tarleton, in progress)
 - Kristen Bowman (Psychology, TAMU-C, in progress)
 - Angelika Stefan (Psychological Methods, University of Amsterdam, graduated 2023)
 - Jessica Cervantes (Educational Leadership, Tarleton, graduated 2021)
