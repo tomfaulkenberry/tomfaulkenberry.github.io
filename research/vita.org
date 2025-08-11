@@ -51,6 +51,21 @@ Website: [[http://tomfaulkenberry.github.io]]
 - S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001
   
 ** Administrative duties and accomplishments
+*** 2024-present: Associate Dean, College of Graduate Studies
+- /Duties and responsibilities:/
+  - Assist the Dean in administering the operations and initiatives of the College of Graduate Studies
+  - Oversee specific graduate education areas as assigned, such as student support services, compliance, or program assessment.
+  - Collaborate with Academic Deans, Assistant and Associate Deans, Department Chairs, Graduate Program Directors and Graduate Advisors, faculty, and staff to ensure the quality and growth of graduate programs.
+  - Represent the College of Graduate Studies in University-wide committees and initiatives as designated by the Dean.
+  - Serve as acting Dean in the absence of the Dean.
+
+- /Key accomplishments during my leadership:/
+  - I created a new Statistical Consulting service in the College of Graduate Studies. This involved performing a needs assessment for the types of statistical consulting, hiring and managing a graduate assistant as the consultant, and creating the technical infrastructure for the service, including a webpage, intake form, and evaluation process.
+  - I streamlined the graduate program review process, including the creation of a new assessment manual, recruitment of external reviewers, and management and coordination of the process throughout the academic year.
+  - I hosted research support workshops for graduate students, including topics such as statistical methods, writing support, and qualitative methods.
+  - I led a committee of graduate students to lay the groundwork for a new Graduate and Professional Student Council (GPSC).
+  - I assisted the Dean with the organization and execution of the TAMUS Pathways Conference, held on the Tarleton campus in February 2025.
+
 *** 2021-2024: Head of Psychological Sciences
 - /Duties and responsibilities:/
   - serve as manager for 34 faculty members (12 full-time faculty, 21 part-time faculty, and 1 full-time research staff).
@@ -80,6 +95,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 *** External Leadership
 
 - Chair, Psychonomic Society Finance Commitee (appointed 2024-present)
+- Treasurer, Society for Mathematical Psychology (appointed 2025-present)
 - President, Southwestern Psychological Association (elected 2021-2024)
 - Chair, ASA-MAA Joint Committee on Statistics and Data Science Education (appointed 2022)
 - Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2021)
@@ -97,6 +113,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1) Maloney, E. A., Faulkenberry, T. J., & LeFevre, J.-A. (2025). Branching out while remembering our roots: A special issue on numerical and mathematical cognition. /Canadian Journal of Experimental Psychology, 79/ (2), 125–128. https://doi.org/10.1037/cep0000376
 1) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
 1) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
 2) Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
@@ -393,10 +410,6 @@ Website: [[http://tomfaulkenberry.github.io]]
   - 2023: B.A. in Psychology, Colorado Mesa University
 
 ** Professional Memberships 
-- American Mathematical Society
-- American Statistical Association
-- Mathematical Association of America
-- Mathematical Cognition and Learning Society
 - Psychonomic Society
 - Society for Mathematical Psychology
 - Southwestern Psychological Association (SWPA)
@@ -473,9 +486,12 @@ Tarleton State University
 - EDAD 6313: Statistical Methods for Educational Leadership, Spring 16
 
 ** Student Mentoring
+*** Doctoral Dissertation Chair
+- Kate Sims (Experimental Psychology, Tarleton, in progress)
+
 *** Masters Thesis Chair
-- Landry Smith (Applied Psychology, Tarleton, in progress)
 - Steven McMullin (Applied Psychology, Tarleton, in progress)
+- Landry Smith (Applied Psychology, Tarleton, graduated 2025)
 - Keelyn Brennan (Applied Psychology, Tarleton, graduated 2023)
 - Bryanna Scheuler (Applied Psychology, Tarleton, graduated 2022)
 - Mihaela Codreanu (Applied Psychology, Tarleton, graduated 2022)
