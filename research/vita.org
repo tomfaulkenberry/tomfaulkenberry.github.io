@@ -10,8 +10,8 @@
 
 * Thomas J. Faulkenberry, Ph.D.
 
+Dean, College of Graduate Studies\\
 Professor of Psychological Sciences\\
-Associate Dean, College of Graduate Studies\\
 Tarleton State University\\
 Box T-0350, Stephenville, TX 76402\\  
 Phone: +1 (254) 968-9816\\
@@ -25,7 +25,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 
 ** Experience
 *** Administrative Positions
-- 2024-present: Associate Dean, College of Graduate Studies, Tarleton State University
+- 2025-present: Dean, College of Graduate Studies, Tarleton State University
+- 2024-2025: Associate Dean, College of Graduate Studies, Tarleton State University
 - 2021-2024: Head, Department of Psychological Sciences, Tarleton State University
 - 2019-2021: Assistant Head, Department of Psychological Sciences, Tarleton State University
 *** Faculty Positions
@@ -50,8 +51,9 @@ Website: [[http://tomfaulkenberry.github.io]]
 - O.H. Hamilton Fellowship in Mathematics, Oklahoma State University, 2002
 - S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001
   
-** Administrative duties and accomplishments
-*** 2024-present: Associate Dean, College of Graduate Studies
+** Past administrative duties and accomplishments
+
+*** 2024-2025: Associate Dean, College of Graduate Studies
 - /Duties and responsibilities:/
   - Assist the Dean in administering the operations and initiatives of the College of Graduate Studies
   - Oversee specific graduate education areas as assigned, such as student support services, compliance, or program assessment.
@@ -113,6 +115,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
+1. Faulkenberry, T. J. (in press). Closed-form approximations of the two-sample Pearson Bayes factor. To appear in /Lithuanian Journal of Statisitcs/, https://arxiv.org/abs/2310.11313
 1) Maloney, E. A., Faulkenberry, T. J., & LeFevre, J.-A. (2025). Branching out while remembering our roots: A special issue on numerical and mathematical cognition. /Canadian Journal of Experimental Psychology, 79/ (2), 125–128. https://doi.org/10.1037/cep0000376
 1) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
 1) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
@@ -157,7 +160,6 @@ Website: [[http://tomfaulkenberry.github.io]]
 40) Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
-1. Faulkenberry, T. J. (2023). Closed-form approximations of the two-sample Pearson Bayes factor. /arXiv/, https://arxiv.org/abs/2310.11313
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
 
 ** Contributions to Open Science
@@ -385,10 +387,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 - 2008, Texas A&M University – Commerce, OSP Mini Grant, $600, /IoLab Button Box for Psyscope X/
   
 ** Editorial roles
+- Managing Editor (2026-present): /Journal of Psychological Inquiry/
 - Associate Editor (2025-present): /Journal of Numerical Cognition)
 - Associate Editor (2024-present): /Behavior Research Methods/
 - Guest Editor (2023-2025): /Canadian Journal of Experimental Psychology/
-- Associate Editor (2016-present): /Journal of Psychological Inquiry/
+- Associate Editor (2016-2025): /Journal of Psychological Inquiry/
 - Editorial Board (2019-2024): /Journal of Numerical Cognition/
 - Associate Editor (2017-2021): /Journal of European Psychology Students/
 - Guest Editor (2016-2018): /Journal of Numerical Cognition/
@@ -419,8 +422,10 @@ Website: [[http://tomfaulkenberry.github.io]]
 External Leadership Positions and Committee Membership
 
 - Chair, Psychonomic Society Finance Commitee (appointed 2024-present)
-- Member, Psychonomic Society Finance Committee (appointed 2023)
+- Treasurer, Society for Mathematical Psychology (elected 2025-present)
+- Program Chair, Southwestern Psychological Association (appointed 2024-present)
 - President, Southwestern Psychological Association (elected 2021-2024)
+- Member, Psychonomic Society Finance Committee (appointed 2023)
 - Chair, ASA-MAA Joint Committee on Statistics and Data Science Education (appointed 2022)
 - Member, MAA Council on Teaching and Learning (appointed 2022)
 - Secretary/Treasurer, MAA Special Interest Group (SIGMAA) on Statistics Education (elected 2020-2021)
@@ -500,8 +505,8 @@ Tarleton State University
 - Chelsea Bradley (Applied Psychology, Tarleton, graduated 2018)
 
 *** Doctoral Committees
-- Addie Caudle (Educational Leadership, Tarleton, in progress)
-- Kristen Bowman (Psychology, TAMU-C, in progress)
+- Kristen Bowman (Experimental Psychology, TAMU-C, in progress)
+- Addie Caudle (Educational Leadership, Tarleton, graduated 2025)
 - Angelika Stefan (Psychological Methods, University of Amsterdam, graduated 2023)
 - Jessica Cervantes (Educational Leadership, Tarleton, graduated 2021)
 - Jeni McNeely (Educational Leadership, Tarleton, graduated 2016)
@@ -510,7 +515,7 @@ Tarleton State University
 - Donna Peters (Psychology, TAMU-C, graduated 2013)
 	
 *** Masters Committees
-- Shanna Coury (Psychology, TAMU-C, in progress)
+- Shanna Coury (Psychology, TAMU-C, graduated 2025)
 - Sam Arthur (Psychology, Tarleton, graduated 2023)
 - Simon Rook (Applied Psychology, Tarleton, graduated 2022)
 - Rene Wallace (Applied Psychology, Tarleton, graduated 2021)
