@@ -115,7 +115,8 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
-1. Faulkenberry, T. J. (in press). Closed-form approximations of the two-sample Pearson Bayes factor. To appear in /Lithuanian Journal of Statisitcs/, https://arxiv.org/abs/2310.11313
+1) Faulkenberry, T. J. (in press). Closed-form approximations of the two-sample Pearson Bayes factor. To appear in /Lithuanian Journal of Statisitcs/, https://arxiv.org/abs/2310.11313
+1) Erb, C. D., Moher, J., O'Connor, A, Faulkenberry, T. J., & Marcovitch, S. (in press). The Dynamics of Fraction Processing in Pre-Adolescents and Adults: Evidence from Reaching Behavior. To appear in /Developmental Psychology/.
 1) Maloney, E. A., Faulkenberry, T. J., & LeFevre, J.-A. (2025). Branching out while remembering our roots: A special issue on numerical and mathematical cognition. /Canadian Journal of Experimental Psychology, 79/ (2), 125–128. https://doi.org/10.1037/cep0000376
 1) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
 1) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
