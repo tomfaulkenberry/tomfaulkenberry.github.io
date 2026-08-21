@@ -51,8 +51,23 @@ Website: [[http://tomfaulkenberry.github.io]]
 - O.H. Hamilton Fellowship in Mathematics, Oklahoma State University, 2002
 - S. J. Scroggs Distinguished Graduate Fellowship, Oklahoma State University, 2001
   
-** Past administrative duties and accomplishments
+** Administrative duties and accomplishments
 
+*** 2025-present: Dean, College of Graduate Studies
+- /Duties and responsibilities:/
+  - Provide university-wide leadership for graduate education, including enrollment, retention, progression, completion, and student success.
+  - Lead development and implementation of graduate academic policies, procedures, and governance in collaboration with colleges, programs, and faculty.
+  - Oversee graduate admissions, scholarships, fellowships, and other graduate student funding mechanisms.
+  - Lead graduate program development, approval, review, and continuous improvement, including expansion of doctoral education.
+  - Collaborate with Academic Affairs, Enrollment Management, deans, department heads, and graduate program coordinators to strengthen recruitment, advising, retention, and degree completion.
+
+- /Key accomplishments during my leadership:/
+  - Led efforts to secure approval of an interdisciplinary Ph.D. in Integrative Biosciences
+  - Advanced substantial graduate enrollment growth, resulting in a 20% increase in combined masters and doctoral headcount from Fall 2025 to Fall 2026.
+  - Created and expanded major graduate student financial-support initiatives, including the President's Guaranteed Master’s Scholarship program and $500,000 in Research Enhancement Fund Doctoral Fellowships.
+  - Strengthened undergraduate-to-graduate pathways through the President's Auto-Admission Program, contributing to an 89% increase in auto-admission enrollments and more than a fivefold increase in Fall 2026 opt-ins.
+  - Modernized graduate academic infrastructure through redesigned program review, academic policy, graduate faculty, assistantship, and Credit for Prior Learning processes.
+  
 *** 2024-2025: Associate Dean, College of Graduate Studies
 - /Duties and responsibilities:/
   - Assist the Dean in administering the operations and initiatives of the College of Graduate Studies
@@ -96,6 +111,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 ** Significant Leadership Positions
 *** External Leadership
 
+- President, Association of Texas Graduate Schools (elected 2025-2027)
 - Chair, Psychonomic Society Finance Commitee (appointed 2024-present)
 - Treasurer, Society for Mathematical Psychology (appointed 2025-present)
 - President, Southwestern Psychological Association (elected 2021-2024)
@@ -115,50 +131,50 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2022). /Psychological Statistics: The Basics/. New York: Routledge. https://doi.org/10.4324/9781003181828
    
 ** Papers
-1) Faulkenberry, T. J. (in press). Closed-form approximations of the two-sample Pearson Bayes factor. To appear in /Lithuanian Journal of Statisitcs/, https://arxiv.org/abs/2310.11313
-1) Erb, C. D., Moher, J., O'Connor, A, Faulkenberry, T. J., & Marcovitch, S. (in press). The Dynamics of Fraction Processing in Pre-Adolescents and Adults: Evidence from Reaching Behavior. To appear in /Developmental Psychology/.
-1) Maloney, E. A., Faulkenberry, T. J., & LeFevre, J.-A. (2025). Branching out while remembering our roots: A special issue on numerical and mathematical cognition. /Canadian Journal of Experimental Psychology, 79/ (2), 125–128. https://doi.org/10.1037/cep0000376
-1) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
-1) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
-2) Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
-3) Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2023). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /Journal of Psychological Inquiry, 27/ (1), 5-13. https://www.psychinquiry.org/wp-content/uploads/2023/05/vol27n1.pdf
-4) Zapata, B., & Faulkenberry, T. J. (2023). A diffusion model decomposition of the unit-decade compatibility effect in two-digit number comparison. /Proceedings of the 21st International Conference on Cognitive Modeling (ICCM 2023)/. https://psyarxiv.com/f6qpy
-5) Colpitts, K., Dias, J., Faulkenberry, T. J., & Harris Bozer, A. (2023). Investigation of the relationship between perceived mental workload and chronic pain. /Psi Chi Journal of Psychological Research/, /28/ (4), 247-255. https://doi.org/10.24839/2325-7342.JN28.4.247
-6) Faulkenberry, T. J. (2022). A note on the normality assumption for modeling constraint in cognitive individual differences. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /19/ (1), 45-59. https://doi.org/10.51936/dtsh6123
-7) Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
-8) Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
-9) Nejman, J. A. & Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. /Journal of Psychological Inquiry/, /24/ (2), 17-23. https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf
-10) Faulkenberry, T. J. (2020). Estimating Bayes factors from minimal summary statistics in repeated-measures analysis of variance designs. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /17/, 1-17.  https://arxiv.org/abs/1905.05569
-11) Faulkenberry, T. J., Ly, A., & Wagenmakers, E. J. (2020). Bayesian statistics in numerical cognition: A tutorial using JASP. /Journal of Numerical Cognition/, /6/, 231-259. https://doi.org/10.5964/jnc.v6i2.288
-12) Faulkenberry, T. J., Cruise, A., & Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/, /84/, 424-439. https://doi.org/[[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
-13) Faulkenberry, T. J. (2019). Estimating evidential value from ANOVA summaries: A comment on Ly et al. (2018). /Advances in Methods and Practices in Psychological Science/, /2/, 406-409. https://doi.org/[[https://doi.org/10.1177/2515245919872960][10.1177/2515245919872960]]
-14) Faulkenberry, T. J. (2019). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. /Communications for Statistical Applications and Methods/, /26/, 217-238. https://doi.org/[[https://doi.org/10.29220/CSAM.2019.26.2.217][10.29220/CSAM.2019.26.2.217]]
-15) Frampton, A. R., & Faulkenberry, T. J. (2018). Mental arithmetic processes: Testing the independence of encoding and calculation. /Journal of Psychological Inquiry/, /22/, 30-35. https://www.psychinquiry.org/wp-content/uploads/2019/03/Vol22-1.pdf
-16) Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. https://doi.org/[[http://dx.doi.org/10.24425/119507][10.24425/119507]]
-17) Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/ (2), 271-285. https://doi.org/[[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]
-18) Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/ (1), 31-43. https://doi.org/[[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
-19) Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. /Journal of Undergraduate Neuroscience Education/, /16/, A126-A130. http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298
-20) Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
-21) Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204. https://doi.org/[[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
-22) Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. https://doi.org/[[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
-23) Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology/, /7:1915/. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
-24) Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. https://doi.org/[[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
-25) Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. https://doi.org/[[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
-26) Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. https://doi.org/[[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
-27) Faulkenberry, T. J., Montgomery, S. A., & Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. /Acta Psychologica/, /159/, 100-107. https://doi.org/[[http://dx.doi.org/10.1016/j.actpsy.2015.05.013][10.1016/j.actpsy.2015.05.013]]
-28) Faulkenberry, T. J., & Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). /Frontiers in Psychology/, /5/:1436. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2014.01436][10.3389/fpsyg.2014.01436]]
-29) Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. /Canadian Journal of Experimental Psychology/, /68/, 147-151. https://doi.org/[[http://dx.doi.org/10.1037/cep0000021][10.1037/cep0000021]]
-30) Faulkenberry, T. J., & Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. /The Rehabilitation Professional/, /22/ (1), 9-16.
-31) Faulkenberry, T. J., & Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. /Oklahoma Journal of School Mathematics/, /5/ (2), 5-14.
-32) Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). /Frontiers in Psychology/, /4/:820. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2013.00820][10.3389/fpsyg.2013.00820]]
-33) Faulkenberry, T. J., & Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 155-162). Tulsa, OK: RCML
-34) Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 205-212). Tulsa, OK: RCML
-35) Faulkenberry, E. D., & Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), /Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 121-126). Charlotte, NC: RCML.
-36) Faulkenberry, T. J., & Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. /Experimental Psychology/, /58/, 480-489. https://doi.org/[[http://dx.doi.org/10.1027/1618-3169/a000116][10.1027/1618-3169/a000116]]
-37) Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) /Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 136-143). Cincinnati, OH: RCML.
-38) Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
-39) Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
-40) Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
+1) Erb, C. D., Moher, J., O'Connor, A, Faulkenberry, T. J., & Marcovitch, S. (2026). The Dynamics of Fraction Processing in Pre-Adolescents and Adults: Evidence from Reaching Behavior. /Developmental Psychology/. https://doi.org/10.1037/dev0002173
+2) Faulkenberry, T. J. (2025). Closed-form approximations of the two-sample Pearson Bayes factor. /Lithuanian Journal of Statistics, 64/, 16-27. https://doi.org/10.15388/LJS.2025.45730 
+3) Maloney, E. A., Faulkenberry, T. J., & LeFevre, J.-A. (2025). Branching out while remembering our roots: A special issue on numerical and mathematical cognition. /Canadian Journal of Experimental Psychology, 79/ (2), 125–128. https://doi.org/10.1037/cep0000376
+4) Zapata, I. & Faulkenberry, T. J. (2024). Closed-form estimates of ex-Gaussian response time models in two-digit number comparison. /Journal of Psychological Inquiry, 28/ (2), 5-14. https://www.psychinquiry.org/wp-content/uploads/2025/02/v28n2.pdf
+5) Faulkenberry, T. J., & Brennan, K. B. (2023). Computing analytic Bayes factors from summary statistics in repeated-measures designs. /Biometrical Letters, 60/ (1), 1-21. https://doi.org/10.2478/bile-2023-0001
+6) Faulkenberrry, T. J., & Bowman, K. A. (2023). Bayesian modeling of the latent structure of individual differences in the numerical size-congruity effect. /Journal of Cognitive Psychology, 35/ (2), 217-232. https://doi.org/10.1080/20445911.2022.2136186
+7) Brennan, K., Rutledge, M., & Faulkenberry, T. J. (2023). Arithmetic operation signs elicit spatial associations: A confirmatory Bayesian analysis. /Journal of Psychological Inquiry, 27/ (1), 5-13. https://www.psychinquiry.org/wp-content/uploads/2023/05/vol27n1.pdf
+8) Zapata, B., & Faulkenberry, T. J. (2023). A diffusion model decomposition of the unit-decade compatibility effect in two-digit number comparison. /Proceedings of the 21st International Conference on Cognitive Modeling (ICCM 2023)/. https://psyarxiv.com/f6qpy
+9) Colpitts, K., Dias, J., Faulkenberry, T. J., & Harris Bozer, A. (2023). Investigation of the relationship between perceived mental workload and chronic pain. /Psi Chi Journal of Psychological Research/, /28/ (4), 247-255. https://doi.org/10.24839/2325-7342.JN28.4.247
+10) Faulkenberry, T. J. (2022). A note on the normality assumption for modeling constraint in cognitive individual differences. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /19/ (1), 45-59. https://doi.org/10.51936/dtsh6123
+11) Vogel, S., Faulkenberry, T. J., & Grabner, R. (2021). Quantitative and qualitative differences in the canonical and the reverse distance effect and their selective association with arithmetic and mathematical competencies. /Frontiers in Education: Educational Psychology, 6/: 655747. https://doi.org/10.3389/feduc.2021.655747
+12) Faulkenberry, T. J. (2021). The Pearson Bayes factor: An analytic formula for computing evidential value from minimal summary statistics. /Biometrical Letters/, /58/ (1), 1-26. https://doi.org/10.2478/bile-2021-0001 
+13) Nejman, J. A. & Faulkenberry, T. J. (2020). Implicit priming reveals decomposed processing in fraction comparison. /Journal of Psychological Inquiry/, /24/ (2), 17-23. https://www.psychinquiry.org/wp-content/uploads/2021/01/vol24-2v3.pdf
+14) Faulkenberry, T. J. (2020). Estimating Bayes factors from minimal summary statistics in repeated-measures analysis of variance designs. /Metodoloski Zvezki: Advances in Methodology and Statistics/, /17/, 1-17.  https://arxiv.org/abs/1905.05569
+15) Faulkenberry, T. J., Ly, A., & Wagenmakers, E. J. (2020). Bayesian statistics in numerical cognition: A tutorial using JASP. /Journal of Numerical Cognition/, /6/, 231-259. https://doi.org/10.5964/jnc.v6i2.288
+16) Faulkenberry, T. J., Cruise, A., & Shaki, S. (2020). Task instructions modulate unit-decade binding in two-digit number representation. /Psychological Research/, /84/, 424-439. https://doi.org/[[https://dx.doi.org/10.1007/s00426-018-1057-9][10.1007/s00426-018-1057-9]]
+17) Faulkenberry, T. J. (2019). Estimating evidential value from ANOVA summaries: A comment on Ly et al. (2018). /Advances in Methods and Practices in Psychological Science/, /2/, 406-409. https://doi.org/[[https://doi.org/10.1177/2515245919872960][10.1177/2515245919872960]]
+18) Faulkenberry, T. J. (2019). A tutorial on generalizing the default Bayesian t-test via posterior sampling and encompassing priors. /Communications for Statistical Applications and Methods/, /26/, 217-238. https://doi.org/[[https://doi.org/10.29220/CSAM.2019.26.2.217][10.29220/CSAM.2019.26.2.217]]
+19) Frampton, A. R., & Faulkenberry, T. J. (2018). Mental arithmetic processes: Testing the independence of encoding and calculation. /Journal of Psychological Inquiry/, /22/, 30-35. https://www.psychinquiry.org/wp-content/uploads/2019/03/Vol22-1.pdf
+20) Faulkenberry, T. J., Vick, A. D., & Bowman, K. A. (2018). A shifted Wald decomposition of the numerical size-congruity effect: Support for a late interaction account. /Polish Psychological Bulletin/, /49/, 391-397. https://doi.org/[[http://dx.doi.org/10.24425/119507][10.24425/119507]]
+21) Faulkenberry, T. J., Witte, M., & Hartmann, M. (2018). Tracking the continuous dynamics of numerical processing: A brief review and editorial. /Journal of Numerical Cognition/, /4/ (2), 271-285. https://doi.org/[[http://dx.doi.org/10.5964/jnc.v4i2.179][10.5964/jnc.v4i2.179]]
+22) Faulkenberry, T. J. (2018). Computing Bayes factors to measure evidence from experiments: An extension of the BIC approximation. /Biometrical Letters/, /55/ (1), 31-43. https://doi.org/[[https://doi.org/10.2478/bile-2018-0003][10.2478/bile-2018-0003]]
+23) Faulkenberry, T. J. (2018). A simple method for teaching Bayesian hypothesis testing in the brain and behavioral sciences. /Journal of Undergraduate Neuroscience Education/, /16/, A126-A130. http://www.funjournal.org/wp-content/uploads/2018/01/june-16-126.pdf?x91298
+24) Faulkenberry, T. J. (2017). A single-boundary accumulator model of response times in an arithmetic verification task. /Frontiers in Psychology/, /8:1225/. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2017.01225][10.3389/fpsyg.2017.01225/]]
+25) Faulkenberry, T. J., Cruise, A., & Shaki, S. (2017). Reversing the manual digit bias in two-digit number comparison. /Experimental Psychology/, /64/, 191-204. https://doi.org/[[http://dx.doi.org/10.1027/1618-3169/a000365][10.1027/1618-3169/a000365]]
+26) Sobel, K. V., Puri, A. M., Faulkenberry, T. J., & Dague, T. D. (2017). Visual search for conjunctions of physical and numerical size shows that they are processed independently. /Journal of Experimental Psychology: Human Perception & Performance/, /43/, 444-453. https://doi.org/[[http://dx.doi.org/10.1037/xhp0000323][10.1037/xhp0000323]]
+27) Faulkenberry, T. J., & Tummolini, L. (2016). Commentary: Is there any Influence of Variations in Context on Object-Affordance Effects in Schizophrenia? Perception of Property and Goals of Action). /Frontiers in Psychology/, /7:1915/. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2016.01915][10.3389/fpsyg.2016.01915]]
+28) Faulkenberry, T. J. (2016). Testing a direct mapping versus competition account of response dynamics in number comparison. /Journal of Cognitive Psychology/, /28/, 825-842. https://doi.org/[[http://dx.doi.org/10.1080/20445911.2016.1191504][10.1080/20445911.2016.1191504]]
+29) Sobel, K. V., Puri, A. M., & Faulkenberry, T. J. (2016). Bottom-up and top-down attentional contributions to the size-congruity effect. /Attention, Perception, & Psychophysics/, /78/, 1324-1336. https://doi.org/[[http://dx.doi.org/10.3758/s13414-016-1098-3][10.3758/s13414-016-1098-3]]
+30) Faulkenberry, T. J., Cruise, A., Lavro, D., & Shaki, S. (2016). Response trajectories capture the continuous dynamics of the size congruity effect. /Acta Psychologica/, /163/, 114-123. https://doi.org/[[http://dx.doi.org/10.1016/j.actpsy.2015.11.010][10.1016/j.actpsy.2015.11.010]]
+31) Faulkenberry, T. J., Montgomery, S. A., & Tennes, S. N. (2015). Response trajectories reveal the temporal dynamics of fraction representations. /Acta Psychologica/, /159/, 100-107. https://doi.org/[[http://dx.doi.org/10.1016/j.actpsy.2015.05.013][10.1016/j.actpsy.2015.05.013]]
+32) Faulkenberry, T. J., & Rey, A. R. (2014). Extending the reach of mousetracking in numerical cognition: A comment on Fischer and Hartmann (2014). /Frontiers in Psychology/, /5/:1436. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2014.01436][10.3389/fpsyg.2014.01436]]
+33) Faulkenberry, T. J. (2014). Hand movements reflect competitive processing in numerical cognition. /Canadian Journal of Experimental Psychology/, /68/, 147-151. https://doi.org/[[http://dx.doi.org/10.1037/cep0000021][10.1037/cep0000021]]
+34) Faulkenberry, T. J., & Geye, T. L. (2014). The cognitive origins of mathematics learning disability: A review. /The Rehabilitation Professional/, /22/ (1), 9-16.
+35) Faulkenberry, T. J., & Faulkenberry, E. D. (2013). Teaching integer arithmetic without rules: An embodied approach. /Oklahoma Journal of School Mathematics/, /5/ (2), 5-14.
+36) Faulkenberry, T. J., (2013). The conceptual/procedural distinction belongs to strategies, not tasks: A comment on Gabriel et al. (2013). /Frontiers in Psychology/, /4/:820. https://doi.org/[[http://dx.doi.org/10.3389/fpsyg.2013.00820][10.3389/fpsyg.2013.00820]]
+37) Faulkenberry, T. J., & Montgomery, S. A. (2013). The primacy of fraction components in adults’ numerical judgements. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 155-162). Tulsa, OK: RCML
+38) Faulkenberry, T. J. (2013). How the hand mirrors the mind: The embodiment of numerical cognition. In Reeder, S. L. and Matney, G. T. (Eds.). /Proceedings of the 40th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 205-212). Tulsa, OK: RCML
+39) Faulkenberry, E. D., & Faulkenberry, T. J. (2012). Do you see what I see? An exploration of self-perception in the classroom. In S. L. Reeder (Ed.), /Proceedings of the 39th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 121-126). Charlotte, NC: RCML.
+40) Faulkenberry, T. J., & Pierce, B. H. (2011). Mental representations in fraction comparison: Holistic versus component-based strategies. /Experimental Psychology/, /58/, 480-489. https://doi.org/[[http://dx.doi.org/10.1027/1618-3169/a000116][10.1027/1618-3169/a000116]]
+41) Faulkenberry, T. J. (2011). Individual differences in mental representations of fraction magnitude. In S. Reeder (Ed.) /Proceedings of the 38th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 136-143). Cincinnati, OH: RCML.
+42) Faulkenberry, E. D., & Faulkenberry, T. J. (2010). Transforming the way we teach function transformations. /Mathematics Teacher/, /104/, 29-33.
+43) Faulkenberry, T. J. (2010). The working memory demands of simple fraction strate- gies. In S. Reeder (Ed.) /Proceedings of the 37th Annual Meeting of the Research Council on Mathematics Learning/ (pp. 84-89). Conway, AR: RCML.
+44) Faulkenberry, E. D. & Faulkenberry, T. J. (2006). Constructivism in mathematics education: A historical and personal perspective. /The Texas Science Teacher/, /35/, 17- 22.
     
 ** Preprints
 3. Bowman, K. A., & Faulkenberry, T. J. (2020). Modeling response times in the size-congruity effect: Early versus late interaction. /PsyArXiv/, https://psyarxiv.com/dns4t/
@@ -349,10 +365,11 @@ Website: [[http://tomfaulkenberry.github.io]]
 1. Faulkenberry, T. J. (2002). Determining the shape of space. Mathematics Colloquium, East Central University.
 1. Faulkenberry, T. J. (2002). Algorithms in topology. Mathematics Colloquium, Southeastern Oklahoma State University.
 
-** Research Funding  
+** Grant Funding  
 
-/PI unless otherwise noted.  Total funding = $558,374/
+/PI unless otherwise noted.  Total funding = $1,058,374/
 
+- 2026-2027, Texas A&M University System, Research Excellence Fund, $500,000, /SWIFT: System-Wide Innovation Fellowships at Tarleton/
 - 2023-2025, Tarleton State University, Postdoctoral Research Scholars Program, $168,000. /Bayesian modeling of individual differences in mathematical cognition/
 - 2022-2023, National Science Foundation / Mathematical Association of America, National Research Experiences for Undergraduates Program (NREUP), $29,425. /CMAT: Computational Mathematics at Tarleton/
 - 2022 (summer), Tarleton State University, President's Excellence in Research Scholars (PERS), $29,993. /Tarleton Researchers in Computational Mathematics/.
@@ -390,7 +407,7 @@ Website: [[http://tomfaulkenberry.github.io]]
 ** Editorial roles
 - Managing Editor (2026-present): /Journal of Psychological Inquiry/
 - Associate Editor (2025-present): /Journal of Numerical Cognition)
-- Associate Editor (2024-present): /Behavior Research Methods/
+- Associate Editor (2024-2026): /Behavior Research Methods/
 - Guest Editor (2023-2025): /Canadian Journal of Experimental Psychology/
 - Associate Editor (2016-2025): /Journal of Psychological Inquiry/
 - Editorial Board (2019-2024): /Journal of Numerical Cognition/
@@ -494,9 +511,9 @@ Tarleton State University
 ** Student Mentoring
 *** Doctoral Dissertation Chair
 - Kate Sims (Experimental Psychology, Tarleton, in progress)
-
+- Steven McMullin (Experimental Psychology, Tarleton, in progress)
 *** Masters Thesis Chair
-- Steven McMullin (Applied Psychology, Tarleton, in progress)
+- Steven McMullin (Applied Psychology, Tarleton, graduated 2026)
 - Landry Smith (Applied Psychology, Tarleton, graduated 2025)
 - Keelyn Brennan (Applied Psychology, Tarleton, graduated 2023)
 - Bryanna Scheuler (Applied Psychology, Tarleton, graduated 2022)
@@ -516,6 +533,7 @@ Tarleton State University
 - Donna Peters (Psychology, TAMU-C, graduated 2013)
 	
 *** Masters Committees
+- Nicole Bennet (Child and Family Studies, Tarleton, graduated 2026)
 - Shanna Coury (Psychology, TAMU-C, graduated 2025)
 - Sam Arthur (Psychology, Tarleton, graduated 2023)
 - Simon Rook (Applied Psychology, Tarleton, graduated 2022)
