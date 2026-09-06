@@ -63,8 +63,34 @@
     
   </head>
   <body>
-    
+    <div id="psystat-loading">
+      <div class="psystat-spinner"></div>
+      <div>Loading PsyStat&hellip;</div>
+      <div class="psystat-subtext">(first load can take 15&ndash;30 seconds)</div>
+    </div>
     <div style="height: 100vh; width: 100vw" id="root"></div>
-    
+    <script>
+      (function () {
+        var overlay = document.getElementById("psystat-loading");
+        var attempts = 0;
+        var maxAttempts = 200; // ~200 * 300ms = 60s safety cap
+        var timer = setInterval(function () {
+          attempts++;
+          var iframe = document.querySelector("#root iframe");
+          var ready = false;
+          try {
+            ready = !!(iframe && iframe.contentDocument &&
+              iframe.contentDocument.querySelector(".navbar"));
+          } catch (e) {
+            ready = false;
+          }
+          if (ready || attempts >= maxAttempts) {
+            clearInterval(timer);
+            overlay.style.opacity = "0";
+            setTimeout(function () { overlay.remove(); }, 300);
+          }
+        }, 300);
+      })();
+    </script>
   </body>
 </html>
