@@ -3,7 +3,49 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shiny App</title>
+    <title>PsyStat</title>
+    <meta name="description" content="A free, browser-based calculator for probabilities and Bayes factors (t-tests, correlations, ANOVA) -- companion app to Psychological Statistics: The Basics." />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tomfaulkenberry.github.io/psystat/" />
+    <meta property="og:title" content="PsyStat" />
+    <meta property="og:description" content="A free, browser-based calculator for probabilities and Bayes factors (t-tests, correlations, ANOVA) -- companion app to Psychological Statistics: The Basics." />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PsyStat" />
+    <meta name="twitter:description" content="A free, browser-based calculator for probabilities and Bayes factors (t-tests, correlations, ANOVA) -- companion app to Psychological Statistics: The Basics." />
+
+    <style>
+      #psystat-loading {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1em;
+        background: #ffffff;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        color: #4F2D7F;
+        transition: opacity 0.3s ease;
+      }
+      #psystat-loading .psystat-spinner {
+        width: 40px;
+        height: 40px;
+        border: 4px solid #e5ddf0;
+        border-top-color: #4F2D7F;
+        border-radius: 50%;
+        animation: psystat-spin 0.8s linear infinite;
+      }
+      #psystat-loading .psystat-subtext {
+        font-size: 0.85em;
+        color: #777;
+      }
+      @keyframes psystat-spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
     <script
       src="./shinylive/load-shinylive-sw.js"
       type="module"
